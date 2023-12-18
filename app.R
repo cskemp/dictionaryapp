@@ -5,13 +5,11 @@ library(ggrepel)
 library(maps)
 library(sf)
 
-# Top 5%: above 8.7
-# Top 1%: above 16.2
-# Top 0.1%: above 37.6
-
-plo <- read_csv(here("data", "dictionary_app_stats.csv")) %>%
+plo <- read_csv(here("data", "anylex_app_stats.csv")) %>%
   arrange(langname_data) %>%
   arrange(word)
+
+top_thresh <- quantile(plo$log_odds_weighted, probs = c(0.95))
 
 posns <- plo %>%
   select(gcode_data, longitude_data, latitude_data) %>%
@@ -96,7 +94,7 @@ server <- function(input, output, session) {
         #head(n=20) %>%
         head(n=10) %>%
         mutate(langname_data= fct_reorder(langname_data, desc(log_odds_weighted))) %>%
-        mutate(barcolor= if_else(log_odds_weighted > 8.7, "#F8766D", "grey30"))
+        mutate(barcolor= if_else(log_odds_weighted > top_thresh, "#F8766D", "grey30"))
 
       ggplot(selected_char , aes(x = langname_data, y = log_odds_weighted, label = gcode_data)) +
         #geom_bar(stat="identity", fill = "#F8766D" , color ="#F8766D") +
@@ -117,7 +115,7 @@ server <- function(input, output, session) {
         filter(word== input$word) %>%
         arrange(desc(log_odds_weighted)) %>%
         #head(n=20) %>%
-        filter(log_odds_weighted >8.7) %>% # top 5
+        filter(log_odds_weighted > top_thresh) %>% # top 5
         select(-latitude_data, -longitude_data) %>%
         left_join(posns, by = c("gcode_data"))
 
