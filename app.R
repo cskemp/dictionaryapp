@@ -5,7 +5,7 @@ library(ggrepel)
 library(maps)
 library(sf)
 
-plo <- read_csv(here("data", "anylex_app_stats.csv")) %>%
+plo <- read_csv(here("data", "bila_app_stats.csv")) %>%
   arrange(langname_data) %>%
   arrange(word)
 
