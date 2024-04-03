@@ -5,15 +5,14 @@ library(ggrepel)
 library(maps)
 library(sf)
 
-<<<<<<< HEAD
+nterms <- 2000
+
 # on local machine can use bila_app_stats_6000.csv.gz
-# if so change maxOptions in two places later
-plo <- read_csv(here("data", "bila_app_stats_2000.csv")) %>%
+# if so change nterms above
+
+# use uncompressed file when deploying to shinyapps.io
+plo <- read_csv(here("data", "bila_app_stats_2000.csv.gz")) %>%
   arrange(langname) %>%
-=======
-plo <- read_csv(here("data", "bila_app_stats.csv")) %>%
-  arrange(langname_data) %>%
->>>>>>> 5cf9089ae1343046c12dfb1b69c38a6c6bea4b22
   arrange(word)
 
 top_thresh <- quantile(plo$zeta, probs = c(0.95))
@@ -36,8 +35,8 @@ ui = fluidPage(
     tabPanel("Dictionary", fluid = TRUE,
              fluidRow(
                 column(4,
-                    selectizeInput("word", "Choose a word:", choices = NULL, options= list(maxOptions = 2000)),
-                    selectizeInput("language", "Choose a language:", choices = NULL, options= list(maxOptions = 2000)),
+                    selectizeInput("word", "Choose a word:", choices = NULL, options= list(maxOptions = nterms)),
+                    selectizeInput("language", "Choose a language:", choices = NULL, options= list(maxOptions = nterms)),
                 ),
                 column(8,
                   div(style = "height:350px;",
