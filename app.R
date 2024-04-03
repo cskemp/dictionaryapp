@@ -5,10 +5,15 @@ library(ggrepel)
 library(maps)
 library(sf)
 
+<<<<<<< HEAD
 # on local machine can use bila_app_stats_6000.csv.gz
 # if so change maxOptions in two places later
 plo <- read_csv(here("data", "bila_app_stats_2000.csv")) %>%
   arrange(langname) %>%
+=======
+plo <- read_csv(here("data", "bila_app_stats.csv")) %>%
+  arrange(langname_data) %>%
+>>>>>>> 5cf9089ae1343046c12dfb1b69c38a6c6bea4b22
   arrange(word)
 
 top_thresh <- quantile(plo$zeta, probs = c(0.95))
