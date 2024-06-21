@@ -11,9 +11,12 @@ nterms <- 2000
 # if so change nterms above
 
 # use uncompressed file when deploying to shinyapps.io
-plo <- read_csv(here("data", "bila_app_stats_2000.csv.gz")) %>%
+plo <- read_csv(here("data", "bila_app_stats_2000.csv")) %>%
   arrange(langname) %>%
   arrange(word)
+
+nns <- read_csv(here("data", "bila_app_nn_2000.csv")) %>%
+  mutate(i = -i)
 
 top_thresh <- quantile(plo$zeta, probs = c(0.95))
 
@@ -34,15 +37,20 @@ ui = fluidPage(
   tabsetPanel(
     tabPanel("Dictionary", fluid = TRUE,
              fluidRow(
-                column(4,
+                column(3,
                     selectizeInput("word", "Choose a word:", choices = NULL, options= list(maxOptions = nterms)),
                     selectizeInput("language", "Choose a language:", choices = NULL, options= list(maxOptions = nterms)),
                 ),
-                column(8,
+                column(6,
                   div(style = "height:350px;",
                     plotOutput("lang_strength_plot", height = "100%"),
                   )
-                )
+                ),
+                column(3,
+                  div(style = "height:320px;",
+                    plotOutput("nn_plot", height = "100%"),
+                  )
+                ),
              ),
              fluidRow(
                column(4,
@@ -64,15 +72,30 @@ server <- function(input, output, session) {
   observe({updateSelectizeInput(session, 'word', choices = unique(plo$word), server = TRUE) })
   observe({updateSelectizeInput(session, 'language', choices = unique(plo$langname), server = TRUE) })
 
+  output$nn_plot<- renderPlot({
+    if (length(input$word) > 0 && input$word != '') { # don't plot anything until a word has been selected
+      this_nns <- nns %>%
+        filter(word == input$word)
+
+      ggplot(this_nns, aes(x = 1, y = i, label = neighbour)) +
+        geom_text(hjust = 0, x = -0.00) +
+        xlim(-0.75,1.25) +
+        theme_void(base_size = 14) +
+        labs(title = paste("Words related to", input$word))
+
+    }
+  })
+
   output$lang_strength_plot<- renderPlot({
     if (length(input$word) > 0 && input$word != '') { # don't plot anything until a word has been selected
       selected_char <- plo %>%
         filter(word== input$word) %>%
         arrange(desc(zeta)) %>%
         #head(n=20) %>%
+        mutate(cutoff = quantile(zeta, 0.95)) %>%
         head(n=10) %>%
         mutate(langname= fct_reorder(langname, desc(zeta))) %>%
-        mutate(barcolor= if_else(zeta > top_thresh, "#F8766D", "grey30"))
+        mutate(barcolor= if_else(zeta > cutoff, "#F8766D", "grey30"))
 
       ggplot(selected_char , aes(x = langname, y = zeta, label = glottocode)) +
         #geom_bar(stat="identity", fill = "#F8766D" , color ="#F8766D") +
@@ -93,7 +116,9 @@ server <- function(input, output, session) {
         filter(word== input$word) %>%
         arrange(desc(zeta)) %>%
         #head(n=20) %>%
-        filter(zeta > top_thresh) %>% # top 5
+        #filter(zeta > top_thresh) %>% # top 5
+        mutate(cutoff = quantile(zeta, 0.95)) %>%
+        filter(zeta > cutoff) %>%
         select(-latitude, -longitude) %>%
         left_join(posns, by = c("glottocode"))
 
