@@ -34,8 +34,8 @@ chartheme <-  theme_classic(base_size = 14)  +
 theme_set(chartheme)
 
 ui = fluidPage(
-  tabsetPanel(
-    tabPanel("Dictionary", fluid = TRUE,
+  #tabsetPanel(
+  #  tabPanel("Dictionary", fluid = TRUE,
              fluidRow(
                 column(3,
                     selectizeInput("word", "Choose a word:", choices = NULL, options= list(maxOptions = nterms)),
@@ -64,8 +64,8 @@ ui = fluidPage(
                   )
                )
              )
-    )
-  )
+  #  )
+  #)
 )
 
 server <- function(input, output, session) {
