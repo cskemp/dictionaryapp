@@ -1,4 +1,4 @@
-# dictionaryapp
+# Lexical Elaboration Explorer
 
 This repository contains source code for the [app]( https://www.charleskemp.com/code/lexicalelaboration.html) that accompanies
 
