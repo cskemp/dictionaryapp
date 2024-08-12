@@ -1,6 +1,6 @@
 # dictionaryapp
 
-This repository contains source code for the [app]( https://www.charleskemp.com/code/lexicalelaboration.html) 
+This repository contains source code for the [app]( https://www.charleskemp.com/code/lexicalelaboration.html) that accompanies
 
 Khishigsuren, Regier, Vylomova and Kemp, A computational analysis of lexical elaboration across languages
 
