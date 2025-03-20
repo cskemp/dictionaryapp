@@ -38,7 +38,7 @@ theme_set(chartheme)
 ui = fluidPage(
 
   fluidRow(
-    column(6, selectizeInput("word", "Choose a word:", choices = NULL, options= list(maxOptions = nterms))),
+    column(6, selectizeInput("word", "Choose a concept:", choices = NULL, options= list(maxOptions = nterms))),
     column(6, selectizeInput("language", "Choose a language:", choices = NULL, options= list(maxOptions = nterms)))
   ),
 
@@ -114,7 +114,7 @@ server <- function(input, output, session) {
         annotate("text", x = 0.5, y = 0.5, label = wrapped_words, size = 5, hjust = 0.5) +  # Centered text
         theme_void(base_size = 12) +
         theme(plot.title = element_text(hjust = 0.5, size = 16)) +
-        labs(title = paste("Words related to", input$word))
+        labs(title = paste("Concepts related to", input$word))
     }
   })
 
@@ -173,7 +173,7 @@ server <- function(input, output, session) {
       ggplot(selected_char, aes(x = word, y = zeta, label = word)) +
         geom_bar(stat="identity", fill = "#add8e6", color ="#add8e6") +
         scale_x_discrete(labels = selected_char$word) +
-        labs(x = "Word", y = "Score", title = paste("Top scores for", input$language)) +
+        labs(x = "Concept", y = "Score", title = paste("Top scores for", input$language)) +
         theme(plot.title = element_text(hjust = 0.4, size = 16))  +
         coord_flip()
     }
