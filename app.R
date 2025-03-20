@@ -174,7 +174,7 @@ server <- function(input, output, session) {
         geom_bar(stat="identity", fill = "#add8e6", color ="#add8e6") +
         scale_x_discrete(labels = selected_char$word) +
         labs(x = "Word", y = "Score", title = paste("Top scores for", input$language)) +
-        theme(plot.title = element_text(hjust = 0.4, size = 15))  +
+        theme(plot.title = element_text(hjust = 0.4, size = 16))  +
         coord_flip()
     }
   })
