@@ -87,21 +87,6 @@ server <- function(input, output, session) {
   observe({updateSelectizeInput(session, 'word', choices = unique(plo$word), server = TRUE) })
   observe({updateSelectizeInput(session, 'language', choices = unique(plo$langname), server = TRUE) })
 
-  # output$nn_plot<- renderPlot({
-  #   if (length(input$word) > 0 && input$word != '') { # don't plot anything until a word has been selected
-  #     this_nns <- nns %>%
-  #       filter(word == input$word)
-  #
-  #     ggplot(this_nns, aes(x = 1, y = i, label = neighbour)) +
-  #       geom_text(hjust = 0, x = -0.00) +
-  #       xlim(-0.75,1.25) +
-  #       theme_void(base_size = 14) +
-  #       theme(plot.title = element_text(hjust = 0.1, size = 15))  +
-  #       labs(title = paste("Words related to", input$word))
-  #
-  #   }
-  # })
-
   output$nn_plot <- renderPlot({
     if (length(input$word) > 0 && input$word != '') {  # Don't plot until a word is selected
       this_nns <- nns %>%
@@ -202,9 +187,9 @@ server <- function(input, output, session) {
   output$nl_plot <- renderPlot({
     if (length(input$language) > 0 && input$language != '') {  # Don't plot until a language is selected
       this_nls <- nls %>%
-        filter(lang_a == input$language)
+        filter(langs == input$language)
 
-      words_text <- paste(this_nls$lang_b, collapse = ", ")
+      words_text <- paste(this_nls$neighbour, collapse = ", ")
       wrapped_words <- str_wrap(words_text, width = 60)
 
       ggplot() +
