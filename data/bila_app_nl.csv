@@ -8,52 +8,42 @@ langs,neighbour,i
 'Are'are,Futuna-Aniwa,7
 'Are'are,Toaripi,8
 'Are'are,Mota,9
-'Are'are,Bughotu,10
+'Are'are,Mailu,10
 Abua,Izon,1
 Abua,Tee,2
 Abua,Igbo,3
-Abua,Tangale,4
-Abua,Bassa,5
-Abua,Chung,6
-Abua,Urhobo,7
+Abua,Bassa,4
+Abua,Tangale,5
+Abua,Urhobo,6
+Abua,Chung,7
 Abua,Ncane-Mungong,8
 Abua,Kinshasa Lingala,9
-Abua,Lega-Shabunda,10
+Abua,Esan,10
 Adnyamathanha,Martu Wangka,1
 Adnyamathanha,Wirangu,2
-Adnyamathanha,Warlpiri,3
-Adnyamathanha,Western Victoria,4
+Adnyamathanha,Western Victoria,3
+Adnyamathanha,Warlpiri,4
 Adnyamathanha,Kumbainggar,5
 Adnyamathanha,Yankunytjatjara,6
 Adnyamathanha,Tweed-Albert,7
 Adnyamathanha,Jingulu,8
 Adnyamathanha,Muruwari,9
 Adnyamathanha,Nugunu,10
-Adyghe,Javanese,1
-Adyghe,Unami,2
-Adyghe,Dzongkha,3
-Adyghe,Leh Ladakhi,4
-Adyghe,Tuvinian,5
-Adyghe,Goan Konkani,6
-Adyghe,Haitian,7
-Adyghe,Belarusian,8
-Adyghe,Chadian Arabic,9
-Adyghe,Western Neo-Aramaic,10
-Afrikaans,Danish,1
-Afrikaans,Norwegian,2
-Afrikaans,German,3
+Afrikaans,Norwegian,1
+Afrikaans,Danish,2
+Afrikaans,Finnish,3
 Afrikaans,Polish,4
-Afrikaans,Finnish,5
+Afrikaans,Hungarian,5
 Afrikaans,Swedish,6
-Afrikaans,Hungarian,7
-Afrikaans,Slovenian,8
+Afrikaans,Slovenian,7
+Afrikaans,Russian,8
 Afrikaans,French,9
-Afrikaans,Dutch,10
+Afrikaans,Spanish,10
 Agusan Manobo,Western Bukidnon Manobo,1
 Agusan Manobo,Paiwan,2
 Agusan Manobo,Casiguran-Nagtipunan Agta,3
-Agusan Manobo,Central Bontoc,4
-Agusan Manobo,Tboli,5
+Agusan Manobo,Tboli,4
+Agusan Manobo,Central Bontoc,5
 Agusan Manobo,Tetum,6
 Agusan Manobo,Chepang,7
 Agusan Manobo,Maguindanao,8
@@ -77,8 +67,8 @@ Akan,Herero,5
 Akan,East Limba,6
 Akan,Western Temne,7
 Akan,Nupe-Nupe-Tako,8
-Akan,Bini,9
-Akan,Tee,10
+Akan,Tee,9
+Akan,Bini,10
 Akawaio-Ingariko,Warao,1
 Akawaio-Ingariko,Mbay,2
 Akawaio-Ingariko,Mag-Anchi Ayta,3
@@ -87,8 +77,8 @@ Akawaio-Ingariko,Rongga,5
 Akawaio-Ingariko,Kómnjo,6
 Akawaio-Ingariko,Arta,7
 Akawaio-Ingariko,Mansaka,8
-Akawaio-Ingariko,Doromu-Koki,9
-Akawaio-Ingariko,Lokono,10
+Akawaio-Ingariko,Lokono,9
+Akawaio-Ingariko,Agusan Manobo,10
 Akha,Rungus,1
 Akha,Hmong Daw,2
 Akha,Hmong Njua,3
@@ -108,7 +98,7 @@ Akkadian,Jewish Babylonian Aramaic,6
 Akkadian,Ancient Hebrew,7
 Akkadian,Judeo-Yemeni Arabic,8
 Akkadian,Leh Ladakhi,9
-Akkadian,Neo-Mandaic,10
+Akkadian,Southern Hindko,10
 Alabama,Koasati,1
 Alabama,Creek,2
 Alabama,Northwest Sahaptin,3
@@ -117,23 +107,23 @@ Alabama,Cahuilla,5
 Alabama,Eastern Ojibwa,6
 Alabama,Comanche,7
 Alabama,Navajo,8
-Alabama,Yaqui,9
-Alabama,Shoshoni,10
+Alabama,Shoshoni,9
+Alabama,Yaqui,10
 Aleut,Central Siberian Yupik,1
-Aleut,Nuu-chah-nulth,2
-Aleut,Kwak'wala,3
+Aleut,Kwak'wala,2
+Aleut,Nuu-chah-nulth,3
 Aleut,Ahtena,4
 Aleut,Dena'ina,5
-Aleut,Upper Chehalis,6
-Aleut,Tanacross,7
+Aleut,Tanacross,6
+Aleut,Upper Chehalis,7
 Aleut,Bella Coola,8
-Aleut,Haisla,9
-Aleut,Squamish,10
+Aleut,Squamish,9
+Aleut,Haisla,10
 Amharic,Tigrinya,1
 Amharic,Ndonga,2
 Amharic,West Central Oromo,3
-Amharic,Western Parbate Kham,4
-Amharic,Judeo-Yemeni Arabic,5
+Amharic,Judeo-Yemeni Arabic,4
+Amharic,Western Parbate Kham,5
 Amharic,Mushungulu,6
 Amharic,Luo,7
 Amharic,Standard Arabic,8
@@ -158,17 +148,17 @@ Andalusian Arabic,Ladino,6
 Andalusian Arabic,Khotanese,7
 Andalusian Arabic,Western Neo-Aramaic,8
 Andalusian Arabic,Central Kurdish,9
-Andalusian Arabic,Neo-Mandaic,10
+Andalusian Arabic,Standard Arabic,10
 Aneityum,Futuna-Aniwa,1
 Aneityum,Mele-Fila,2
-Aneityum,Mailu,3
-Aneityum,Sie,4
+Aneityum,Sie,3
+Aneityum,Mailu,4
 Aneityum,Lenakel,5
 Aneityum,Vurës,6
 Aneityum,Dakaka,7
-Aneityum,Lou,8
-Aneityum,Gela,9
-Aneityum,Mota,10
+Aneityum,Gela,8
+Aneityum,Mota,9
+Aneityum,Lou,10
 Angguruk Yali,Wampar,1
 Angguruk Yali,Yabem,2
 Angguruk Yali,Kómnjo,3
@@ -184,15 +174,15 @@ Anufo,Tumulung Sisaala,2
 Anufo,Buli,3
 Anufo,Tampulma,4
 Anufo,Mandinka,5
-Anufo,Mbay,6
-Anufo,Mungaka,7
+Anufo,Mungaka,6
+Anufo,Mbay,7
 Anufo,Dagbani,8
 Anufo,Mampruli,9
 Anufo,Gade,10
 Ao Naga,S'gaw Karen,1
 Ao Naga,Ho,2
-Ao Naga,Mizo,3
-Ao Naga,Sundanese,4
+Ao Naga,Sundanese,3
+Ao Naga,Mizo,4
 Ao Naga,Nyanja,5
 Ao Naga,Southern Jinghpaw,6
 Ao Naga,Kurukh,7
@@ -203,32 +193,32 @@ Arapaho,Northwest Sahaptin,1
 Arapaho,Havasupai-Walapai-Yavapai,2
 Arapaho,Tanacross,3
 Arapaho,Jicarilla Apache,4
-Arapaho,Kwak'wala,5
-Arapaho,Comanche,6
+Arapaho,Comanche,5
+Arapaho,Kwak'wala,6
 Arapaho,Navajo,7
 Arapaho,Yaqui,8
 Arapaho,Shoshoni,9
-Arapaho,Arikara,10
+Arapaho,Western Apache,10
 Arikara,Comanche,1
 Arikara,Creek,2
 Arikara,Northwest Sahaptin,3
 Arikara,Havasupai-Walapai-Yavapai,4
 Arikara,Osage,5
-Arikara,Navajo,6
-Arikara,Alabama,7
+Arikara,Alabama,6
+Arikara,Navajo,7
 Arikara,Koasati,8
-Arikara,Tanacross,9
-Arikara,Cahuilla,10
+Arikara,Cahuilla,9
+Arikara,Tanacross,10
 Aromanian,Breton,1
 Aromanian,Plautdietsch,2
-Aromanian,Eastern Yiddish,3
-Aromanian,Ladino,4
+Aromanian,Ladino,3
+Aromanian,Eastern Yiddish,4
 Aromanian,Spanish,5
 Aromanian,Moroccan Arabic,6
-Aromanian,Kazakh,7
+Aromanian,Sicilian,7
 Aromanian,Kuanyama,8
-Aromanian,North Azerbaijani,9
-Aromanian,Sicilian,10
+Aromanian,French,9
+Aromanian,North Azerbaijani,10
 Arosi,Lau,1
 Arosi,Gela,2
 Arosi,'Are'are,3
@@ -244,11 +234,11 @@ Arta,Mag-Anchi Ayta,2
 Arta,Mansaka,3
 Arta,Rongga,4
 Arta,Larike-Wakasihu,5
-Arta,Tboli,6
-Arta,Casiguran-Nagtipunan Agta,7
+Arta,Casiguran-Nagtipunan Agta,6
+Arta,Tboli,7
 Arta,Akawaio-Ingariko,8
-Arta,Muna,9
-Arta,Thao,10
+Arta,Thao,9
+Arta,Muna,10
 Assamese,Gujarati,1
 Assamese,Bodo-Mech,2
 Assamese,Odia,3
@@ -277,35 +267,35 @@ Ata,Kómnjo,5
 Ata,Telefol,6
 Ata,Misima-Paneati,7
 Ata,'Are'are,8
-Ata,Nen,9
-Ata,West Kewa,10
+Ata,West Kewa,9
+Ata,Nen,10
 Atakapa,Shoshoni,1
 Atakapa,Tonkawa,2
 Atakapa,Koasati,3
 Atakapa,Upper Chehalis,4
 Atakapa,Powhatan,5
 Atakapa,Coast Miwok,6
-Atakapa,Louisiana Creole French,7
-Atakapa,Pidgin Chinook Jargon,8
+Atakapa,Pidgin Chinook Jargon,7
+Atakapa,Louisiana Creole French,8
 Atakapa,Osage,9
 Atakapa,Jicarilla Apache,10
 Atayal,Cayubaba,1
 Atayal,Suau,2
 Atayal,Chantyal,3
-Atayal,Hmong Daw,4
-Atayal,Arta,5
+Atayal,Arta,4
+Atayal,Hmong Daw,5
 Atayal,Mampruli,6
 Atayal,Thao,7
-Atayal,Jicarilla Apache,8
-Atayal,Rongga,9
+Atayal,Rongga,8
+Atayal,Jicarilla Apache,9
 Atayal,Katë,10
 Avestan,Pali,1
 Avestan,Khwarezmian,2
 Avestan,Khotanese,3
 Avestan,Sanskrit,4
 Avestan,Lycian A,5
-Avestan,Neo-Mandaic,6
-Avestan,Icelandic,7
+Avestan,Icelandic,6
+Avestan,Neo-Mandaic,7
 Avestan,Latin,8
 Avestan,Classical Syriac,9
 Avestan,Sinhala,10
@@ -314,27 +304,27 @@ Awa,Yabem,2
 Awa,Telefol,3
 Awa,Malecite-Passamaquoddy,4
 Awa,Eastern Canadian Inuktitut,5
-Awa,Kyaka,6
-Awa,Plains Cree,7
-Awa,West Kewa,8
-Awa,Ipai,9
+Awa,Plains Cree,6
+Awa,Kyaka,7
+Awa,Ipai,8
+Awa,West Kewa,9
 Awa,Wampar,10
 Baba Malay,Malacca-Batavia Portuguese Creole,1
 Baba Malay,Wu Chinese,2
 Baba Malay,Caribbean Hindustani,3
 Baba Malay,Pampanga,4
-Baba Malay,Besisi,5
-Baba Malay,Sembakung Murut,6
-Baba Malay,Pangasinan,7
-Baba Malay,Ga,8
+Baba Malay,Sembakung Murut,5
+Baba Malay,Besisi,6
+Baba Malay,Ga,7
+Baba Malay,Pangasinan,8
 Baba Malay,Urak Lawoi',9
 Baba Malay,Tausug,10
 Badaga,Manda,1
 Badaga,Kathmandu Valley Newari,2
 Badaga,Mundari,3
 Badaga,Caribbean Hindustani,4
-Badaga,Saurashtra,5
-Badaga,Maithili,6
+Badaga,Maithili,5
+Badaga,Saurashtra,6
 Badaga,Mahasu Pahari,7
 Badaga,Bambara,8
 Badaga,Bondo,9
@@ -355,8 +345,8 @@ Balinese,Rade,3
 Balinese,Tai Nüa,4
 Balinese,Rabha,5
 Balinese,Lundayeh,6
-Balinese,Iban,7
-Balinese,Rongga,8
+Balinese,Rongga,7
+Balinese,Iban,8
 Balinese,Mon,9
 Balinese,Urak Lawoi',10
 Bambara,Beng,1
@@ -368,7 +358,7 @@ Bambara,Mungaka,6
 Bambara,Borana-Arsi-Guji Oromo,7
 Bambara,Tangale,8
 Bambara,Buli,9
-Bambara,Bini,10
+Bambara,Izon,10
 Bantawa,Limbu,1
 Bantawa,Rade,2
 Bantawa,Tai Nüa,3
@@ -378,17 +368,17 @@ Bantawa,Paiwan,6
 Bantawa,Naro,7
 Bantawa,Nung,8
 Bantawa,Manda,9
-Bantawa,Khasi,10
+Bantawa,Chepang,10
 Baram Kayan,Iban,1
 Baram Kayan,Biatah Bidayuh,2
 Baram Kayan,Lundayeh,3
 Baram Kayan,Muna,4
 Baram Kayan,Tboli,5
 Baram Kayan,Thao,6
-Baram Kayan,Mansaka,7
-Baram Kayan,Chepang,8
+Baram Kayan,Chepang,7
+Baram Kayan,Mansaka,8
 Baram Kayan,Rabha,9
-Baram Kayan,Mizo,10
+Baram Kayan,Shona,10
 Bardi,Tiwi,1
 Bardi,Yir-Yoront,2
 Bardi,Ngalkbun,3
@@ -403,8 +393,8 @@ Bassa,Zigula-Mushungulu,1
 Bassa,Ncane-Mungong,2
 Bassa,Chung,3
 Bassa,Bafanji,4
-Bassa,East Limba,5
-Bassa,Abua,6
+Bassa,Abua,5
+Bassa,East Limba,6
 Bassa,Nupe-Nupe-Tako,7
 Bassa,Zande,8
 Bassa,Tsonga,9
@@ -412,8 +402,8 @@ Bassa,Karamojong,10
 Batad Ifugao,Central Bontoc,1
 Batad Ifugao,Tboli,2
 Batad Ifugao,Western Bukidnon Manobo,3
-Batad Ifugao,Agusan Manobo,4
-Batad Ifugao,Romblomanon,5
+Batad Ifugao,Romblomanon,4
+Batad Ifugao,Agusan Manobo,5
 Batad Ifugao,Yakan,6
 Batad Ifugao,Rungus,7
 Batad Ifugao,Paiwan,8
@@ -444,11 +434,11 @@ Beja,Sidamo,2
 Beja,Pulaar,3
 Beja,Iraqw,4
 Beja,Central Kanuri,5
-Beja,Western Panjabi,6
-Beja,Zigula-Mushungulu,7
+Beja,Zigula-Mushungulu,6
+Beja,Western Panjabi,7
 Beja,Southwestern Dinka,8
 Beja,Gaam,9
-Beja,Nandi,10
+Beja,Shatt,10
 Belanda Bor,Bongo,1
 Belanda Bor,Reel,2
 Belanda Bor,Shatt,3
@@ -459,12 +449,12 @@ Belanda Bor,Mandari,7
 Belanda Bor,Ncane-Mungong,8
 Belanda Bor,Lega-Shabunda,9
 Belanda Bor,Bassa,10
-Belarusian,Western Frisian,1
-Belarusian,Serbian-Croatian-Bosnian,2
+Belarusian,Serbian-Croatian-Bosnian,1
+Belarusian,Western Frisian,2
 Belarusian,Galician,3
 Belarusian,Western Flemish,4
-Belarusian,Upper Sorbian,5
-Belarusian,Georgian,6
+Belarusian,Georgian,5
+Belarusian,Upper Sorbian,6
 Belarusian,Papiamento,7
 Belarusian,Slovenian,8
 Belarusian,Lithuanian,9
@@ -478,26 +468,26 @@ Bella Coola,Northwest Sahaptin,6
 Bella Coola,Eastern Ojibwa,7
 Bella Coola,North Alaskan Inupiatun,8
 Bella Coola,Cahuilla,9
-Bella Coola,Tanacross,10
+Bella Coola,Dena'ina,10
 Bemba,Mambwe-Lungu,1
 Bemba,Lozi,2
 Bemba,Venda,3
 Bemba,Nyanja,4
 Bemba,Mungaka,5
-Bemba,Ndonga,6
-Bemba,Ganda,7
-Bemba,Lamba,8
-Bemba,Southern Sotho,9
-Bemba,Zulu,10
+Bemba,Ganda,6
+Bemba,Ndonga,7
+Bemba,Southern Sotho,8
+Bemba,Lamba,9
+Bemba,Nuer,10
 Beng,Bambara,1
 Beng,Lega-Shabunda,2
 Beng,Hmong Njua,3
-Beng,Igbo,4
-Beng,Ibibio,5
+Beng,Ibibio,4
+Beng,Igbo,5
 Beng,Kxoe,6
-Beng,Besisi,7
-Beng,Ga,8
-Beng,Sango,9
+Beng,Ga,7
+Beng,Besisi,8
+Beng,Liberia Kpelle,9
 Beng,Mbay,10
 Bengali,Sanskrit,1
 Bengali,Malayalam,2
@@ -516,23 +506,23 @@ Berom,Urhobo,4
 Berom,Tee,5
 Berom,Esan,6
 Berom,Mwaghavul,7
-Berom,Masai,8
-Berom,Filipino,9
-Berom,Buli,10
+Berom,Filipino,8
+Berom,Buli,9
+Berom,Masai,10
 Besisi,Urak Lawoi',1
 Besisi,Agusan Manobo,2
 Besisi,Warao,3
 Besisi,Larike-Wakasihu,4
 Besisi,Casiguran-Nagtipunan Agta,5
 Besisi,Tetum,6
-Besisi,Hmong Njua,7
-Besisi,Kalamang,8
+Besisi,Kalamang,7
+Besisi,Hmong Njua,8
 Besisi,Kxoe,9
 Besisi,Lega-Shabunda,10
 Biatah Bidayuh,Baram Kayan,1
 Biatah Bidayuh,Iban,2
-Biatah Bidayuh,Rabha,3
-Biatah Bidayuh,Ho,4
+Biatah Bidayuh,Ho,3
+Biatah Bidayuh,Rabha,4
 Biatah Bidayuh,Shona,5
 Biatah Bidayuh,Chepang,6
 Biatah Bidayuh,S'gaw Karen,7
@@ -543,30 +533,30 @@ Bini,Esan,1
 Bini,Izon,2
 Bini,Mungaka,3
 Bini,Gbari,4
-Bini,Buli,5
-Bini,Tee,6
-Bini,Urhobo,7
+Bini,Urhobo,5
+Bini,Buli,6
+Bini,Tee,7
 Bini,Igbo,8
 Bini,Ibibio,9
 Bini,Ga,10
 Bislama,Tok Pisin,1
-Bislama,Tuvalu,2
-Bislama,Niuean,3
-Bislama,Paama,4
-Bislama,Tokelau,5
+Bislama,Niuean,2
+Bislama,Tuvalu,3
+Bislama,Tokelau,4
+Bislama,Paama,5
 Bislama,Tonga,6
 Bislama,Chamorro,7
-Bislama,Besisi,8
+Bislama,Swahili,8
 Bislama,Vurës,9
-Bislama,Swahili,10
+Bislama,Sie,10
 Bobangi,South-Central Koongo,1
 Bobangi,Kinshasa Lingala,2
-Bobangi,Central Nicobarese,3
-Bobangi,Zande,4
-Bobangi,Kuanyama,5
+Bobangi,Kuanyama,3
+Bobangi,Central Nicobarese,4
+Bobangi,Zande,5
 Bobangi,Ndau,6
-Bobangi,East-Central Tangkhul Naga,7
-Bobangi,Mara Chin,8
+Bobangi,Mara Chin,7
+Bobangi,East-Central Tangkhul Naga,8
 Bobangi,Yoruba,9
 Bobangi,Central Carrier,10
 Bodo-Mech,Odia,1
@@ -578,7 +568,7 @@ Bodo-Mech,Chang Naga,6
 Bodo-Mech,Portuguese,7
 Bodo-Mech,Bengali,8
 Bodo-Mech,Eastern Panjabi,9
-Bodo-Mech,Marathi,10
+Bodo-Mech,Eastern Armenian,10
 Boko,Bokobaru,1
 Boko,Busa,2
 Boko,Dagbani,3
@@ -602,8 +592,8 @@ Bokobaru,Gikyode,10
 Bolivar-North Chimborazo Highland Quichua,Media Lengua,1
 Bolivar-North Chimborazo Highland Quichua,Limbu,2
 Bolivar-North Chimborazo Highland Quichua,Cahuilla,3
-Bolivar-North Chimborazo Highland Quichua,West Central Oromo,4
-Bolivar-North Chimborazo Highland Quichua,Alabama,5
+Bolivar-North Chimborazo Highland Quichua,Alabama,4
+Bolivar-North Chimborazo Highland Quichua,West Central Oromo,5
 Bolivar-North Chimborazo Highland Quichua,Paiwan,6
 Bolivar-North Chimborazo Highland Quichua,Nandi,7
 Bolivar-North Chimborazo Highland Quichua,Havasupai-Walapai-Yavapai,8
@@ -623,20 +613,20 @@ Bongo,Reel,1
 Bongo,Belanda Bor,2
 Bongo,Shatt,3
 Bongo,Lopit,4
-Bongo,Chung,5
-Bongo,Mandari,6
+Bongo,Mandari,5
+Bongo,Chung,6
 Bongo,Lega-Shabunda,7
 Bongo,Bafanji,8
 Bongo,Ncane-Mungong,9
 Bongo,Bassa,10
 Borana-Arsi-Guji Oromo,Masai,1
-Borana-Arsi-Guji Oromo,West Central Oromo,2
-Borana-Arsi-Guji Oromo,Venda,3
+Borana-Arsi-Guji Oromo,Venda,2
+Borana-Arsi-Guji Oromo,West Central Oromo,3
 Borana-Arsi-Guji Oromo,Iraqw,4
 Borana-Arsi-Guji Oromo,Rendille,5
 Borana-Arsi-Guji Oromo,Dagbani,6
-Borana-Arsi-Guji Oromo,Sidamo,7
-Borana-Arsi-Guji Oromo,Bambara,8
+Borana-Arsi-Guji Oromo,Bambara,7
+Borana-Arsi-Guji Oromo,Sidamo,8
 Borana-Arsi-Guji Oromo,Buli,9
 Borana-Arsi-Guji Oromo,Mbay,10
 Border Kuna,Warao,1
@@ -647,28 +637,28 @@ Border Kuna,Guarayu,5
 Border Kuna,Liberia Kpelle,6
 Border Kuna,Larike-Wakasihu,7
 Border Kuna,Akawaio-Ingariko,8
-Border Kuna,Lega-Shabunda,9
-Border Kuna,Besisi,10
+Border Kuna,Besisi,9
+Border Kuna,Lega-Shabunda,10
 Brazilian Portuguese,Caló,1
 Brazilian Portuguese,Mexican Spanish,2
 Brazilian Portuguese,Singlish,3
 Brazilian Portuguese,Wu Chinese,4
-Brazilian Portuguese,Aromanian,5
-Brazilian Portuguese,Latin American Spanish,6
-Brazilian Portuguese,Media Lengua,7
+Brazilian Portuguese,Media Lengua,5
+Brazilian Portuguese,Aromanian,6
+Brazilian Portuguese,Latin American Spanish,7
 Brazilian Portuguese,Coastal-Naga Bikol,8
 Brazilian Portuguese,Wolof,9
 Brazilian Portuguese,Ladino,10
 Breton,Aromanian,1
 Breton,Central Kurdish,2
-Breton,Cornish,3
-Breton,Georgian,4
+Breton,Georgian,3
+Breton,Cornish,4
 Breton,Western Frisian,5
-Breton,Manx,6
-Breton,Belarusian,7
+Breton,Belarusian,6
+Breton,Manx,7
 Breton,Tuvinian,8
-Breton,Eastern Yiddish,9
-Breton,Sicilian,10
+Breton,Sicilian,9
+Breton,Eastern Yiddish,10
 Bughotu,Lau,1
 Bughotu,Arosi,2
 Bughotu,Gela,3
@@ -682,8 +672,8 @@ Bughotu,Mota,10
 Bulgarian,Mushungulu,1
 Bulgarian,Egyptian Arabic,2
 Bulgarian,Gilit Mesopotamian Arabic,3
-Bulgarian,Sanaani Arabic,4
-Bulgarian,Levantine Arabic,5
+Bulgarian,Levantine Arabic,4
+Bulgarian,Sanaani Arabic,5
 Bulgarian,Gulf Arabic,6
 Bulgarian,Tigrinya,7
 Bulgarian,Kadazan Dusun,8
@@ -707,8 +697,8 @@ Burmese,Standard Indonesian,5
 Burmese,Estonian,6
 Burmese,Standard Malay,7
 Burmese,Mandarin Chinese,8
-Burmese,Korean,9
-Burmese,Japanese,10
+Burmese,Japanese,9
+Burmese,Korean,10
 Busa,Bokobaru,1
 Busa,Boko,2
 Busa,Bassa,3
@@ -729,16 +719,6 @@ Cahuilla,Coast Miwok,7
 Cahuilla,Kiliwa,8
 Cahuilla,Northwest Sahaptin,9
 Cahuilla,Tohono O'odham,10
-Cajun French,Plautdietsch,1
-Cajun French,Spanish,2
-Cajun French,Eastern Yiddish,3
-Cajun French,Latin American Spanish,4
-Cajun French,Moselle Franconian,5
-Cajun French,Galician,6
-Cajun French,Italian,7
-Cajun French,Afrikaans,8
-Cajun French,Norwegian,9
-Cajun French,Chamorro,10
 Caló,Brazilian Portuguese,1
 Caló,Mexican Spanish,2
 Caló,Singlish,3
@@ -756,19 +736,19 @@ Caribbean Hindustani,Kathmandu Valley Newari,4
 Caribbean Hindustani,Badaga,5
 Caribbean Hindustani,Mundari,6
 Caribbean Hindustani,Maithili,7
-Caribbean Hindustani,Pangasinan,8
-Caribbean Hindustani,Malacca-Batavia Portuguese Creole,9
+Caribbean Hindustani,Malacca-Batavia Portuguese Creole,8
+Caribbean Hindustani,Pangasinan,9
 Caribbean Hindustani,Beng,10
 Carolinian,Marshallese,1
-Carolinian,Chuukese,2
-Carolinian,Mokilese,3
+Carolinian,Mokilese,2
+Carolinian,Chuukese,3
 Carolinian,Kapingamarangi,4
 Carolinian,Puluwatese,5
 Carolinian,Woleaian,6
 Carolinian,Pohnpeian,7
 Carolinian,Palauan,8
 Carolinian,Yapese,9
-Carolinian,Rennell-Bellona,10
+Carolinian,Kosraean,10
 Casiguran-Nagtipunan Agta,Western Bukidnon Manobo,1
 Casiguran-Nagtipunan Agta,Agusan Manobo,2
 Casiguran-Nagtipunan Agta,Paiwan,3
@@ -788,24 +768,24 @@ Cayubaba,Tohono O'odham,6
 Cayubaba,Lega-Shabunda,7
 Cayubaba,Chantyal,8
 Cayubaba,Warao,9
-Cayubaba,Thao,10
+Cayubaba,Suau,10
 Cebuano,Iloko,1
-Cebuano,Tausug,2
-Cebuano,Coastal-Naga Bikol,3
+Cebuano,Coastal-Naga Bikol,2
+Cebuano,Tausug,3
 Cebuano,Maguindanao,4
-Cebuano,Mapun,5
+Cebuano,Tagalog,5
 Cebuano,Masbatenyo,6
-Cebuano,Tagalog,7
+Cebuano,Mapun,7
 Cebuano,Yogad,8
 Cebuano,Waray,9
-Cebuano,Yakan,10
+Cebuano,Hiligaynon,10
 Central Bontoc,Tboli,1
 Central Bontoc,Paiwan,2
-Central Bontoc,Western Bukidnon Manobo,3
-Central Bontoc,Batad Ifugao,4
+Central Bontoc,Batad Ifugao,3
+Central Bontoc,Western Bukidnon Manobo,4
 Central Bontoc,Rungus,5
-Central Bontoc,Agusan Manobo,6
-Central Bontoc,Casiguran-Nagtipunan Agta,7
+Central Bontoc,Casiguran-Nagtipunan Agta,6
+Central Bontoc,Agusan Manobo,7
 Central Bontoc,Yao,8
 Central Bontoc,Tetum,9
 Central Bontoc,Chepang,10
@@ -850,45 +830,45 @@ Central Khmer,Vietnamese,8
 Central Khmer,Nepali,9
 Central Khmer,North Azerbaijani,10
 Central Kurdish,Turkish,1
-Central Kurdish,North Azerbaijani,2
-Central Kurdish,Breton,3
+Central Kurdish,Breton,2
+Central Kurdish,North Azerbaijani,3
 Central Kurdish,Kazakh,4
-Central Kurdish,Somali,5
+Central Kurdish,Leh Ladakhi,5
 Central Kurdish,Uighur,6
-Central Kurdish,Leh Ladakhi,7
+Central Kurdish,Somali,7
 Central Kurdish,Northern Tosk Albanian,8
-Central Kurdish,Nepali,9
-Central Kurdish,Tuvinian,10
+Central Kurdish,Tuvinian,9
+Central Kurdish,Nepali,10
 Central Malay,Malayo,1
 Central Malay,Manx,2
 Central Malay,Western Temne,3
 Central Malay,Mískito,4
 Central Malay,Scottish Gaelic,5
 Central Malay,Welsh,6
-Central Malay,Cornish,7
-Central Malay,Latin,8
-Central Malay,Mayan,9
-Central Malay,Kudmali,10
+Central Malay,Latin,7
+Central Malay,West Circassian,8
+Central Malay,Dzongkha,9
+Central Malay,Cornish,10
 Central Nicobarese,Nancowry,1
 Central Nicobarese,Samoan,2
 Central Nicobarese,Bobangi,3
-Central Nicobarese,Tangga,4
-Central Nicobarese,Dimasa,5
-Central Nicobarese,Roviana,6
-Central Nicobarese,Orokolo,7
-Central Nicobarese,Fijian,8
-Central Nicobarese,Raluana,9
-Central Nicobarese,Urak Lawoi',10
+Central Nicobarese,Dimasa,4
+Central Nicobarese,Tangga,5
+Central Nicobarese,Orokolo,6
+Central Nicobarese,Urak Lawoi',7
+Central Nicobarese,Roviana,8
+Central Nicobarese,Fijian,9
+Central Nicobarese,Raluana,10
 Central Siberian Yupik,Aleut,1
 Central Siberian Yupik,Ahtena,2
 Central Siberian Yupik,Tanacross,3
-Central Siberian Yupik,Nuu-chah-nulth,4
-Central Siberian Yupik,Dena'ina,5
+Central Siberian Yupik,Dena'ina,4
+Central Siberian Yupik,Nuu-chah-nulth,5
 Central Siberian Yupik,Western Canadian Inuktitut,6
 Central Siberian Yupik,Kwak'wala,7
 Central Siberian Yupik,Navajo,8
 Central Siberian Yupik,Northwest Sahaptin,9
-Central Siberian Yupik,Haisla,10
+Central Siberian Yupik,Jicarilla Apache,10
 Central Tarahumara,Mayan,1
 Central Tarahumara,Western Huasteca Nahuatl,2
 Central Tarahumara,Yaqui,3
@@ -899,26 +879,26 @@ Central Tarahumara,Hidatsa,7
 Central Tarahumara,Koasati,8
 Central Tarahumara,San Blas Kuna,9
 Central Tarahumara,Kalispel-Pend d'Oreille,10
-Chadian Arabic,Gaam,1
-Chadian Arabic,Tuvinian,2
+Chadian Arabic,Tuvinian,1
+Chadian Arabic,Gaam,2
 Chadian Arabic,Mandinka,3
-Chadian Arabic,Pulaar,4
-Chadian Arabic,Sidamo,5
-Chadian Arabic,Gambian Wolof,6
-Chadian Arabic,Wolof,7
-Chadian Arabic,Haitian,8
+Chadian Arabic,Sidamo,4
+Chadian Arabic,Pulaar,5
+Chadian Arabic,Haitian,6
+Chadian Arabic,Gambian Wolof,7
+Chadian Arabic,Wolof,8
 Chadian Arabic,Central Kanuri,9
 Chadian Arabic,Somali,10
 Chamorro,Pohnpeian,1
 Chamorro,Waray,2
-Chamorro,Coastal-Naga Bikol,3
-Chamorro,Masbatenyo,4
+Chamorro,Masbatenyo,3
+Chamorro,Coastal-Naga Bikol,4
 Chamorro,Pampanga,5
 Chamorro,Maranao,6
 Chamorro,Cebuano,7
 Chamorro,Yapese,8
-Chamorro,Palauan,9
-Chamorro,Kosraean,10
+Chamorro,Kosraean,9
+Chamorro,Palauan,10
 Chang Naga,Temiar,1
 Chang Naga,Kok Borok,2
 Chang Naga,Semai,3
@@ -926,24 +906,24 @@ Chang Naga,Nez Perce,4
 Chang Naga,Bodo-Mech,5
 Chang Naga,Lokono,6
 Chang Naga,Gwere,7
-Chang Naga,Manipuri,8
-Chang Naga,Igbo,9
+Chang Naga,Igbo,8
+Chang Naga,Manipuri,9
 Chang Naga,Gungu,10
 Chantyal,Thao,1
 Chantyal,Limbu,2
 Chantyal,West Central Oromo,3
-Chantyal,Hmong Njua,4
+Chantyal,Bondo,4
 Chantyal,Mbay,5
-Chantyal,Bondo,6
-Chantyal,Hmong Daw,7
-Chantyal,Western Parbate Kham,8
+Chantyal,Hmong Njua,6
+Chantyal,Western Parbate Kham,7
+Chantyal,Hmong Daw,8
 Chantyal,Mwaghavul,9
 Chantyal,Akha,10
 Cheke Holo,To'abaita,1
 Cheke Holo,Nakanai,2
-Cheke Holo,Sie,3
-Cheke Holo,Lenakel,4
-Cheke Holo,Äiwoo,5
+Cheke Holo,Lenakel,3
+Cheke Holo,Äiwoo,4
+Cheke Holo,Sie,5
 Cheke Holo,Talise,6
 Cheke Holo,Mele-Fila,7
 Cheke Holo,Teop,8
@@ -956,9 +936,9 @@ Chepang,Central Bontoc,4
 Chepang,Tetum,5
 Chepang,Ho,6
 Chepang,Western Parbate Kham,7
-Chepang,Baram Kayan,8
-Chepang,Biatah Bidayuh,9
-Chepang,Western Bukidnon Manobo,10
+Chepang,Western Bukidnon Manobo,8
+Chepang,Baram Kayan,9
+Chepang,Biatah Bidayuh,10
 Cherokee,Ute-Southern Paiute,1
 Cherokee,Seneca,2
 Cherokee,Tohono O'odham,3
@@ -966,11 +946,11 @@ Cherokee,Yaqui,4
 Cherokee,Jicarilla Apache,5
 Cherokee,Comanche,6
 Cherokee,Klamath-Modoc,7
-Cherokee,Navajo,8
-Cherokee,Rendille,9
-Cherokee,Central Carrier,10
-Cheyenne,Western Apache,1
-Cheyenne,Plains Cree,2
+Cherokee,Rendille,8
+Cherokee,Central Carrier,9
+Cherokee,Navajo,10
+Cheyenne,Plains Cree,1
+Cheyenne,Western Apache,2
 Cheyenne,Lakota,3
 Cheyenne,Western Abenaki,4
 Cheyenne,Wampanoag,5
@@ -986,8 +966,8 @@ Chippewa,Dakota,4
 Chippewa,Huron-Wyandot,5
 Chippewa,Nez Perce,6
 Chippewa,Yámana,7
-Chippewa,Western Abenaki,8
-Chippewa,Lakota,9
+Chippewa,Lakota,8
+Chippewa,Western Abenaki,9
 Chippewa,Eastern Ojibwa,10
 Choctaw,Creek,1
 Choctaw,Dakota,2
@@ -1001,16 +981,16 @@ Choctaw,Mískito,9
 Choctaw,Alabama,10
 Chung,Ncane-Mungong,1
 Chung,Bafanji,2
-Chung,Shatt,3
-Chung,Bassa,4
+Chung,Bassa,3
+Chung,Shatt,4
 Chung,Bongo,5
 Chung,Belanda Bor,6
 Chung,Reel,7
 Chung,Talinga-Bwisi,8
 Chung,Igbo,9
-Chung,Shilluk,10
-Chuukese,Marshallese,1
-Chuukese,Pohnpeian,2
+Chung,Fore,10
+Chuukese,Pohnpeian,1
+Chuukese,Marshallese,2
 Chuukese,Mokilese,3
 Chuukese,Carolinian,4
 Chuukese,Kapingamarangi,5
@@ -1023,8 +1003,8 @@ Classical Nahuatl,Ute-Southern Paiute,1
 Classical Nahuatl,Lycian A,2
 Classical Nahuatl,Seneca,3
 Classical Nahuatl,Central Carrier,4
-Classical Nahuatl,Western Huasteca Nahuatl,5
-Classical Nahuatl,Ho-Chunk,6
+Classical Nahuatl,Ho-Chunk,5
+Classical Nahuatl,Western Huasteca Nahuatl,6
 Classical Nahuatl,Khwarezmian,7
 Classical Nahuatl,Western Tlacolula Valley Zapotec,8
 Classical Nahuatl,Northeast Maidu,9
@@ -1041,8 +1021,8 @@ Classical Syriac,Dzongkha,9
 Classical Syriac,Welsh,10
 Coast Miwok,Havasupai-Walapai-Yavapai,1
 Coast Miwok,Cahuilla,2
-Coast Miwok,Upper Chehalis,3
-Coast Miwok,Tonkawa,4
+Coast Miwok,Tonkawa,3
+Coast Miwok,Upper Chehalis,4
 Coast Miwok,Yana,5
 Coast Miwok,Comanche,6
 Coast Miwok,Shoshoni,7
@@ -1050,9 +1030,9 @@ Coast Miwok,Koasati,8
 Coast Miwok,Atakapa,9
 Coast Miwok,Alabama,10
 Coastal-Naga Bikol,Chamorro,1
-Coastal-Naga Bikol,Waray,2
+Coastal-Naga Bikol,Pampanga,2
 Coastal-Naga Bikol,Hiligaynon,3
-Coastal-Naga Bikol,Pampanga,4
+Coastal-Naga Bikol,Waray,4
 Coastal-Naga Bikol,Cebuano,5
 Coastal-Naga Bikol,Iloko,6
 Coastal-Naga Bikol,Masbatenyo,7
@@ -1064,8 +1044,8 @@ Comanche,Seneca,2
 Comanche,Creek,3
 Comanche,Alabama,4
 Comanche,Koasati,5
-Comanche,Ute-Southern Paiute,6
-Comanche,Tunica,7
+Comanche,Tunica,6
+Comanche,Ute-Southern Paiute,7
 Comanche,Havasupai-Walapai-Yavapai,8
 Comanche,Northwest Sahaptin,9
 Comanche,Navajo,10
@@ -1091,14 +1071,14 @@ Creek,Havasupai-Walapai-Yavapai,9
 Creek,Cahuilla,10
 Czech,Dutch,1
 Czech,Ukrainian,2
-Czech,German,3
+Czech,Polish,3
 Czech,Hungarian,4
-Czech,Polish,5
-Czech,Russian,6
-Czech,French,7
-Czech,Italian,8
-Czech,Swedish,9
-Czech,Danish,10
+Czech,Russian,5
+Czech,French,6
+Czech,Italian,7
+Czech,Swedish,8
+Czech,Danish,9
+Czech,Lithuanian,10
 Daakie,Paama,1
 Daakie,Vurës,2
 Daakie,Nafsan,3
@@ -1122,51 +1102,51 @@ Dagbani,Bokobaru,10
 Dakaka,Kalamang,1
 Dakaka,Mele-Fila,2
 Dakaka,Kwamera,3
-Dakaka,Teop,4
-Dakaka,Teanu,5
+Dakaka,Teanu,4
+Dakaka,Teop,5
 Dakaka,Lenakel,6
 Dakaka,Aneityum,7
 Dakaka,Lou,8
 Dakaka,Wersing,9
-Dakaka,Savosavo,10
+Dakaka,Sie,10
 Dakota,Lakota,1
 Dakota,Kalispel-Pend d'Oreille,2
 Dakota,Choctaw,3
 Dakota,Eastern Ojibwa,4
-Dakota,Hidatsa,5
-Dakota,Tonkawa,6
+Dakota,Tonkawa,5
+Dakota,Hidatsa,6
 Dakota,Chippewa,7
 Dakota,Koasati,8
 Dakota,Creek,9
 Dakota,Cheyenne,10
-Danish,Afrikaans,1
-Danish,Swedish,2
-Danish,Polish,3
-Danish,Hungarian,4
-Danish,German,5
+Danish,Finnish,1
+Danish,Afrikaans,2
+Danish,Swedish,3
+Danish,Polish,4
+Danish,Hungarian,5
 Danish,Norwegian,6
-Danish,Finnish,7
-Danish,Slovenian,8
-Danish,Russian,9
+Danish,Slovenian,7
+Danish,Russian,8
+Danish,Dutch,9
 Danish,French,10
 Dehu,Nengone,1
 Dehu,Futuna-Aniwa,2
 Dehu,Mele-Fila,3
-Dehu,Aneityum,4
-Dehu,'Are'are,5
+Dehu,'Are'are,4
+Dehu,Aneityum,5
 Dehu,Tiri-Mea,6
 Dehu,Mangareva,7
 Dehu,Xârâcùù,8
-Dehu,Lou,9
-Dehu,Tetum,10
+Dehu,Tetum,9
+Dehu,Lou,10
 Dena'ina,Tanacross,1
 Dena'ina,Aleut,2
 Dena'ina,Central Siberian Yupik,3
 Dena'ina,Kwak'wala,4
 Dena'ina,Ahtena,5
 Dena'ina,Mi'kmaq,6
-Dena'ina,Nuu-chah-nulth,7
-Dena'ina,Bella Coola,8
+Dena'ina,Bella Coola,7
+Dena'ina,Nuu-chah-nulth,8
 Dena'ina,Haisla,9
 Dena'ina,Upper Chehalis,10
 Devon,Essex,1
@@ -1174,10 +1154,10 @@ Devon,South Yorkshire English,2
 Devon,Sussex,3
 Devon,Ulster,4
 Devon,Scots,5
-Devon,Midland American English,6
-Devon,Wiltshire-Hampshire,7
-Devon,Western Victoria,8
-Devon,Pennsylvania German,9
+Devon,Wiltshire-Hampshire,6
+Devon,Midland American English,7
+Devon,Pennsylvania German,8
+Devon,Western Victoria,9
 Devon,Breton,10
 Dhalandji,Dhargari,1
 Dhalandji,Yinggarda,2
@@ -1198,7 +1178,7 @@ Dhargari,Yuwaalaraay-Gamilaraay,6
 Dhargari,Tweed-Albert,7
 Dhargari,Nugunu,8
 Dhargari,Western Victoria,9
-Dhargari,Kumbainggar,10
+Dhargari,Muruwari,10
 Didinga,Ndau,1
 Didinga,Masai,2
 Didinga,Tangale,3
@@ -1208,23 +1188,23 @@ Didinga,Rendille,6
 Didinga,Sidamo,7
 Didinga,South-Central Koongo,8
 Didinga,Gaam,9
-Didinga,Karamojong,10
+Didinga,Gade,10
 Dimasa,Mara Chin,1
 Dimasa,Mising-Padam-Miri-Minyong,2
 Dimasa,East-Central Tangkhul Naga,3
 Dimasa,Mundari,4
-Dimasa,Mizo,5
-Dimasa,Southern Jinghpaw,6
+Dimasa,Southern Jinghpaw,5
+Dimasa,Mizo,6
 Dimasa,Tetum,7
 Dimasa,Sadri,8
 Dimasa,Sora,9
-Dimasa,Manda,10
+Dimasa,Bondo,10
 Diriku-Shambyu,Kxoe,1
 Diriku-Shambyu,Swati,2
 Diriku-Shambyu,Kwangali,3
 Diriku-Shambyu,Gaam,4
-Diriku-Shambyu,East Taa,5
-Diriku-Shambyu,Nandi,6
+Diriku-Shambyu,Nandi,5
+Diriku-Shambyu,East Taa,6
 Diriku-Shambyu,Tangale,7
 Diriku-Shambyu,Karamojong,8
 Diriku-Shambyu,Ndau,9
@@ -1263,12 +1243,12 @@ Dutch,Italian,1
 Dutch,French,2
 Dutch,Czech,3
 Dutch,Polish,4
-Dutch,German,5
-Dutch,Hungarian,6
+Dutch,Hungarian,5
+Dutch,Swedish,6
 Dutch,Danish,7
-Dutch,Swedish,8
+Dutch,Spanish,8
 Dutch,Afrikaans,9
-Dutch,Spanish,10
+Dutch,Finnish,10
 Dzongkha,Latin,1
 Dzongkha,Geez,2
 Dzongkha,Modern Greek,3
@@ -1277,8 +1257,8 @@ Dzongkha,Middle High German,5
 Dzongkha,Old English,6
 Dzongkha,Eastern Armenian,7
 Dzongkha,Classical Syriac,8
-Dzongkha,Modern Hebrew,9
-Dzongkha,Old French,10
+Dzongkha,Old French,9
+Dzongkha,Modern Hebrew,10
 East Limba,Zigula-Mushungulu,1
 East Limba,Yoruba,2
 East Limba,Bassa,3
@@ -1290,15 +1270,15 @@ East Limba,Mískito,8
 East Limba,Akan,9
 East Limba,Ndau,10
 East Taa,Kxoe,1
-East Taa,Diriku-Shambyu,2
-East Taa,Nandi,3
+East Taa,Nandi,2
+East Taa,Diriku-Shambyu,3
 East Taa,Lega-Shabunda,4
 East Taa,Tangale,5
-East Taa,Yagaria,6
-East Taa,Gaam,7
+East Taa,Gaam,6
+East Taa,Yagaria,7
 East Taa,Yao,8
-East Taa,Yir-Yoront,9
-East Taa,Western Parbate Kham,10
+East Taa,Naro,9
+East Taa,Kiliwa,10
 East-Central Tangkhul Naga,Mara Chin,1
 East-Central Tangkhul Naga,Dimasa,2
 East-Central Tangkhul Naga,Mizo,3
@@ -1313,12 +1293,12 @@ Eastern Armenian,Portuguese,1
 Eastern Armenian,Sicilian,2
 Eastern Armenian,Georgian,3
 Eastern Armenian,Western Flemish,4
-Eastern Armenian,Italian,5
-Eastern Armenian,Dutch,6
+Eastern Armenian,Dutch,5
+Eastern Armenian,Italian,6
 Eastern Armenian,Modern Greek,7
 Eastern Armenian,Belarusian,8
-Eastern Armenian,French,9
-Eastern Armenian,Serbian-Croatian-Bosnian,10
+Eastern Armenian,Serbian-Croatian-Bosnian,9
+Eastern Armenian,French,10
 Eastern Balochi,Katë,1
 Eastern Balochi,Khwarezmian,2
 Eastern Balochi,South-Central Koongo,3
@@ -1350,31 +1330,31 @@ Eastern Ojibwa,Cahuilla,8
 Eastern Ojibwa,Lakota,9
 Eastern Ojibwa,Bella Coola,10
 Eastern Panjabi,Sindhi,1
-Eastern Panjabi,Urdu,2
-Eastern Panjabi,Hindustani,3
+Eastern Panjabi,Hindustani,2
+Eastern Panjabi,Urdu,3
 Eastern Panjabi,Hindi,4
 Eastern Panjabi,Northern Pashto,5
 Eastern Panjabi,Telugu,6
-Eastern Panjabi,Kashmiri,7
-Eastern Panjabi,Western Panjabi,8
+Eastern Panjabi,Western Panjabi,7
+Eastern Panjabi,Kashmiri,8
 Eastern Panjabi,Southern Hindko,9
-Eastern Panjabi,Tulu,10
+Eastern Panjabi,Marathi,10
 Eastern Yiddish,Serbian-Croatian-Bosnian,1
 Eastern Yiddish,Slovenian,2
-Eastern Yiddish,Slovak,3
-Eastern Yiddish,Galician,4
-Eastern Yiddish,Moselle Franconian,5
+Eastern Yiddish,Moselle Franconian,3
+Eastern Yiddish,Slovak,4
+Eastern Yiddish,Galician,5
 Eastern Yiddish,Upper Sorbian,6
 Eastern Yiddish,Hungarian,7
-Eastern Yiddish,Polish,8
-Eastern Yiddish,Spanish,9
-Eastern Yiddish,Georgian,10
+Eastern Yiddish,Finnish,8
+Eastern Yiddish,Polish,9
+Eastern Yiddish,Spanish,10
 Efik,Akan,1
 Efik,Ibibio,2
 Efik,Mungaka,3
 Efik,Tee,4
-Efik,Nyanja,5
-Efik,Ewe,6
+Efik,Ewe,5
+Efik,Nyanja,6
 Efik,Yoruba,7
 Efik,Nupe-Nupe-Tako,8
 Efik,Bobangi,9
@@ -1383,12 +1363,12 @@ Egyptian,Akkadian,1
 Egyptian,Sumerian,2
 Egyptian,Ancient Hebrew,3
 Egyptian,Assyrian Neo-Aramaic,4
-Egyptian,Old Khmer,5
-Egyptian,Sabaic,6
+Egyptian,Sabaic,5
+Egyptian,Old Khmer,6
 Egyptian,Neo-Mandaic,7
-Egyptian,Leh Ladakhi,8
-Egyptian,Old English,9
-Egyptian,Old French,10
+Egyptian,Old English,8
+Egyptian,Old French,9
+Egyptian,Leh Ladakhi,10
 Egyptian Arabic,Turkish,1
 Egyptian Arabic,Standard Arabic,2
 Egyptian Arabic,Western Farsi,3
@@ -1397,8 +1377,8 @@ Egyptian Arabic,Central Kurdish,5
 Egyptian Arabic,Andalusian Arabic,6
 Egyptian Arabic,Ladino,7
 Egyptian Arabic,Judeo-Yemeni Arabic,8
-Egyptian Arabic,Urdu,9
-Egyptian Arabic,Sindhi,10
+Egyptian Arabic,Sindhi,9
+Egyptian Arabic,Urdu,10
 Enga,Telefol,1
 Enga,Fore,2
 Enga,Ata,3
@@ -1408,7 +1388,7 @@ Enga,West Kewa,6
 Enga,Fuyug,7
 Enga,Terei,8
 Enga,Nakanai,9
-Enga,Oksapmin,10
+Enga,Kwaio,10
 Esan,Bini,1
 Esan,Igbo,2
 Esan,Tee,3
@@ -1417,8 +1397,8 @@ Esan,Izon,5
 Esan,Ibibio,6
 Esan,Gbari,7
 Esan,Ga,8
-Esan,Central Dagaare,9
-Esan,Abua,10
+Esan,Abua,9
+Esan,Central Dagaare,10
 Essex,Devon,1
 Essex,South Yorkshire English,2
 Essex,Sussex,3
@@ -1429,25 +1409,25 @@ Essex,Midland American English,7
 Essex,Icelandic,8
 Essex,Avestan,9
 Essex,Singlish,10
-Estonian,Finnish,1
-Estonian,Romanian,2
-Estonian,Standard Indonesian,3
-Estonian,Norwegian,4
-Estonian,Afrikaans,5
-Estonian,Swahili,6
+Estonian,German,1
+Estonian,Standard Indonesian,2
+Estonian,Romanian,3
+Estonian,Afrikaans,4
+Estonian,Swahili,5
+Estonian,Norwegian,6
 Estonian,Vietnamese,7
-Estonian,German,8
+Estonian,Finnish,8
 Estonian,Danish,9
-Estonian,Swedish,10
+Estonian,Russian,10
 Ewe,Akan,1
 Ewe,Zande,2
 Ewe,Mungaka,3
 Ewe,Nupe-Nupe-Tako,4
 Ewe,Ga,5
-Ewe,Tumulung Sisaala,6
-Ewe,Yoruba,7
-Ewe,Tee,8
-Ewe,Nzima,9
+Ewe,Yoruba,6
+Ewe,Tumulung Sisaala,7
+Ewe,Nzima,8
+Ewe,Tee,9
 Ewe,Efik,10
 Fijian,Samoan,1
 Fijian,Takuu,2
@@ -1457,58 +1437,58 @@ Fijian,Rotuman,5
 Fijian,Tangga,6
 Fijian,Toaripi,7
 Fijian,Roviana,8
-Fijian,Raluana,9
-Fijian,Tikopia,10
+Fijian,Tikopia,9
+Fijian,Raluana,10
 Filipino,Romanian,1
 Filipino,Kirghiz,2
 Filipino,Burmese,3
 Filipino,Standard Indonesian,4
 Filipino,Vietnamese,5
 Filipino,Estonian,6
-Filipino,Tibetan,7
-Filipino,Korean,8
+Filipino,Korean,7
+Filipino,Tibetan,8
 Filipino,Mandarin Chinese,9
 Filipino,Northern Uzbek,10
-Finnish,Norwegian,1
-Finnish,Danish,2
-Finnish,Swedish,3
-Finnish,Afrikaans,4
-Finnish,German,5
-Finnish,Estonian,6
-Finnish,Polish,7
+Finnish,Danish,1
+Finnish,Polish,2
+Finnish,Hungarian,3
+Finnish,Swedish,4
+Finnish,Norwegian,5
+Finnish,Afrikaans,6
+Finnish,Slovenian,7
 Finnish,Russian,8
-Finnish,French,9
-Finnish,Slovenian,10
+Finnish,Dutch,9
+Finnish,Ukrainian,10
 Fore,Enga,1
 Fore,Selepet,2
 Fore,Telefol,3
 Fore,Ncane-Mungong,4
 Fore,Yagaria,5
 Fore,Chung,6
-Fore,Orokolo,7
-Fore,Martu Wangka,8
+Fore,Martu Wangka,7
+Fore,Orokolo,8
 Fore,Paiwan,9
 Fore,Tetum,10
 French,Italian,1
 French,Spanish,2
-French,Polish,3
-French,Dutch,4
-French,German,5
+French,Dutch,3
+French,Polish,4
+French,Swedish,5
 French,Hungarian,6
-French,Swedish,7
-French,Danish,8
-French,Afrikaans,9
-French,Portuguese,10
+French,Danish,7
+French,Afrikaans,8
+French,Portuguese,9
+French,Czech,10
 Futuna-Aniwa,Aneityum,1
 Futuna-Aniwa,Mele-Fila,2
 Futuna-Aniwa,Gela,3
 Futuna-Aniwa,Roviana,4
 Futuna-Aniwa,Lau,5
-Futuna-Aniwa,'Are'are,6
-Futuna-Aniwa,Mailu,7
-Futuna-Aniwa,Mota,8
+Futuna-Aniwa,Mailu,6
+Futuna-Aniwa,Mota,7
+Futuna-Aniwa,'Are'are,8
 Futuna-Aniwa,Arosi,9
-Futuna-Aniwa,Dehu,10
+Futuna-Aniwa,Lenakel,10
 Fuyug,Sinaugoro,1
 Fuyug,Grass Koiari,2
 Fuyug,Talise,3
@@ -1525,15 +1505,15 @@ Ga,Gbari,3
 Ga,Central Dagaare,4
 Ga,Tumulung Sisaala,5
 Ga,Ewe,6
-Ga,Ibibio,7
-Ga,Bini,8
-Ga,Nzima,9
-Ga,Izon,10
+Ga,Urhobo,7
+Ga,Nzima,8
+Ga,Ibibio,9
+Ga,Bini,10
 Gaam,Tangale,1
 Gaam,Tuvinian,2
 Gaam,Shekkacho,3
-Gaam,Chadian Arabic,4
-Gaam,Diriku-Shambyu,5
+Gaam,Diriku-Shambyu,4
+Gaam,Chadian Arabic,5
 Gaam,Sidamo,6
 Gaam,Nandi,7
 Gaam,Karamojong,8
@@ -1548,14 +1528,14 @@ Gade,Tiv,6
 Gade,Izon,7
 Gade,Bini,8
 Gade,Gikyode,9
-Gade,Thao,10
+Gade,Tumulung Sisaala,10
 Galician,Serbian-Croatian-Bosnian,1
 Galician,Papiamento,2
 Galician,Slovenian,3
 Galician,Eastern Yiddish,4
 Galician,Belarusian,5
-Galician,Western Frisian,6
-Galician,Upper Sorbian,7
+Galician,Upper Sorbian,6
+Galician,Western Frisian,7
 Galician,Western Flemish,8
 Galician,Slovak,9
 Galician,Moselle Franconian,10
@@ -1563,8 +1543,8 @@ Gambian Wolof,Pulaar,1
 Gambian Wolof,Mandinka,2
 Gambian Wolof,Chadian Arabic,3
 Gambian Wolof,Anufo,4
-Gambian Wolof,Sidamo,5
-Gambian Wolof,Central Kanuri,6
+Gambian Wolof,Central Kanuri,5
+Gambian Wolof,Sidamo,6
 Gambian Wolof,Wolof,7
 Gambian Wolof,Bassa,8
 Gambian Wolof,Abua,9
@@ -1577,15 +1557,15 @@ Ganda,Southern Sotho,5
 Ganda,Nyankole,6
 Ganda,Ha,7
 Ganda,Karamojong,8
-Ganda,Ndau,9
-Ganda,Nandi,10
+Ganda,Nandi,9
+Ganda,Ndau,10
 Garifuna,Warao,1
 Garifuna,Malacca-Batavia Portuguese Creole,2
-Garifuna,Mískito,3
-Garifuna,Yapese,4
+Garifuna,Yapese,3
+Garifuna,Mískito,4
 Garifuna,Chamorro,5
-Garifuna,Bassa,6
-Garifuna,Pohnpeian,7
+Garifuna,Pohnpeian,6
+Garifuna,Bassa,7
 Garifuna,Media Lengua,8
 Garifuna,Pampanga,9
 Garifuna,Nzima,10
@@ -1617,8 +1597,8 @@ Geez,Modern Greek,5
 Geez,Middle High German,6
 Geez,Classical Syriac,7
 Geez,Tamambo,8
-Geez,Eastern Armenian,9
-Geez,Latin,10
+Geez,Latin,9
+Geez,Eastern Armenian,10
 Gela,Lau,1
 Gela,Arosi,2
 Gela,'Are'are,3
@@ -1629,38 +1609,38 @@ Gela,Toaripi,7
 Gela,Mailu,8
 Gela,Mele-Fila,9
 Gela,Bughotu,10
-Georgian,Upper Sorbian,1
-Georgian,Slovak,2
+Georgian,Slovak,1
+Georgian,Upper Sorbian,2
 Georgian,Serbian-Croatian-Bosnian,3
 Georgian,Eastern Armenian,4
 Georgian,Sicilian,5
-Georgian,Lithuanian,6
-Georgian,Belarusian,7
-Georgian,Eastern Yiddish,8
-Georgian,Slovenian,9
-Georgian,Western Flemish,10
+Georgian,Belarusian,6
+Georgian,Lithuanian,7
+Georgian,Slovenian,8
+Georgian,Western Flemish,9
+Georgian,Eastern Yiddish,10
 German,Swedish,1
 German,Danish,2
-German,Afrikaans,3
-German,Norwegian,4
-German,Dutch,5
+German,French,3
+German,Finnish,4
+German,Afrikaans,5
 German,Polish,6
-German,French,7
-German,Finnish,8
+German,Russian,7
+German,Norwegian,8
 German,Czech,9
-German,Italian,10
+German,Dutch,10
 Gikyode,Tampulma,1
 Gikyode,Buli,2
 Gikyode,Tumulung Sisaala,3
 Gikyode,Anufo,4
 Gikyode,Mbay,5
 Gikyode,Dagbani,6
-Gikyode,Central Dagaare,7
-Gikyode,Gbari,8
+Gikyode,Gbari,7
+Gikyode,Central Dagaare,8
 Gikyode,Mungaka,9
 Gikyode,Mampruli,10
-Gilbertese,Samoan,1
-Gilbertese,Hawaiian,2
+Gilbertese,Hawaiian,1
+Gilbertese,Samoan,2
 Gilbertese,Mangareva,3
 Gilbertese,Roviana,4
 Gilbertese,Kapingamarangi,5
@@ -1668,16 +1648,16 @@ Gilbertese,Tuamotuan,6
 Gilbertese,Chuukese,7
 Gilbertese,Mota,8
 Gilbertese,Rotuman,9
-Gilbertese,Rennell-Bellona,10
+Gilbertese,Tahitian,10
 Gilit Mesopotamian Arabic,Levantine Arabic,1
 Gilit Mesopotamian Arabic,Gulf Arabic,2
 Gilit Mesopotamian Arabic,Sanaani Arabic,3
 Gilit Mesopotamian Arabic,Moroccan Arabic,4
 Gilit Mesopotamian Arabic,Bulgarian,5
-Gilit Mesopotamian Arabic,Japanese,6
-Gilit Mesopotamian Arabic,Turkmen,7
-Gilit Mesopotamian Arabic,Northern Uzbek,8
-Gilit Mesopotamian Arabic,Pennsylvania German,9
+Gilit Mesopotamian Arabic,Turkmen,6
+Gilit Mesopotamian Arabic,Japanese,7
+Gilit Mesopotamian Arabic,Pennsylvania German,8
+Gilit Mesopotamian Arabic,Northern Uzbek,9
 Gilit Mesopotamian Arabic,Pedi,10
 Giryama,Nyanja,1
 Giryama,Lamba,2
@@ -1697,8 +1677,8 @@ Goan Konkani,Yoruba,5
 Goan Konkani,Hindustani,6
 Goan Konkani,Geez,7
 Goan Konkani,Western Neo-Aramaic,8
-Goan Konkani,Eastern Panjabi,9
-Goan Konkani,Portuguese,10
+Goan Konkani,Portuguese,9
+Goan Konkani,Latin,10
 Goemai,Mwaghavul,1
 Goemai,Tangale,2
 Goemai,Abua,3
@@ -1707,8 +1687,8 @@ Goemai,Belanda Bor,5
 Goemai,Wersing,6
 Goemai,Gbari,7
 Goemai,Lega-Shabunda,8
-Goemai,Bongo,9
-Goemai,Bantawa,10
+Goemai,Bantawa,9
+Goemai,Bongo,10
 Grass Koiari,Sinaugoro,1
 Grass Koiari,Talise,2
 Grass Koiari,Doromu-Koki,3
@@ -1753,22 +1733,22 @@ Gungu,Nyole,1
 Gungu,Gwere,2
 Gungu,Talinga-Bwisi,3
 Gungu,Shilluk,4
-Gungu,Mbukushu,5
-Gungu,Central Dagaare,6
-Gungu,Kamba,7
-Gungu,Luo,8
+Gungu,Central Dagaare,5
+Gungu,Mbukushu,6
+Gungu,Luo,7
+Gungu,Kamba,8
 Gungu,Chang Naga,9
 Gungu,Ibibio,10
 Gwere,Nyole,1
 Gwere,Gungu,2
 Gwere,Talinga-Bwisi,3
-Gwere,Kamba,4
-Gwere,Shilluk,5
+Gwere,Shilluk,4
+Gwere,Kamba,5
 Gwere,Ncane-Mungong,6
 Gwere,Chang Naga,7
 Gwere,Agusan Manobo,8
 Gwere,Lokono,9
-Gwere,Central Dagaare,10
+Gwere,Ganda,10
 Ha,Karamojong,1
 Ha,Sidamo,2
 Ha,Zigula-Mushungulu,3
@@ -1785,8 +1765,8 @@ Haisla,Kwak'wala,3
 Haisla,Squamish,4
 Haisla,Aleut,5
 Haisla,Central Siberian Yupik,6
-Haisla,Tanacross,7
-Haisla,Upper Chehalis,8
+Haisla,Upper Chehalis,7
+Haisla,Tanacross,8
 Haisla,Ahtena,9
 Haisla,Dena'ina,10
 Haitian,Media Lengua,1
@@ -1797,8 +1777,8 @@ Haitian,Ladino,5
 Haitian,Chadian Arabic,6
 Haitian,Tok Pisin,7
 Haitian,Javanese,8
-Haitian,Kinshasa Lingala,9
-Haitian,Louisiana Creole French,10
+Haitian,Louisiana Creole French,9
+Haitian,Kinshasa Lingala,10
 Hakka Chinese,Min Dong Chinese,1
 Hakka Chinese,Min Nan Chinese,2
 Hakka Chinese,Yue Chinese,3
@@ -1811,8 +1791,8 @@ Hakka Chinese,Southern Jinghpaw,9
 Hakka Chinese,Lepcha,10
 Halh Mongolian,Kazakh,1
 Halh Mongolian,Uighur,2
-Halh Mongolian,Central Khmer,3
-Halh Mongolian,North Azerbaijani,4
+Halh Mongolian,North Azerbaijani,3
+Halh Mongolian,Central Khmer,4
 Halh Mongolian,Lao,5
 Halh Mongolian,Central Kurdish,6
 Halh Mongolian,Tibetan,7
@@ -1843,8 +1823,8 @@ Hawaiian,Tuamotuan,1
 Hawaiian,Rennell-Bellona,2
 Hawaiian,Chuukese,3
 Hawaiian,Gilbertese,4
-Hawaiian,Maori,5
-Hawaiian,Tahitian,6
+Hawaiian,Tahitian,5
+Hawaiian,Maori,6
 Hawaiian,Rotuman,7
 Hawaiian,Roviana,8
 Hawaiian,Kapingamarangi,9
@@ -1855,13 +1835,13 @@ Heiltsuk-Oowekyala,Tanacross,3
 Heiltsuk-Oowekyala,Aleut,4
 Heiltsuk-Oowekyala,Central Siberian Yupik,5
 Heiltsuk-Oowekyala,Central Carrier,6
-Heiltsuk-Oowekyala,Cherokee,7
-Heiltsuk-Oowekyala,Seneca,8
+Heiltsuk-Oowekyala,Seneca,7
+Heiltsuk-Oowekyala,Cherokee,8
 Heiltsuk-Oowekyala,Ahtena,9
 Heiltsuk-Oowekyala,Squamish,10
 Herero,Xhosa,1
-Herero,Akan,2
-Herero,Tswana,3
+Herero,Tswana,2
+Herero,Akan,3
 Herero,Southern Sotho,4
 Herero,Kuanyama,5
 Herero,Mbukushu,6
@@ -1878,7 +1858,7 @@ Hidatsa,Ute-Southern Paiute,6
 Hidatsa,South-Central Koongo,7
 Hidatsa,Plateau Malagasy,8
 Hidatsa,Bobangi,9
-Hidatsa,Didinga,10
+Hidatsa,Nancowry,10
 Hiligaynon,Coastal-Naga Bikol,1
 Hiligaynon,Cebuano,2
 Hiligaynon,Yogad,3
@@ -1889,15 +1869,15 @@ Hiligaynon,Iloko,7
 Hiligaynon,Waray,8
 Hiligaynon,Chamorro,9
 Hiligaynon,Maranao,10
-Hindi,Malayalam,1
-Hindi,Bengali,2
+Hindi,Bengali,1
+Hindi,Malayalam,2
 Hindi,Telugu,3
 Hindi,Urdu,4
 Hindi,Eastern Panjabi,5
 Hindi,Hindustani,6
 Hindi,Sindhi,7
-Hindi,Kannada,8
-Hindi,Tamil,9
+Hindi,Tamil,8
+Hindi,Kannada,9
 Hindi,Marathi,10
 Hindustani,Urdu,1
 Hindustani,Sindhi,2
@@ -1925,19 +1905,19 @@ Hmong Njua,Chantyal,3
 Hmong Njua,Tai Dón,4
 Hmong Njua,Yao,5
 Hmong Njua,Nung,6
-Hmong Njua,Beng,7
-Hmong Njua,Besisi,8
+Hmong Njua,Besisi,7
+Hmong Njua,Beng,8
 Hmong Njua,Kxoe,9
-Hmong Njua,Limbu,10
+Hmong Njua,Western Parbate Kham,10
 Ho,Rabha,1
 Ho,Ao Naga,2
 Ho,Kurukh,3
 Ho,Santali,4
-Ho,Biatah Bidayuh,5
-Ho,S'gaw Karen,6
+Ho,S'gaw Karen,5
+Ho,Biatah Bidayuh,6
 Ho,Sora,7
 Ho,Chepang,8
-Ho,Mizo,9
+Ho,Mundari,9
 Ho,Tetum,10
 Ho-Chunk,Northeast Maidu,1
 Ho-Chunk,Seneca,2
@@ -1951,19 +1931,19 @@ Ho-Chunk,Comanche,9
 Ho-Chunk,Kosarek Yale,10
 Hungarian,Polish,1
 Hungarian,Danish,2
-Hungarian,Russian,3
-Hungarian,Slovenian,4
-Hungarian,Ukrainian,5
-Hungarian,Dutch,6
-Hungarian,Swedish,7
-Hungarian,Afrikaans,8
-Hungarian,Slovak,9
-Hungarian,French,10
+Hungarian,Finnish,3
+Hungarian,Russian,4
+Hungarian,Slovenian,5
+Hungarian,Ukrainian,6
+Hungarian,Afrikaans,7
+Hungarian,Swedish,8
+Hungarian,Dutch,9
+Hungarian,Lithuanian,10
 Huron-Wyandot,Eastern Ojibwa,1
 Huron-Wyandot,Lega-Shabunda,2
 Huron-Wyandot,Chippewa,3
-Huron-Wyandot,Dehu,4
-Huron-Wyandot,Limbu,5
+Huron-Wyandot,Limbu,4
+Huron-Wyandot,Dehu,5
 Huron-Wyandot,Creek,6
 Huron-Wyandot,Upper Chehalis,7
 Huron-Wyandot,Northwestern Ojibwa,8
@@ -1975,18 +1955,18 @@ Iban,Biatah Bidayuh,3
 Iban,Lundayeh,4
 Iban,Yabem,5
 Iban,Casiguran-Nagtipunan Agta,6
-Iban,Chepang,7
-Iban,Rungus,8
+Iban,Rungus,7
+Iban,Chepang,8
 Iban,Yao,9
-Iban,Mansaka,10
+Iban,Southern Jinghpaw,10
 Ibibio,Central Dagaare,1
 Ibibio,Tee,2
 Ibibio,Gbari,3
 Ibibio,Mbay,4
 Ibibio,Mungaka,5
 Ibibio,Igbo,6
-Ibibio,Bafanji,7
-Ibibio,Nupe-Nupe-Tako,8
+Ibibio,Nupe-Nupe-Tako,7
+Ibibio,Bafanji,8
 Ibibio,Bini,9
 Ibibio,Tumulung Sisaala,10
 Icelandic,Old Norse,1
@@ -2002,8 +1982,8 @@ Icelandic,South Yorkshire English,10
 Igbo,Tee,1
 Igbo,Esan,2
 Igbo,Abua,3
-Igbo,Ncane-Mungong,4
-Igbo,Urhobo,5
+Igbo,Urhobo,4
+Igbo,Ncane-Mungong,5
 Igbo,Ga,6
 Igbo,Gbari,7
 Igbo,Izon,8
@@ -2017,8 +1997,8 @@ Iloko,Maranao,5
 Iloko,Coastal-Naga Bikol,6
 Iloko,Masbatenyo,7
 Iloko,Tetum,8
-Iloko,Agusan Manobo,9
-Iloko,Pampanga,10
+Iloko,Pampanga,9
+Iloko,Western Bukidnon Manobo,10
 Ipai,Malecite-Passamaquoddy,1
 Ipai,Plains Cree,2
 Ipai,Western Abenaki,3
@@ -2032,11 +2012,11 @@ Ipai,Wampanoag,10
 Iquito,Lokono,1
 Iquito,Kalam,2
 Iquito,Agusan Manobo,3
-Iquito,Takuu,4
-Iquito,Trinidadian Creole English,5
+Iquito,Trinidadian Creole English,4
+Iquito,Takuu,5
 Iquito,Batad Ifugao,6
-Iquito,Fijian,7
-Iquito,Bambara,8
+Iquito,Bambara,7
+Iquito,Fijian,8
 Iquito,Nen,9
 Iquito,Kwoma,10
 Iraqw,Karamojong,1
@@ -2055,8 +2035,8 @@ Irish,Manx,3
 Irish,Old English,4
 Irish,Latin,5
 Irish,Old Norse,6
-Irish,Modern Greek,7
-Irish,Cornish,8
+Irish,Cornish,7
+Irish,Modern Greek,8
 Irish,Eastern Armenian,9
 Irish,Old French,10
 Isthmus Zapotec,Ipai,1
@@ -2073,12 +2053,12 @@ Italian,French,1
 Italian,Spanish,2
 Italian,Dutch,3
 Italian,Polish,4
-Italian,German,5
-Italian,Portuguese,6
-Italian,Hungarian,7
-Italian,Danish,8
-Italian,Swedish,9
-Italian,Afrikaans,10
+Italian,Portuguese,5
+Italian,Hungarian,6
+Italian,Danish,7
+Italian,Czech,8
+Italian,Afrikaans,9
+Italian,Swedish,10
 Izon,Urhobo,1
 Izon,Tee,2
 Izon,Abua,3
@@ -2092,33 +2072,33 @@ Izon,Ibibio,10
 Japanese,Korean,1
 Japanese,Vietnamese,2
 Japanese,Swedish,3
-Japanese,Finnish,4
+Japanese,German,4
 Japanese,Mandarin Chinese,5
-Japanese,Estonian,6
-Japanese,Standard Indonesian,7
-Japanese,Levantine Arabic,8
+Japanese,Finnish,6
+Japanese,Estonian,7
+Japanese,Standard Indonesian,8
 Japanese,Danish,9
-Japanese,Swahili,10
+Japanese,Levantine Arabic,10
 Javanese,Western Frisian,1
 Javanese,Papiamento,2
 Javanese,Tsonga,3
 Javanese,Belarusian,4
 Javanese,Western Flemish,5
-Javanese,Adyghe,6
+Javanese,West Circassian,6
 Javanese,Leh Ladakhi,7
 Javanese,Sembakung Murut,8
 Javanese,Haitian,9
 Javanese,Galician,10
 Jehai,Rade,1
 Jehai,Lega-Shabunda,2
-Jehai,Warao,3
-Jehai,Guarayu,4
+Jehai,Guarayu,3
+Jehai,Warao,4
 Jehai,Besisi,5
-Jehai,Border Kuna,6
-Jehai,Semai,7
+Jehai,Semai,6
+Jehai,Border Kuna,7
 Jehai,Bantawa,8
 Jehai,Kxoe,9
-Jehai,Limbu,10
+Jehai,Ata,10
 Jewish Babylonian Aramaic,Assyrian Neo-Aramaic,1
 Jewish Babylonian Aramaic,Neo-Mandaic,2
 Jewish Babylonian Aramaic,Sabaic,3
@@ -2127,8 +2107,8 @@ Jewish Babylonian Aramaic,Ancient Hebrew,5
 Jewish Babylonian Aramaic,Andalusian Arabic,6
 Jewish Babylonian Aramaic,Khwarezmian,7
 Jewish Babylonian Aramaic,Sumerian,8
-Jewish Babylonian Aramaic,Judeo-Yemeni Arabic,9
-Jewish Babylonian Aramaic,Akkadian,10
+Jewish Babylonian Aramaic,Akkadian,9
+Jewish Babylonian Aramaic,Judeo-Yemeni Arabic,10
 Jicarilla Apache,Navajo,1
 Jicarilla Apache,Tohono O'odham,2
 Jicarilla Apache,Havasupai-Walapai-Yavapai,3
@@ -2138,7 +2118,7 @@ Jicarilla Apache,Kiliwa,6
 Jicarilla Apache,Northwest Sahaptin,7
 Jicarilla Apache,Ahtena,8
 Jicarilla Apache,Comanche,9
-Jicarilla Apache,Central Siberian Yupik,10
+Jicarilla Apache,Coast Miwok,10
 Jingulu,Mudburra,1
 Jingulu,Ngalkbun,2
 Jingulu,Yandruwandha,3
@@ -2147,38 +2127,38 @@ Jingulu,Muruwari,5
 Jingulu,Bardi,6
 Jingulu,Warlpiri,7
 Jingulu,Tiwi,8
-Jingulu,Wik-Mungkan,9
-Jingulu,Wirangu,10
+Jingulu,Wirangu,9
+Jingulu,Wik-Mungkan,10
 Judeo-Yemeni Arabic,Andalusian Arabic,1
 Judeo-Yemeni Arabic,Central Kanuri,2
 Judeo-Yemeni Arabic,Western Panjabi,3
 Judeo-Yemeni Arabic,Beja,4
-Judeo-Yemeni Arabic,Amharic,5
-Judeo-Yemeni Arabic,Sumerian,6
+Judeo-Yemeni Arabic,Sumerian,5
+Judeo-Yemeni Arabic,Amharic,6
 Judeo-Yemeni Arabic,Jewish Babylonian Aramaic,7
-Judeo-Yemeni Arabic,Kashmiri,8
+Judeo-Yemeni Arabic,Akkadian,8
 Judeo-Yemeni Arabic,Central Kurdish,9
-Judeo-Yemeni Arabic,Kathmandu Valley Newari,10
+Judeo-Yemeni Arabic,Leh Ladakhi,10
 K'iche',Yucatec Maya,1
 K'iche',Tzotzil,2
 K'iche',Koasati,3
 K'iche',Mayan,4
-K'iche',Creek,5
+K'iche',Cahuilla,5
 K'iche',Limbu,6
-K'iche',Cahuilla,7
-K'iche',Kiliwa,8
+K'iche',Kiliwa,7
+K'iche',Creek,8
 K'iche',Guarayu,9
 K'iche',Western Huasteca Nahuatl,10
 Kadazan Dusun,Lundayeh,1
 Kadazan Dusun,Baram Kayan,2
-Kadazan Dusun,Bulgarian,3
-Kadazan Dusun,Plateau Malagasy,4
+Kadazan Dusun,Plateau Malagasy,3
+Kadazan Dusun,Bulgarian,4
 Kadazan Dusun,East-Central Tangkhul Naga,5
 Kadazan Dusun,Yogad,6
 Kadazan Dusun,Yeyi,7
 Kadazan Dusun,Ndonga,8
-Kadazan Dusun,Balinese,9
-Kadazan Dusun,Mising-Padam-Miri-Minyong,10
+Kadazan Dusun,Mising-Padam-Miri-Minyong,9
+Kadazan Dusun,Balinese,10
 Kalam,Kyaka,1
 Kalam,West Kewa,2
 Kalam,Kwoma,3
@@ -2211,8 +2191,8 @@ Kalispel-Pend d'Oreille,Unami,9
 Kalispel-Pend d'Oreille,Eastern Ojibwa,10
 Kamba,Luo,1
 Kamba,Iraqw,2
-Kamba,Shona,3
-Kamba,Nandi,4
+Kamba,Nandi,3
+Kamba,Shona,4
 Kamba,Venda,5
 Kamba,Karamojong,6
 Kamba,Central Dagaare,7
@@ -2233,14 +2213,14 @@ Kapingamarangi,Mokilese,1
 Kapingamarangi,Marshallese,2
 Kapingamarangi,Chuukese,3
 Kapingamarangi,Carolinian,4
-Kapingamarangi,Takuu,5
-Kapingamarangi,Yapese,6
+Kapingamarangi,Yapese,5
+Kapingamarangi,Takuu,6
 Kapingamarangi,Puluwatese,7
 Kapingamarangi,Woleaian,8
 Kapingamarangi,Pohnpeian,9
 Kapingamarangi,Rennell-Bellona,10
-Karamojong,Iraqw,1
-Karamojong,Southwestern Dinka,2
+Karamojong,Southwestern Dinka,1
+Karamojong,Iraqw,2
 Karamojong,Nandi,3
 Karamojong,Ha,4
 Karamojong,Sidamo,5
@@ -2250,25 +2230,25 @@ Karamojong,Ndau,8
 Karamojong,Zigula-Mushungulu,9
 Karamojong,Southern Sotho,10
 Kashmiri,Maithili,1
-Kashmiri,Telugu,2
-Kashmiri,Eastern Panjabi,3
+Kashmiri,Eastern Panjabi,2
+Kashmiri,Telugu,3
 Kashmiri,Marathi,4
 Kashmiri,Tulu,5
 Kashmiri,Kannada,6
-Kashmiri,Mahasu Pahari,7
-Kashmiri,Western Panjabi,8
+Kashmiri,Western Panjabi,7
+Kashmiri,Mahasu Pahari,8
 Kashmiri,Kathmandu Valley Newari,9
 Kashmiri,Saurashtra,10
 Kathmandu Valley Newari,Maithili,1
 Kathmandu Valley Newari,Saurashtra,2
 Kathmandu Valley Newari,Badaga,3
 Kathmandu Valley Newari,Kashmiri,4
-Kathmandu Valley Newari,Mahasu Pahari,5
-Kathmandu Valley Newari,Manda,6
+Kathmandu Valley Newari,Manda,5
+Kathmandu Valley Newari,Mahasu Pahari,6
 Kathmandu Valley Newari,Caribbean Hindustani,7
-Kathmandu Valley Newari,Bondo,8
-Kathmandu Valley Newari,Santali,9
-Kathmandu Valley Newari,Mundari,10
+Kathmandu Valley Newari,Mundari,8
+Kathmandu Valley Newari,Bondo,9
+Kathmandu Valley Newari,Santali,10
 Katë,Eastern Balochi,1
 Katë,Didinga,2
 Katë,Gade,3
@@ -2297,7 +2277,7 @@ Khasi,Rabha,5
 Khasi,Mizo,6
 Khasi,Mara Chin,7
 Khasi,Kipsigis,8
-Khasi,Sora,9
+Khasi,Mising-Padam-Miri-Minyong,9
 Khasi,Mundari,10
 Khotanese,Neo-Mandaic,1
 Khotanese,Jewish Babylonian Aramaic,2
@@ -2306,8 +2286,8 @@ Khotanese,Avestan,4
 Khotanese,Assyrian Neo-Aramaic,5
 Khotanese,Khwarezmian,6
 Khotanese,Classical Syriac,7
-Khotanese,Kashmiri,8
-Khotanese,Andalusian Arabic,9
+Khotanese,Andalusian Arabic,8
+Khotanese,Kashmiri,9
 Khotanese,Sinhala,10
 Khwarezmian,Lycian A,1
 Khwarezmian,Avestan,2
@@ -2318,7 +2298,7 @@ Khwarezmian,Classical Nahuatl,6
 Khwarezmian,Central Carrier,7
 Khwarezmian,Katë,8
 Khwarezmian,Ho-Chunk,9
-Khwarezmian,Northeast Maidu,10
+Khwarezmian,Ute-Southern Paiute,10
 Kiliwa,Cahuilla,1
 Kiliwa,Navajo,2
 Kiliwa,Shoshoni,3
@@ -2328,27 +2308,27 @@ Kiliwa,Jicarilla Apache,6
 Kiliwa,Northwest Sahaptin,7
 Kiliwa,Comanche,8
 Kiliwa,Yaqui,9
-Kiliwa,Alabama,10
+Kiliwa,K'iche',10
 Kinshasa Lingala,Tok Pisin,1
 Kinshasa Lingala,Ndau,2
 Kinshasa Lingala,Warao,3
 Kinshasa Lingala,Bobangi,4
-Kinshasa Lingala,Abua,5
-Kinshasa Lingala,Didinga,6
+Kinshasa Lingala,Didinga,5
+Kinshasa Lingala,Abua,6
 Kinshasa Lingala,South-Central Koongo,7
-Kinshasa Lingala,Lega-Shabunda,8
-Kinshasa Lingala,Sango,9
-Kinshasa Lingala,Tangale,10
-Kinyarwanda,Eastern Yiddish,1
-Kinyarwanda,Moselle Franconian,2
-Kinyarwanda,Southern Hindko,3
-Kinyarwanda,Slovenian,4
+Kinshasa Lingala,Sango,8
+Kinshasa Lingala,Lega-Shabunda,9
+Kinshasa Lingala,Liberia Kpelle,10
+Kinyarwanda,Moselle Franconian,1
+Kinyarwanda,Eastern Yiddish,2
+Kinyarwanda,Slovenian,3
+Kinyarwanda,Southern Hindko,4
 Kinyarwanda,Turkana,5
 Kinyarwanda,Sicilian,6
 Kinyarwanda,Slovak,7
 Kinyarwanda,Eastern Armenian,8
-Kinyarwanda,Spanish,9
-Kinyarwanda,Latin American Spanish,10
+Kinyarwanda,Latin American Spanish,9
+Kinyarwanda,Spanish,10
 Kipsigis,Kwangali,1
 Kipsigis,Karamojong,2
 Kipsigis,Tsonga,3
@@ -2356,9 +2336,9 @@ Kipsigis,Swati,4
 Kipsigis,Turkana,5
 Kipsigis,Nandi,6
 Kipsigis,Somali,7
-Kipsigis,Gaam,8
-Kipsigis,Southwestern Dinka,9
-Kipsigis,Ncane-Mungong,10
+Kipsigis,Ncane-Mungong,8
+Kipsigis,Gaam,9
+Kipsigis,Southwestern Dinka,10
 Kirghiz,Northern Uzbek,1
 Kirghiz,Filipino,2
 Kirghiz,Tibetan,3
@@ -2383,11 +2363,11 @@ Koasati,Alabama,1
 Koasati,Creek,2
 Koasati,Cahuilla,3
 Koasati,Comanche,4
-Koasati,Shoshoni,5
-Koasati,Havasupai-Walapai-Yavapai,6
+Koasati,Havasupai-Walapai-Yavapai,5
+Koasati,Shoshoni,6
 Koasati,Northwest Sahaptin,7
-Koasati,Upper Chehalis,8
-Koasati,Eastern Ojibwa,9
+Koasati,Eastern Ojibwa,8
+Koasati,Upper Chehalis,9
 Koasati,Tonkawa,10
 Kok Borok,Chang Naga,1
 Kok Borok,Nez Perce,2
@@ -2397,18 +2377,18 @@ Kok Borok,Gujarati,5
 Kok Borok,Semai,6
 Kok Borok,Javanese,7
 Kok Borok,Shan,8
-Kok Borok,Odia,9
-Kok Borok,Turkana,10
+Kok Borok,Turkana,9
+Kok Borok,Odia,10
 Korean,Japanese,1
 Korean,Vietnamese,2
 Korean,Mandarin Chinese,3
 Korean,Kirghiz,4
 Korean,Standard Indonesian,5
-Korean,Finnish,6
-Korean,Burmese,7
-Korean,Northern Uzbek,8
-Korean,Estonian,9
-Korean,Romanian,10
+Korean,Burmese,6
+Korean,German,7
+Korean,Estonian,8
+Korean,Northern Uzbek,9
+Korean,Swedish,10
 Kosarek Yale,Yagaria,1
 Kosarek Yale,Kalam,2
 Kosarek Yale,Oksapmin,3
@@ -2434,8 +2414,8 @@ Kuanyama,South-Central Koongo,2
 Kuanyama,Turkana,3
 Kuanyama,Bobangi,4
 Kuanyama,Xhosa,5
-Kuanyama,Ndau,6
-Kuanyama,Yoruba,7
+Kuanyama,Yoruba,6
+Kuanyama,Ndau,7
 Kuanyama,Cornish,8
 Kuanyama,Swati,9
 Kuanyama,Tsonga,10
@@ -2458,7 +2438,7 @@ Kuku-Yalanji,Mudburra,6
 Kuku-Yalanji,Ngalkbun,7
 Kuku-Yalanji,Jingulu,8
 Kuku-Yalanji,Tweed-Albert,9
-Kuku-Yalanji,Wirangu,10
+Kuku-Yalanji,Yandruwandha,10
 Kumbainggar,Wirangu,1
 Kumbainggar,Tiwi,2
 Kumbainggar,Tweed-Albert,3
@@ -2481,8 +2461,8 @@ Kurukh,Zulu,9
 Kurukh,Mizo,10
 Kwaio,Nakanai,1
 Kwaio,'Are'are,2
-Kwaio,Lau,3
-Kwaio,Cheke Holo,4
+Kwaio,Cheke Holo,3
+Kwaio,Lau,4
 Kwaio,Arosi,5
 Kwaio,Kwamera,6
 Kwaio,To'abaita,7
@@ -2490,24 +2470,24 @@ Kwaio,Telefol,8
 Kwaio,Yagaria,9
 Kwaio,Gela,10
 Kwak'wala,Squamish,1
-Kwak'wala,Bella Coola,2
-Kwak'wala,Aleut,3
+Kwak'wala,Aleut,2
+Kwak'wala,Bella Coola,3
 Kwak'wala,Upper Chehalis,4
 Kwak'wala,Haisla,5
 Kwak'wala,Dena'ina,6
 Kwak'wala,Tanacross,7
 Kwak'wala,Nuu-chah-nulth,8
-Kwak'wala,Northwest Sahaptin,9
-Kwak'wala,Central Siberian Yupik,10
+Kwak'wala,Central Siberian Yupik,9
+Kwak'wala,Northwest Sahaptin,10
 Kwamera,Lenakel,1
 Kwamera,Mele-Fila,2
 Kwamera,Dakaka,3
 Kwamera,Sie,4
 Kwamera,Nakanai,5
 Kwamera,Cheke Holo,6
-Kwamera,To'abaita,7
-Kwamera,Teop,8
-Kwamera,Futuna-Aniwa,9
+Kwamera,Futuna-Aniwa,7
+Kwamera,To'abaita,8
+Kwamera,Teop,9
 Kwamera,Aneityum,10
 Kwangali,Kipsigis,1
 Kwangali,Tsonga,2
@@ -2520,12 +2500,12 @@ Kwangali,Zigula-Mushungulu,8
 Kwangali,Nandi,9
 Kwangali,Slovak,10
 Kwoma,Kalam,1
-Kwoma,To'abaita,2
-Kwoma,Kyaka,3
-Kwoma,Nakanai,4
-Kwoma,Terei,5
-Kwoma,Tangga,6
-Kwoma,Cheke Holo,7
+Kwoma,Kyaka,2
+Kwoma,To'abaita,3
+Kwoma,Terei,4
+Kwoma,Nakanai,5
+Kwoma,Cheke Holo,6
+Kwoma,Tangga,7
 Kwoma,Kwaio,8
 Kwoma,Tikopia,9
 Kwoma,Nen,10
@@ -2533,12 +2513,12 @@ Kxoe,East Taa,1
 Kxoe,Diriku-Shambyu,2
 Kxoe,Lega-Shabunda,3
 Kxoe,Southwestern Dinka,4
-Kxoe,Tangale,5
-Kxoe,Nandi,6
+Kxoe,Nandi,5
+Kxoe,Tangale,6
 Kxoe,Bambara,7
 Kxoe,Iraqw,8
 Kxoe,Mwaghavul,9
-Kxoe,Bafanji,10
+Kxoe,Yao,10
 Kyaka,Kalam,1
 Kyaka,Telefol,2
 Kyaka,West Kewa,3
@@ -2567,8 +2547,8 @@ Kómnjo,Sinaugoro,5
 Kómnjo,Angguruk Yali,6
 Kómnjo,West Kewa,7
 Kómnjo,Fuyug,8
-Kómnjo,Äiwoo,9
-Kómnjo,Cheke Holo,10
+Kómnjo,Cheke Holo,9
+Kómnjo,Äiwoo,10
 Ladino,Haitian,1
 Ladino,Eastern Yiddish,2
 Ladino,Media Lengua,3
@@ -2587,18 +2567,18 @@ Lakota,Koasati,5
 Lakota,Alabama,6
 Lakota,Northwest Sahaptin,7
 Lakota,Upper Chehalis,8
-Lakota,Shoshoni,9
-Lakota,Cheyenne,10
+Lakota,Tonkawa,9
+Lakota,Shoshoni,10
 Lamba,Ganda,1
 Lamba,Giryama,2
 Lamba,Tswana,3
 Lamba,Zigula-Mushungulu,4
 Lamba,Nyanja,5
 Lamba,Yao,6
-Lamba,Mbukushu,7
-Lamba,Zande,8
+Lamba,Zande,7
+Lamba,Mbukushu,8
 Lamba,Ndau,9
-Lamba,Lozi,10
+Lamba,Venda,10
 Lao,Central Khmer,1
 Lao,Thai,2
 Lao,Maranao,3
@@ -2607,17 +2587,17 @@ Lao,Sembakung Murut,5
 Lao,Uighur,6
 Lao,Tai Nüa,7
 Lao,Galician,8
-Lao,Tai Dón,9
-Lao,Mon,10
+Lao,Coastal-Naga Bikol,9
+Lao,Tai Dón,10
 Larike-Wakasihu,Rongga,1
 Larike-Wakasihu,Muna,2
 Larike-Wakasihu,Arta,3
 Larike-Wakasihu,Mag-Anchi Ayta,4
 Larike-Wakasihu,Misima-Paneati,5
-Larike-Wakasihu,Äiwoo,6
-Larike-Wakasihu,Talise,7
-Larike-Wakasihu,Sinaugoro,8
-Larike-Wakasihu,Mansaka,9
+Larike-Wakasihu,Talise,6
+Larike-Wakasihu,Äiwoo,7
+Larike-Wakasihu,Mansaka,8
+Larike-Wakasihu,Sinaugoro,9
 Larike-Wakasihu,Mali,10
 Latin,Modern Greek,1
 Latin,Welsh,2
@@ -2625,20 +2605,20 @@ Latin,Old English,3
 Latin,Dzongkha,4
 Latin,Old French,5
 Latin,Classical Syriac,6
-Latin,Irish,7
-Latin,Old Norse,8
-Latin,Portuguese,9
-Latin,Scottish Gaelic,10
+Latin,Old Norse,7
+Latin,Irish,8
+Latin,Scottish Gaelic,9
+Latin,Portuguese,10
 Latin American Spanish,Spanish,1
 Latin American Spanish,French,2
 Latin American Spanish,Italian,3
 Latin American Spanish,Slovenian,4
-Latin American Spanish,Portuguese,5
-Latin American Spanish,Galician,6
-Latin American Spanish,Afrikaans,7
+Latin American Spanish,Norwegian,5
+Latin American Spanish,Afrikaans,6
+Latin American Spanish,Portuguese,7
 Latin American Spanish,Polish,8
 Latin American Spanish,Serbian-Croatian-Bosnian,9
-Latin American Spanish,Sicilian,10
+Latin American Spanish,Galician,10
 Latvian,Ukrainian,1
 Latvian,Lithuanian,2
 Latvian,Russian,3
@@ -2646,11 +2626,11 @@ Latvian,Hungarian,4
 Latvian,Polish,5
 Latvian,Slovak,6
 Latvian,Czech,7
-Latvian,Swedish,8
-Latvian,Danish,9
-Latvian,Upper Sorbian,10
-Lau,Arosi,1
-Lau,Gela,2
+Latvian,Finnish,8
+Latvian,Swedish,9
+Latvian,Danish,10
+Lau,Gela,1
+Lau,Arosi,2
 Lau,'Are'are,3
 Lau,Roviana,4
 Lau,Bughotu,5
@@ -2661,9 +2641,9 @@ Lau,Mailu,9
 Lau,Orokolo,10
 Lega-Shabunda,Kxoe,1
 Lega-Shabunda,Bongo,2
-Lega-Shabunda,Tangale,3
-Lega-Shabunda,Warao,4
-Lega-Shabunda,Liberia Kpelle,5
+Lega-Shabunda,Liberia Kpelle,3
+Lega-Shabunda,Tangale,4
+Lega-Shabunda,Warao,5
 Lega-Shabunda,Mwaghavul,6
 Lega-Shabunda,Limbu,7
 Lega-Shabunda,Beng,8
@@ -2675,20 +2655,20 @@ Leh Ladakhi,Lisu,3
 Leh Ladakhi,Javanese,4
 Leh Ladakhi,Media Lengua,5
 Leh Ladakhi,Beja,6
-Leh Ladakhi,Saurashtra,7
-Leh Ladakhi,Sumerian,8
-Leh Ladakhi,Chadian Arabic,9
-Leh Ladakhi,Central Kanuri,10
+Leh Ladakhi,West Circassian,7
+Leh Ladakhi,Chadian Arabic,8
+Leh Ladakhi,Saurashtra,9
+Leh Ladakhi,Sumerian,10
 Lenakel,Kwamera,1
 Lenakel,Nafsan,2
-Lenakel,Sie,3
+Lenakel,Paama,3
 Lenakel,To'abaita,4
-Lenakel,Paama,5
+Lenakel,Sie,5
 Lenakel,Äiwoo,6
 Lenakel,Mele-Fila,7
 Lenakel,Misima-Paneati,8
-Lenakel,Talise,9
-Lenakel,Daakie,10
+Lenakel,Daakie,9
+Lenakel,Talise,10
 Lepcha,Southern Jinghpaw,1
 Lepcha,Sora,2
 Lepcha,Khasi,3
@@ -2698,15 +2678,15 @@ Lepcha,Shan,6
 Lepcha,Mizo,7
 Lepcha,S'gaw Karen,8
 Lepcha,Mon,9
-Lepcha,East-Central Tangkhul Naga,10
+Lepcha,Rabha,10
 Levantine Arabic,Gilit Mesopotamian Arabic,1
 Levantine Arabic,Gulf Arabic,2
 Levantine Arabic,Sanaani Arabic,3
 Levantine Arabic,Moroccan Arabic,4
 Levantine Arabic,Japanese,5
 Levantine Arabic,Turkmen,6
-Levantine Arabic,Northern Uzbek,7
-Levantine Arabic,Bulgarian,8
+Levantine Arabic,Bulgarian,7
+Levantine Arabic,Northern Uzbek,8
 Levantine Arabic,Korean,9
 Levantine Arabic,Vietnamese,10
 Liberia Kpelle,Lega-Shabunda,1
@@ -2726,19 +2706,19 @@ Limbu,Rade,4
 Limbu,Lega-Shabunda,5
 Limbu,Tetum,6
 Limbu,Thao,7
-Limbu,Tai Nüa,8
-Limbu,Bolivar-North Chimborazo Highland Quichua,9
+Limbu,Bolivar-North Chimborazo Highland Quichua,8
+Limbu,Tai Nüa,9
 Limbu,Fore,10
 Lisu,Tai Nüa,1
 Lisu,Paiwan,2
-Lisu,Nung,3
-Lisu,Akha,4
+Lisu,Akha,3
+Lisu,Nung,4
 Lisu,Tetum,5
-Lisu,Sadri,6
-Lisu,Western Parbate Kham,7
-Lisu,Rabha,8
-Lisu,East-Central Tangkhul Naga,9
-Lisu,Leh Ladakhi,10
+Lisu,Leh Ladakhi,6
+Lisu,East-Central Tangkhul Naga,7
+Lisu,Western Parbate Kham,8
+Lisu,Mara Chin,9
+Lisu,Rabha,10
 Lithuanian,Hungarian,1
 Lithuanian,Serbian-Croatian-Bosnian,2
 Lithuanian,Ukrainian,3
@@ -2754,19 +2734,19 @@ Lokono,Akawaio-Ingariko,2
 Lokono,Agusan Manobo,3
 Lokono,Temiar,4
 Lokono,Iquito,5
-Lokono,Tetum,6
-Lokono,Warao,7
-Lokono,Nyole,8
+Lokono,Warao,6
+Lokono,Nyole,7
+Lokono,Tetum,8
 Lokono,Toaripi,9
 Lokono,Nen,10
 Lonwolwol,Lenakel,1
 Lonwolwol,Mota,2
-Lonwolwol,Nafsan,3
-Lonwolwol,Aneityum,4
-Lonwolwol,Futuna-Aniwa,5
+Lonwolwol,Futuna-Aniwa,3
+Lonwolwol,Nafsan,4
+Lonwolwol,Aneityum,5
 Lonwolwol,Uripiv,6
-Lonwolwol,Daakie,7
-Lonwolwol,Kwamera,8
+Lonwolwol,Kwamera,7
+Lonwolwol,Daakie,8
 Lonwolwol,Raluana,9
 Lonwolwol,Paama,10
 Lopit,Bongo,1
@@ -2775,9 +2755,9 @@ Lopit,Shatt,3
 Lopit,Belanda Bor,4
 Lopit,Mandari,5
 Lopit,Chung,6
-Lopit,Shilluk,7
-Lopit,Bafanji,8
-Lopit,Lega-Shabunda,9
+Lopit,Bafanji,7
+Lopit,Shilluk,8
+Lopit,Naro,9
 Lopit,Ncane-Mungong,10
 Lou,Mele-Fila,1
 Lou,Teop,2
@@ -2799,6 +2779,16 @@ Louisiana Creole French,Western Apache,7
 Louisiana Creole French,Jicarilla Apache,8
 Louisiana Creole French,Havasupai-Walapai-Yavapai,9
 Louisiana Creole French,Moroccan Arabic,10
+Louisiana French,Plautdietsch,1
+Louisiana French,Eastern Yiddish,2
+Louisiana French,Spanish,3
+Louisiana French,Latin American Spanish,4
+Louisiana French,Moselle Franconian,5
+Louisiana French,Galician,6
+Louisiana French,Norwegian,7
+Louisiana French,Afrikaans,8
+Louisiana French,Chamorro,9
+Louisiana French,Italian,10
 Lozi,Southern Sotho,1
 Lozi,Venda,2
 Lozi,Mambwe-Lungu,3
@@ -2807,8 +2797,8 @@ Lozi,Mbukushu,5
 Lozi,Ndonga,6
 Lozi,Xhosa,7
 Lozi,Ganda,8
-Lozi,Lamba,9
-Lozi,Tswana,10
+Lozi,Tswana,9
+Lozi,Ha,10
 Lundayeh,Muna,1
 Lundayeh,Thao,2
 Lundayeh,Baram Kayan,3
@@ -2855,30 +2845,30 @@ Maguindanao,Pangasinan,3
 Maguindanao,Tausug,4
 Maguindanao,Masbatenyo,5
 Maguindanao,Yakan,6
-Maguindanao,Cebuano,7
-Maguindanao,Pampanga,8
+Maguindanao,Pampanga,7
+Maguindanao,Cebuano,8
 Maguindanao,Mapun,9
 Maguindanao,Waray,10
 Mahasu Pahari,Mundari,1
 Mahasu Pahari,Sora,2
 Mahasu Pahari,Kashmiri,3
 Mahasu Pahari,Manda,4
-Mahasu Pahari,Bondo,5
-Mahasu Pahari,Kathmandu Valley Newari,6
+Mahasu Pahari,Kathmandu Valley Newari,5
+Mahasu Pahari,Bondo,6
 Mahasu Pahari,Western Panjabi,7
-Mahasu Pahari,East-Central Tangkhul Naga,8
-Mahasu Pahari,Dimasa,9
+Mahasu Pahari,Dimasa,8
+Mahasu Pahari,East-Central Tangkhul Naga,9
 Mahasu Pahari,Badaga,10
 Mailu,Raluana,1
-Mailu,Futuna-Aniwa,2
-Mailu,Gela,3
-Mailu,Roviana,4
+Mailu,Roviana,2
+Mailu,Futuna-Aniwa,3
+Mailu,Gela,4
 Mailu,Lau,5
 Mailu,Aneityum,6
 Mailu,'Are'are,7
 Mailu,Toaripi,8
 Mailu,Arosi,9
-Mailu,Mota,10
+Mailu,Tangga,10
 Maithili,Kashmiri,1
 Maithili,Saurashtra,2
 Maithili,Kathmandu Valley Newari,3
@@ -2895,9 +2885,9 @@ Malacca-Batavia Portuguese Creole,Besisi,3
 Malacca-Batavia Portuguese Creole,Ladino,4
 Malacca-Batavia Portuguese Creole,Urak Lawoi',5
 Malacca-Batavia Portuguese Creole,Sembakung Murut,6
-Malacca-Batavia Portuguese Creole,Wolof,7
-Malacca-Batavia Portuguese Creole,Ga,8
-Malacca-Batavia Portuguese Creole,Pampanga,9
+Malacca-Batavia Portuguese Creole,Ga,7
+Malacca-Batavia Portuguese Creole,Pampanga,8
+Malacca-Batavia Portuguese Creole,Wolof,9
 Malacca-Batavia Portuguese Creole,Chadian Arabic,10
 Malayalam,Kannada,1
 Malayalam,Telugu,2
@@ -2916,8 +2906,8 @@ Malayo,Manx,4
 Malayo,Mayan,5
 Malayo,Lepcha,6
 Malayo,Kudmali,7
-Malayo,Latin,8
-Malayo,Dzongkha,9
+Malayo,Dzongkha,8
+Malayo,Latin,9
 Malayo,Scottish Gaelic,10
 Malecite-Passamaquoddy,Plains Cree,1
 Malecite-Passamaquoddy,Western Abenaki,2
@@ -2925,8 +2915,8 @@ Malecite-Passamaquoddy,Ipai,3
 Malecite-Passamaquoddy,Eastern Canadian Inuktitut,4
 Malecite-Passamaquoddy,Western Canadian Inuktitut,5
 Malecite-Passamaquoddy,Isthmus Zapotec,6
-Malecite-Passamaquoddy,Western Ojibwa,7
-Malecite-Passamaquoddy,Awa,8
+Malecite-Passamaquoddy,Awa,7
+Malecite-Passamaquoddy,Western Ojibwa,8
 Malecite-Passamaquoddy,Western Apache,9
 Malecite-Passamaquoddy,Klamath-Modoc,10
 Mali,Nafsan,1
@@ -2977,12 +2967,12 @@ Mandari,Shatt,5
 Mandari,Sidamo,6
 Mandari,Ha,7
 Mandari,Chung,8
-Mandari,Palula,9
-Mandari,Shilluk,10
+Mandari,Shilluk,9
+Mandari,Palula,10
 Mandarin Chinese,Korean,1
 Mandarin Chinese,Vietnamese,2
-Mandarin Chinese,Min Nan Chinese,3
-Mandarin Chinese,Japanese,4
+Mandarin Chinese,Japanese,3
+Mandarin Chinese,Min Nan Chinese,4
 Mandarin Chinese,Min Dong Chinese,5
 Mandarin Chinese,Burmese,6
 Mandarin Chinese,Yue Chinese,7
@@ -3000,15 +2990,15 @@ Mandinka,Buli,8
 Mandinka,Central Kanuri,9
 Mandinka,Central Dagaare,10
 Mangareva,Mota,1
-Mangareva,Dehu,2
-Mangareva,Gilbertese,3
-Mangareva,Rotuman,4
-Mangareva,Tuamotuan,5
-Mangareva,Nengone,6
-Mangareva,Futuna-Aniwa,7
+Mangareva,Gilbertese,2
+Mangareva,Dehu,3
+Mangareva,Futuna-Aniwa,4
+Mangareva,Nengone,5
+Mangareva,Tuamotuan,6
+Mangareva,Rotuman,7
 Mangareva,Roviana,8
-Mangareva,Samoan,9
-Mangareva,Arosi,10
+Mangareva,Arosi,9
+Mangareva,Samoan,10
 Manipuri,Odia,1
 Manipuri,Bodo-Mech,2
 Manipuri,Gujarati,3
@@ -3016,17 +3006,17 @@ Manipuri,Assamese,4
 Manipuri,Chang Naga,5
 Manipuri,Filipino,6
 Manipuri,Estonian,7
-Manipuri,Kok Borok,8
-Manipuri,Mandarin Chinese,9
-Manipuri,Standard Indonesian,10
+Manipuri,Mandarin Chinese,8
+Manipuri,German,9
+Manipuri,Kok Borok,10
 Mansaka,Mag-Anchi Ayta,1
 Mansaka,Tboli,2
 Mansaka,Muna,3
 Mansaka,Yogad,4
 Mansaka,Casiguran-Nagtipunan Agta,5
 Mansaka,Yakan,6
-Mansaka,Thao,7
-Mansaka,Arta,8
+Mansaka,Arta,7
+Mansaka,Thao,8
 Mansaka,Rongga,9
 Mansaka,Lundayeh,10
 Manx,Scottish Gaelic,1
@@ -3034,19 +3024,19 @@ Manx,Irish,2
 Manx,Welsh,3
 Manx,Cornish,4
 Manx,Old English,5
-Manx,Breton,6
-Manx,Scots,7
-Manx,Latin,8
+Manx,Scots,6
+Manx,Latin,7
+Manx,Breton,8
 Manx,Choctaw,9
-Manx,Eastern Armenian,10
+Manx,Western Flemish,10
 Maori,Tuamotuan,1
 Maori,Hawaiian,2
 Maori,Niuean,3
 Maori,Fijian,4
 Maori,Tahitian,5
 Maori,Samoan,6
-Maori,Takuu,7
-Maori,Tonga,8
+Maori,Tonga,7
+Maori,Takuu,8
 Maori,Tikopia,9
 Maori,Rotuman,10
 Mapun,Tausug,1
@@ -3054,8 +3044,8 @@ Mapun,Yakan,2
 Mapun,Tboli,3
 Mapun,Masbatenyo,4
 Mapun,Yogad,5
-Mapun,Cebuano,6
-Mapun,Maguindanao,7
+Mapun,Maguindanao,6
+Mapun,Cebuano,7
 Mapun,Romblomanon,8
 Mapun,Mansaka,9
 Mapun,Mag-Anchi Ayta,10
@@ -3064,11 +3054,11 @@ Mara Chin,Mizo,2
 Mara Chin,East-Central Tangkhul Naga,3
 Mara Chin,Dimasa,4
 Mara Chin,Southern Jinghpaw,5
-Mara Chin,Akha,6
-Mara Chin,Bobangi,7
-Mara Chin,Ndau,8
-Mara Chin,Sadri,9
-Mara Chin,Lisu,10
+Mara Chin,Bobangi,6
+Mara Chin,Akha,7
+Mara Chin,Lisu,8
+Mara Chin,Ndau,9
+Mara Chin,Sadri,10
 Maranao,Waray,1
 Maranao,Maguindanao,2
 Maranao,Iloko,3
@@ -3096,9 +3086,9 @@ Marra,Gedaged,4
 Marra,Kosarek Yale,5
 Marra,Yagaria,6
 Marra,Kwaio,7
-Marra,Arosi,8
-Marra,'Are'are,9
-Marra,Telefol,10
+Marra,Telefol,8
+Marra,Arosi,9
+Marra,'Are'are,10
 Marshallese,Mokilese,1
 Marshallese,Chuukese,2
 Marshallese,Carolinian,3
@@ -3126,17 +3116,17 @@ Masai,Sidamo,4
 Masai,Iraqw,5
 Masai,Pulaar,6
 Masai,Karamojong,7
-Masai,Nandi,8
+Masai,Nyankole,8
 Masai,Tangale,9
-Masai,Nyankole,10
+Masai,Nandi,10
 Masbatenyo,Tausug,1
 Masbatenyo,Maguindanao,2
 Masbatenyo,Chamorro,3
 Masbatenyo,Waray,4
 Masbatenyo,Mapun,5
 Masbatenyo,Pangasinan,6
-Masbatenyo,Cebuano,7
-Masbatenyo,Pampanga,8
+Masbatenyo,Pampanga,7
+Masbatenyo,Cebuano,8
 Masbatenyo,Coastal-Naga Bikol,9
 Masbatenyo,Iloko,10
 Mayan,Central Tarahumara,1
@@ -3145,10 +3135,10 @@ Mayan,K'iche',3
 Mayan,Kalispel-Pend d'Oreille,4
 Mayan,Mískito,5
 Mayan,Cayubaba,6
-Mayan,Bolivar-North Chimborazo Highland Quichua,7
+Mayan,Western Temne,7
 Mayan,Western Huasteca Nahuatl,8
-Mayan,Western Temne,9
-Mayan,Mbay,10
+Mayan,Bolivar-North Chimborazo Highland Quichua,9
+Mayan,Mungaka,10
 Mbay,Buli,1
 Mbay,Gikyode,2
 Mbay,Central Dagaare,3
@@ -3161,14 +3151,14 @@ Mbay,Anufo,9
 Mbay,Gbari,10
 Mbukushu,Tswana,1
 Mbukushu,Lozi,2
-Mbukushu,Lamba,3
-Mbukushu,Xhosa,4
+Mbukushu,Xhosa,3
+Mbukushu,Lamba,4
 Mbukushu,Southern Sotho,5
 Mbukushu,Venda,6
 Mbukushu,Ganda,7
 Mbukushu,Shona,8
 Mbukushu,Ndau,9
-Mbukushu,Kamba,10
+Mbukushu,Herero,10
 Media Lengua,Haitian,1
 Media Lengua,Bolivar-North Chimborazo Highland Quichua,2
 Media Lengua,Garifuna,3
@@ -3176,8 +3166,8 @@ Media Lengua,Ladino,4
 Media Lengua,Chadian Arabic,5
 Media Lengua,Yaqui,6
 Media Lengua,Papiamento,7
-Media Lengua,K'iche',8
-Media Lengua,Western Frisian,9
+Media Lengua,Western Frisian,8
+Media Lengua,K'iche',9
 Media Lengua,Tuvinian,10
 Mele-Fila,Teop,1
 Mele-Fila,Aneityum,2
@@ -3185,30 +3175,30 @@ Mele-Fila,Kwamera,3
 Mele-Fila,Dakaka,4
 Mele-Fila,Lenakel,5
 Mele-Fila,Futuna-Aniwa,6
-Mele-Fila,Lou,7
-Mele-Fila,Sie,8
+Mele-Fila,Sie,7
+Mele-Fila,Lou,8
 Mele-Fila,Nafsan,9
 Mele-Fila,Gela,10
 Meskwaki,Shoshoni,1
 Meskwaki,Havasupai-Walapai-Yavapai,2
-Meskwaki,Coast Miwok,3
-Meskwaki,Atakapa,4
-Meskwaki,Creek,5
+Meskwaki,Atakapa,3
+Meskwaki,Creek,4
+Meskwaki,Coast Miwok,5
 Meskwaki,Tonkawa,6
 Meskwaki,Alabama,7
 Meskwaki,Cahuilla,8
 Meskwaki,Upper Chehalis,9
-Meskwaki,Northwest Sahaptin,10
+Meskwaki,Koasati,10
 Mexican Spanish,Brazilian Portuguese,1
 Mexican Spanish,Caló,2
 Mexican Spanish,Latin American Spanish,3
 Mexican Spanish,Media Lengua,4
 Mexican Spanish,Ladino,5
-Mexican Spanish,Spanish,6
-Mexican Spanish,Chamorro,7
-Mexican Spanish,Cajun French,8
+Mexican Spanish,Louisiana French,6
+Mexican Spanish,Spanish,7
+Mexican Spanish,Chamorro,8
 Mexican Spanish,Singlish,9
-Mexican Spanish,Aromanian,10
+Mexican Spanish,Coastal-Naga Bikol,10
 Mi'kmaq,Dena'ina,1
 Mi'kmaq,Central Siberian Yupik,2
 Mi'kmaq,Tanacross,3
@@ -3243,12 +3233,12 @@ Midland American English,Devon,1
 Midland American English,Essex,2
 Midland American English,Northeast Maidu,3
 Midland American English,Moselle Franconian,4
-Midland American English,Eastern Yiddish,5
-Midland American English,Plautdietsch,6
+Midland American English,Plautdietsch,5
+Midland American English,Eastern Yiddish,6
 Midland American English,Ulster,7
 Midland American English,South Yorkshire English,8
-Midland American English,Trinidadian Creole English,9
-Midland American English,Pennsylvania German,10
+Midland American English,Pennsylvania German,9
+Midland American English,Trinidadian Creole English,10
 Min Dong Chinese,Yue Chinese,1
 Min Dong Chinese,Hakka Chinese,2
 Min Dong Chinese,Min Nan Chinese,3
@@ -3315,10 +3305,10 @@ Modern Hebrew,Geez,3
 Modern Hebrew,Standard Arabic,4
 Modern Hebrew,Ancient Hebrew,5
 Modern Hebrew,Neo-Mandaic,6
-Modern Hebrew,Latin,7
-Modern Hebrew,Dzongkha,8
-Modern Hebrew,Modern Greek,9
-Modern Hebrew,Eastern Armenian,10
+Modern Hebrew,Eastern Armenian,7
+Modern Hebrew,Modern Greek,8
+Modern Hebrew,Latin,9
+Modern Hebrew,Dzongkha,10
 Mokilese,Yapese,1
 Mokilese,Kapingamarangi,2
 Mokilese,Marshallese,3
@@ -3341,24 +3331,24 @@ Mon,Dimasa,9
 Mon,Tetum,10
 Moroccan Arabic,Gulf Arabic,1
 Moroccan Arabic,Sanaani Arabic,2
-Moroccan Arabic,Wolof,3
-Moroccan Arabic,Levantine Arabic,4
+Moroccan Arabic,Levantine Arabic,3
+Moroccan Arabic,Wolof,4
 Moroccan Arabic,Gilit Mesopotamian Arabic,5
 Moroccan Arabic,Turkmen,6
 Moroccan Arabic,Chadian Arabic,7
 Moroccan Arabic,Ladino,8
 Moroccan Arabic,Aromanian,9
-Moroccan Arabic,Louisiana Creole French,10
+Moroccan Arabic,Haitian,10
 Moselle Franconian,Slovenian,1
 Moselle Franconian,Eastern Yiddish,2
-Moselle Franconian,Norwegian,3
-Moselle Franconian,Afrikaans,4
-Moselle Franconian,Danish,5
-Moselle Franconian,Galician,6
+Moselle Franconian,Finnish,3
+Moselle Franconian,Norwegian,4
+Moselle Franconian,Afrikaans,5
+Moselle Franconian,Danish,6
 Moselle Franconian,Hungarian,7
-Moselle Franconian,Polish,8
-Moselle Franconian,Upper Sorbian,9
-Moselle Franconian,Serbian-Croatian-Bosnian,10
+Moselle Franconian,Galician,8
+Moselle Franconian,Serbian-Croatian-Bosnian,9
+Moselle Franconian,Upper Sorbian,10
 Mota,Arosi,1
 Mota,Gela,2
 Mota,Lau,3
@@ -3387,23 +3377,23 @@ Muna,Yakan,5
 Muna,Iban,6
 Muna,Yogad,7
 Muna,Thao,8
-Muna,Baram Kayan,9
-Muna,Larike-Wakasihu,10
+Muna,Larike-Wakasihu,9
+Muna,Baram Kayan,10
 Mundari,Manda,1
 Mundari,Kudmali,2
 Mundari,Sora,3
 Mundari,Dimasa,4
 Mundari,Mahasu Pahari,5
-Mundari,Ho,6
-Mundari,Bondo,7
+Mundari,Bondo,6
+Mundari,Ho,7
 Mundari,Sadri,8
 Mundari,Western Panjabi,9
 Mundari,Southern Jinghpaw,10
 Mungaka,Buli,1
 Mungaka,Tangale,2
-Mungaka,Gikyode,3
+Mungaka,Anufo,3
 Mungaka,Tumulung Sisaala,4
-Mungaka,Anufo,5
+Mungaka,Gikyode,5
 Mungaka,Ibibio,6
 Mungaka,Ewe,7
 Mungaka,Mbay,8
@@ -3423,8 +3413,8 @@ Mushungulu,Yogad,1
 Mushungulu,Yeyi,2
 Mushungulu,Bulgarian,3
 Mushungulu,West Central Oromo,4
-Mushungulu,Pedi,5
-Mushungulu,Lundayeh,6
+Mushungulu,Lundayeh,5
+Mushungulu,Pedi,6
 Mushungulu,Navajo,7
 Mushungulu,Mbay,8
 Mushungulu,Mag-Anchi Ayta,9
@@ -3436,8 +3426,8 @@ Mwaghavul,Lega-Shabunda,4
 Mwaghavul,Izon,5
 Mwaghavul,Chantyal,6
 Mwaghavul,Mungaka,7
-Mwaghavul,Kxoe,8
-Mwaghavul,Liberia Kpelle,9
+Mwaghavul,Liberia Kpelle,8
+Mwaghavul,Kxoe,9
 Mwaghavul,Igbo,10
 Mískito,Garifuna,1
 Mískito,East Limba,2
@@ -3477,48 +3467,48 @@ Nancowry,'Are'are,5
 Nancowry,Samoan,6
 Nancowry,Yabem,7
 Nancowry,Raluana,8
-Nancowry,San Blas Kuna,9
-Nancowry,Roviana,10
+Nancowry,Roviana,9
+Nancowry,Gedaged,10
 Nandi,Karamojong,1
 Nandi,Iraqw,2
 Nandi,Luo,3
-Nandi,Southwestern Dinka,4
-Nandi,Kamba,5
+Nandi,Kamba,4
+Nandi,Southwestern Dinka,5
 Nandi,Naro,6
 Nandi,Kxoe,7
-Nandi,East Taa,8
-Nandi,Ganda,9
-Nandi,Diriku-Shambyu,10
+Nandi,Diriku-Shambyu,8
+Nandi,East Taa,9
+Nandi,Ganda,10
 Naro,Karamojong,1
 Naro,Nuer,2
 Naro,Nandi,3
 Naro,Iraqw,4
 Naro,Ha,5
 Naro,Southern Sotho,6
-Naro,Sidamo,7
-Naro,Luo,8
-Naro,Bantawa,9
-Naro,Kxoe,10
+Naro,Luo,7
+Naro,Sidamo,8
+Naro,Kxoe,9
+Naro,Bantawa,10
 Narua,Hmong Njua,1
 Narua,Chantyal,2
 Narua,Huron-Wyandot,3
 Narua,Tai Nüa,4
 Narua,Akha,5
 Narua,Sango,6
-Narua,Lisu,7
-Narua,Louisiana Creole French,8
+Narua,Louisiana Creole French,7
+Narua,Lisu,8
 Narua,Hmong Daw,9
 Narua,Bambara,10
 Navajo,Tohono O'odham,1
-Navajo,Jicarilla Apache,2
-Navajo,Havasupai-Walapai-Yavapai,3
+Navajo,Havasupai-Walapai-Yavapai,2
+Navajo,Jicarilla Apache,3
 Navajo,Ahtena,4
 Navajo,Northwest Sahaptin,5
 Navajo,Comanche,6
 Navajo,Alabama,7
 Navajo,Kiliwa,8
 Navajo,Seneca,9
-Navajo,Central Siberian Yupik,10
+Navajo,Koasati,10
 Ncane-Mungong,Chung,1
 Ncane-Mungong,Bafanji,2
 Ncane-Mungong,Bassa,3
@@ -3528,15 +3518,15 @@ Ncane-Mungong,Talinga-Bwisi,6
 Ncane-Mungong,Bongo,7
 Ncane-Mungong,Fore,8
 Ncane-Mungong,Belanda Bor,9
-Ncane-Mungong,Zigula-Mushungulu,10
+Ncane-Mungong,Central Dagaare,10
 Ndau,Zigula-Mushungulu,1
 Ndau,Karamojong,2
 Ndau,Ha,3
 Ndau,Tswana,4
 Ndau,Southwestern Dinka,5
 Ndau,Tsonga,6
-Ndau,Kinshasa Lingala,7
-Ndau,Zande,8
+Ndau,Zande,7
+Ndau,Kinshasa Lingala,8
 Ndau,Ganda,9
 Ndau,Lamba,10
 Ndonga,Shona,1
@@ -3548,27 +3538,27 @@ Ndonga,Lozi,6
 Ndonga,Southern Sotho,7
 Ndonga,Santali,8
 Ndonga,Mambwe-Lungu,9
-Ndonga,West Central Oromo,10
+Ndonga,Nuer,10
 Nen,Kómnjo,1
 Nen,Terei,2
 Nen,Wampar,3
 Nen,Teop,4
-Nen,Nakanai,5
-Nen,West Kewa,6
+Nen,West Kewa,5
+Nen,Nakanai,6
 Nen,Ata,7
 Nen,Mali,8
 Nen,Telefol,9
-Nen,Lenakel,10
+Nen,Sie,10
 Nengone,Dehu,1
 Nengone,Xârâcùù,2
 Nengone,Tiri-Mea,3
-Nengone,Lenakel,4
-Nengone,Futuna-Aniwa,5
+Nengone,Futuna-Aniwa,4
+Nengone,Lenakel,5
 Nengone,Kwamera,6
 Nengone,Mele-Fila,7
 Nengone,'Are'are,8
 Nengone,Mangareva,9
-Nengone,Aneityum,10
+Nengone,Nafsan,10
 Neo-Mandaic,Classical Syriac,1
 Neo-Mandaic,Ancient Hebrew,2
 Neo-Mandaic,Jewish Babylonian Aramaic,3
@@ -3581,8 +3571,8 @@ Neo-Mandaic,Egyptian,9
 Neo-Mandaic,Avestan,10
 Nepali,Standard Indonesian,1
 Nepali,Southern Hindko,2
-Nepali,Hindi,3
-Nepali,Central Kurdish,4
+Nepali,Central Kurdish,3
+Nepali,Hindi,4
 Nepali,Vietnamese,5
 Nepali,Turkmen,6
 Nepali,Tibetan,7
@@ -3591,12 +3581,12 @@ Nepali,Northern Uzbek,9
 Nepali,Eastern Panjabi,10
 Nez Perce,Kok Borok,1
 Nez Perce,Kalispel-Pend d'Oreille,2
-Nez Perce,Chang Naga,3
-Nez Perce,Northwestern Ojibwa,4
+Nez Perce,Northwestern Ojibwa,3
+Nez Perce,Chang Naga,4
 Nez Perce,Chippewa,5
 Nez Perce,Dakota,6
-Nez Perce,Shan,7
-Nez Perce,Herero,8
+Nez Perce,Herero,7
+Nez Perce,Shan,8
 Nez Perce,Mbukushu,9
 Nez Perce,Yámana,10
 Ngaanyatjarra,Yankunytjatjara,1
@@ -3623,10 +3613,10 @@ Ngandi,Ritharrngu,1
 Ngandi,Wandarang,2
 Ngandi,Wubuy,3
 Ngandi,Tweed-Albert,4
-Ngandi,Nen,5
-Ngandi,Jingulu,6
-Ngandi,Wik-Mungkan,7
-Ngandi,Yir-Yoront,8
+Ngandi,Jingulu,5
+Ngandi,Nen,6
+Ngandi,Yir-Yoront,7
+Ngandi,Wik-Mungkan,8
 Ngandi,Mudburra,9
 Ngandi,Ngalkbun,10
 Niuean,Tokelau,1
@@ -3655,20 +3645,20 @@ North Azerbaijani,Georgian,3
 North Azerbaijani,Turkish,4
 North Azerbaijani,Central Kurdish,5
 North Azerbaijani,Sicilian,6
-North Azerbaijani,Upper Sorbian,7
-North Azerbaijani,Halh Mongolian,8
+North Azerbaijani,Halh Mongolian,7
+North Azerbaijani,Upper Sorbian,8
 North Azerbaijani,Slovak,9
-North Azerbaijani,Serbian-Croatian-Bosnian,10
+North Azerbaijani,Southern Hindko,10
 North Saami,Zulu,1
 North Saami,Lakota,2
-North Saami,Santali,3
-North Saami,Kâte,4
+North Saami,Yámana,3
+North Saami,Santali,4
 North Saami,North Alaskan Inupiatun,5
-North Saami,Yámana,6
+North Saami,Kâte,6
 North Saami,Ahtena,7
 North Saami,Ndonga,8
 North Saami,Baram Kayan,9
-North Saami,Nuer,10
+North Saami,Xhosa,10
 Northeast Maidu,Ho-Chunk,1
 Northeast Maidu,Yana,2
 Northeast Maidu,Seneca,3
@@ -3685,10 +3675,10 @@ Northern Alta,Rade,3
 Northern Alta,Bantawa,4
 Northern Alta,Western Bukidnon Manobo,5
 Northern Alta,Maguindanao,6
-Northern Alta,Pampanga,7
-Northern Alta,Casiguran-Nagtipunan Agta,8
-Northern Alta,Agusan Manobo,9
-Northern Alta,Paiwan,10
+Northern Alta,Casiguran-Nagtipunan Agta,7
+Northern Alta,Pampanga,8
+Northern Alta,Paiwan,9
+Northern Alta,Agusan Manobo,10
 Northern Grebo,East Limba,1
 Northern Grebo,Giryama,2
 Northern Grebo,Zigula-Mushungulu,3
@@ -3713,9 +3703,9 @@ Northern Tosk Albanian,Galician,1
 Northern Tosk Albanian,Papiamento,2
 Northern Tosk Albanian,Pennsylvania German,3
 Northern Tosk Albanian,Serbian-Croatian-Bosnian,4
-Northern Tosk Albanian,Plautdietsch,5
-Northern Tosk Albanian,Belarusian,6
-Northern Tosk Albanian,Eastern Yiddish,7
+Northern Tosk Albanian,Belarusian,5
+Northern Tosk Albanian,Eastern Yiddish,6
+Northern Tosk Albanian,Plautdietsch,7
 Northern Tosk Albanian,Western Frisian,8
 Northern Tosk Albanian,Central Kurdish,9
 Northern Tosk Albanian,Somali,10
@@ -3737,8 +3727,8 @@ Northwest Sahaptin,Eastern Ojibwa,5
 Northwest Sahaptin,Squamish,6
 Northwest Sahaptin,Navajo,7
 Northwest Sahaptin,Koasati,8
-Northwest Sahaptin,Shoshoni,9
-Northwest Sahaptin,Comanche,10
+Northwest Sahaptin,Comanche,9
+Northwest Sahaptin,Shoshoni,10
 Northwestern Ojibwa,Chippewa,1
 Northwestern Ojibwa,Unami,2
 Northwestern Ojibwa,Kalispel-Pend d'Oreille,3
@@ -3750,21 +3740,21 @@ Northwestern Ojibwa,Mískito,8
 Northwestern Ojibwa,Eastern Ojibwa,9
 Northwestern Ojibwa,Lakota,10
 Norwegian,Afrikaans,1
-Norwegian,Finnish,2
-Norwegian,Danish,3
-Norwegian,German,4
-Norwegian,Swedish,5
-Norwegian,Polish,6
+Norwegian,Danish,2
+Norwegian,Finnish,3
+Norwegian,Swedish,4
+Norwegian,Polish,5
+Norwegian,Hungarian,6
 Norwegian,Slovenian,7
-Norwegian,Hungarian,8
-Norwegian,Spanish,9
-Norwegian,Moselle Franconian,10
+Norwegian,Spanish,8
+Norwegian,Russian,9
+Norwegian,French,10
 Nuer,Southwestern Dinka,1
 Nuer,Naro,2
-Nuer,Karamojong,3
-Nuer,Mungaka,4
-Nuer,Iraqw,5
-Nuer,Luo,6
+Nuer,Mungaka,3
+Nuer,Karamojong,4
+Nuer,Luo,5
+Nuer,Iraqw,6
 Nuer,Sidamo,7
 Nuer,Nyanja,8
 Nuer,Ndonga,9
@@ -3788,17 +3778,17 @@ Nung,Agusan Manobo,6
 Nung,Tboli,7
 Nung,Yao,8
 Nung,Rade,9
-Nung,Central Bontoc,10
+Nung,Casiguran-Nagtipunan Agta,10
 Nupe-Nupe-Tako,Zande,1
 Nupe-Nupe-Tako,Ewe,2
 Nupe-Nupe-Tako,Tumulung Sisaala,3
 Nupe-Nupe-Tako,East Limba,4
-Nupe-Nupe-Tako,Mandinka,5
-Nupe-Nupe-Tako,Ibibio,6
+Nupe-Nupe-Tako,Ibibio,5
+Nupe-Nupe-Tako,Mandinka,6
 Nupe-Nupe-Tako,Bassa,7
-Nupe-Nupe-Tako,Gbari,8
-Nupe-Nupe-Tako,Hausa,9
-Nupe-Nupe-Tako,Pulaar,10
+Nupe-Nupe-Tako,Pulaar,8
+Nupe-Nupe-Tako,Gbari,9
+Nupe-Nupe-Tako,Hausa,10
 Nuu-chah-nulth,Aleut,1
 Nuu-chah-nulth,Central Siberian Yupik,2
 Nuu-chah-nulth,Kwak'wala,3
@@ -3806,8 +3796,8 @@ Nuu-chah-nulth,Upper Chehalis,4
 Nuu-chah-nulth,Ahtena,5
 Nuu-chah-nulth,Dena'ina,6
 Nuu-chah-nulth,Bella Coola,7
-Nuu-chah-nulth,Äiwoo,8
-Nuu-chah-nulth,Squamish,9
+Nuu-chah-nulth,Squamish,8
+Nuu-chah-nulth,Äiwoo,9
 Nuu-chah-nulth,Haisla,10
 Nyanja,Giryama,1
 Nyanja,Zulu,2
@@ -3815,18 +3805,18 @@ Nyanja,Lamba,3
 Nyanja,Ao Naga,4
 Nyanja,Venda,5
 Nyanja,Tswana,6
-Nyanja,Bemba,7
-Nyanja,Mambwe-Lungu,8
-Nyanja,Luo,9
-Nyanja,Nuer,10
+Nyanja,Nuer,7
+Nyanja,Bemba,8
+Nyanja,Mambwe-Lungu,9
+Nyanja,Luo,10
 Nyankole,Ganda,1
 Nyankole,Karamojong,2
 Nyankole,Ndau,3
 Nyankole,Yao,4
 Nyankole,Iraqw,5
 Nyankole,Zigula-Mushungulu,6
-Nyankole,Kxoe,7
-Nyankole,Kamba,8
+Nyankole,Kamba,7
+Nyankole,Kxoe,8
 Nyankole,Diriku-Shambyu,9
 Nyankole,Venda,10
 Nyole,Gungu,1
@@ -3841,8 +3831,8 @@ Nyole,Shilluk,9
 Nyole,Ibibio,10
 Nzima,Yoruba,1
 Nzima,Ga,2
-Nzima,Tee,3
-Nzima,Ewe,4
+Nzima,Ewe,3
+Nzima,Tee,4
 Nzima,Bassa,5
 Nzima,Garifuna,6
 Nzima,Urhobo,7
@@ -3855,15 +3845,15 @@ Odia,Gujarati,3
 Odia,Assamese,4
 Odia,Kok Borok,5
 Odia,Bengali,6
-Odia,Chang Naga,7
-Odia,Mandarin Chinese,8
-Odia,Marathi,9
-Odia,Nepali,10
+Odia,Mandarin Chinese,7
+Odia,Chang Naga,8
+Odia,Nepali,9
+Odia,Marathi,10
 Oksapmin,Yagaria,1
 Oksapmin,Selepet,2
 Oksapmin,Telefol,3
-Oksapmin,Kwamera,4
-Oksapmin,Enga,5
+Oksapmin,Enga,4
+Oksapmin,Kwamera,5
 Oksapmin,Kosarek Yale,6
 Oksapmin,Savosavo,7
 Oksapmin,Djinang,8
@@ -3876,16 +3866,16 @@ Old Chinese,Hakka Chinese,4
 Old Chinese,Assyrian Neo-Aramaic,5
 Old Chinese,Min Nan Chinese,6
 Old Chinese,Sabaic,7
-Old Chinese,Old Khmer,8
-Old Chinese,Beijing Mandarin,9
+Old Chinese,Beijing Mandarin,8
+Old Chinese,Old Khmer,9
 Old Chinese,Mandarin Chinese,10
 Old English,Old French,1
 Old English,Modern Greek,2
-Old English,Middle High German,3
-Old English,Irish,4
+Old English,Irish,3
+Old English,Middle High German,4
 Old English,Latin,5
-Old English,Old Norse,6
-Old English,Scottish Gaelic,7
+Old English,Scottish Gaelic,6
+Old English,Old Norse,7
 Old English,Geez,8
 Old English,Welsh,9
 Old English,Manx,10
@@ -3897,18 +3887,18 @@ Old French,Latin,5
 Old French,Old Norse,6
 Old French,Irish,7
 Old French,Portuguese,8
-Old French,Eastern Armenian,9
-Old French,Scottish Gaelic,10
+Old French,Scottish Gaelic,9
+Old French,Eastern Armenian,10
 Old Khmer,Pali,1
 Old Khmer,Sumerian,2
 Old Khmer,Akkadian,3
 Old Khmer,Sinhala,4
 Old Khmer,Egyptian,5
 Old Khmer,Sanskrit,6
-Old Khmer,Assyrian Neo-Aramaic,7
-Old Khmer,Sabaic,8
+Old Khmer,Sabaic,7
+Old Khmer,Assyrian Neo-Aramaic,8
 Old Khmer,Khotanese,9
-Old Khmer,Central Khmer,10
+Old Khmer,Old Chinese,10
 Old Norse,Icelandic,1
 Old Norse,Old English,2
 Old Norse,Latin,3
@@ -3920,10 +3910,10 @@ Old Norse,Old French,8
 Old Norse,Welsh,9
 Old Norse,Manx,10
 Orokolo,Toaripi,1
-Orokolo,Lau,2
-Orokolo,Bughotu,3
+Orokolo,Roviana,2
+Orokolo,Lau,3
 Orokolo,'Are'are,4
-Orokolo,Roviana,5
+Orokolo,Bughotu,5
 Orokolo,Arosi,6
 Orokolo,Gela,7
 Orokolo,Thayore,8
@@ -3937,13 +3927,13 @@ Osage,Atakapa,5
 Osage,Choctaw,6
 Osage,Creek,7
 Osage,Koasati,8
-Osage,Cheyenne,9
-Osage,Dakota,10
+Osage,Dakota,9
+Osage,Cheyenne,10
 Paama,Nafsan,1
 Paama,Äiwoo,2
 Paama,Sie,3
-Paama,Daakie,4
-Paama,Lenakel,5
+Paama,Lenakel,4
+Paama,Daakie,5
 Paama,Vurës,6
 Paama,Talise,7
 Paama,Mali,8
@@ -3971,24 +3961,24 @@ Palauan,Kapingamarangi,9
 Palauan,Kosraean,10
 Pali,Sanskrit,1
 Pali,Sinhala,2
-Pali,Bengali,3
-Pali,Kannada,4
-Pali,Avestan,5
+Pali,Avestan,3
+Pali,Bengali,4
+Pali,Kannada,5
 Pali,Malayalam,6
-Pali,Tamil,7
-Pali,Old Khmer,8
+Pali,Old Khmer,7
+Pali,Tamil,8
 Pali,Telugu,9
 Pali,Marathi,10
 Palula,Sidamo,1
-Palula,Manda,2
-Palula,Mandari,3
+Palula,Mandari,2
+Palula,Manda,3
 Palula,Tuvinian,4
 Palula,Limbu,5
 Palula,Media Lengua,6
-Palula,Mundari,7
-Palula,Bongo,8
+Palula,Bongo,7
+Palula,Reel,8
 Palula,Chantyal,9
-Palula,Mahasu Pahari,10
+Palula,Mundari,10
 Pampanga,Pangasinan,1
 Pampanga,Coastal-Naga Bikol,2
 Pampanga,Chamorro,3
@@ -4007,13 +3997,13 @@ Pangasinan,Maranao,5
 Pangasinan,Western Bukidnon Manobo,6
 Pangasinan,Waray,7
 Pangasinan,Northern Alta,8
-Pangasinan,Cebuano,9
-Pangasinan,Hiligaynon,10
+Pangasinan,Hiligaynon,9
+Pangasinan,Cebuano,10
 Papiamento,Western Frisian,1
 Papiamento,Galician,2
 Papiamento,Belarusian,3
-Papiamento,Javanese,4
-Papiamento,Haitian,5
+Papiamento,Haitian,4
+Papiamento,Javanese,5
 Papiamento,Serbian-Croatian-Bosnian,6
 Papiamento,Eastern Yiddish,7
 Papiamento,Northern Tosk Albanian,8
@@ -4024,11 +4014,11 @@ Pedi,Turkmen,2
 Pedi,Mushungulu,3
 Pedi,Romanian,4
 Pedi,Masai,5
-Pedi,Mampruli,6
-Pedi,Somali,7
-Pedi,Northern Uzbek,8
+Pedi,Somali,6
+Pedi,Northern Uzbek,7
+Pedi,Mampruli,8
 Pedi,Western Apache,9
-Pedi,Ndonga,10
+Pedi,Tok Pisin,10
 Pennsylvania German,Louisiana Creole French,1
 Pennsylvania German,Northern Tosk Albanian,2
 Pennsylvania German,Plautdietsch,3
@@ -4036,19 +4026,19 @@ Pennsylvania German,Wiltshire-Hampshire,4
 Pennsylvania German,Sussex,5
 Pennsylvania German,Creek,6
 Pennsylvania German,Gilit Mesopotamian Arabic,7
-Pennsylvania German,Navajo,8
-Pennsylvania German,Western Apache,9
-Pennsylvania German,Scots,10
+Pennsylvania German,Western Apache,8
+Pennsylvania German,Choctaw,9
+Pennsylvania German,Navajo,10
 Pidgin Chinook Jargon,Thompson,1
 Pidgin Chinook Jargon,Powhatan,2
 Pidgin Chinook Jargon,Atakapa,3
 Pidgin Chinook Jargon,Unami,4
 Pidgin Chinook Jargon,Upper Chehalis,5
 Pidgin Chinook Jargon,Coast Miwok,6
-Pidgin Chinook Jargon,Meskwaki,7
+Pidgin Chinook Jargon,Tonkawa,7
 Pidgin Chinook Jargon,Tunica,8
-Pidgin Chinook Jargon,Tonkawa,9
-Pidgin Chinook Jargon,Kwak'wala,10
+Pidgin Chinook Jargon,Kwak'wala,9
+Pidgin Chinook Jargon,Meskwaki,10
 Pintupi-Luritja,Yankunytjatjara,1
 Pintupi-Luritja,Warlpiri,2
 Pintupi-Luritja,Ngaanyatjarra,3
@@ -4057,8 +4047,8 @@ Pintupi-Luritja,Yir-Yoront,5
 Pintupi-Luritja,Ngalkbun,6
 Pintupi-Luritja,Wirangu,7
 Pintupi-Luritja,Wik-Mungkan,8
-Pintupi-Luritja,Grass Koiari,9
-Pintupi-Luritja,Mudburra,10
+Pintupi-Luritja,Mudburra,9
+Pintupi-Luritja,Jingulu,10
 Plains Cree,Western Abenaki,1
 Plains Cree,Malecite-Passamaquoddy,2
 Plains Cree,Eastern Canadian Inuktitut,3
@@ -4077,16 +4067,16 @@ Plateau Malagasy,Nyanja,5
 Plateau Malagasy,Ao Naga,6
 Plateau Malagasy,Bobangi,7
 Plateau Malagasy,Sora,8
-Plateau Malagasy,Kadazan Dusun,9
-Plateau Malagasy,Hidatsa,10
-Plautdietsch,Cajun French,1
+Plateau Malagasy,Hidatsa,9
+Plateau Malagasy,Kadazan Dusun,10
+Plautdietsch,Louisiana French,1
 Plautdietsch,Eastern Yiddish,2
 Plautdietsch,Pennsylvania German,3
-Plautdietsch,Northern Tosk Albanian,4
-Plautdietsch,Spanish,5
-Plautdietsch,Cornish,6
+Plautdietsch,Spanish,4
+Plautdietsch,Northern Tosk Albanian,5
+Plautdietsch,Galician,6
 Plautdietsch,Aromanian,7
-Plautdietsch,Galician,8
+Plautdietsch,Cornish,8
 Plautdietsch,Moselle Franconian,9
 Plautdietsch,Chamorro,10
 Pohnpeian,Yapese,1
@@ -4101,13 +4091,13 @@ Pohnpeian,Tuvalu,9
 Pohnpeian,Kapingamarangi,10
 Polish,Hungarian,1
 Polish,Danish,2
-Polish,French,3
-Polish,Russian,4
-Polish,Afrikaans,5
-Polish,Dutch,6
-Polish,Italian,7
-Polish,Swedish,8
-Polish,German,9
+Polish,Finnish,3
+Polish,Afrikaans,4
+Polish,French,5
+Polish,Russian,6
+Polish,Dutch,7
+Polish,Italian,8
+Polish,Swedish,9
 Polish,Ukrainian,10
 Portuguese,Eastern Armenian,1
 Portuguese,Italian,2
@@ -4115,9 +4105,9 @@ Portuguese,French,3
 Portuguese,Dutch,4
 Portuguese,Spanish,5
 Portuguese,Sicilian,6
-Portuguese,Western Flemish,7
+Portuguese,Czech,7
 Portuguese,Polish,8
-Portuguese,Czech,9
+Portuguese,Western Flemish,9
 Portuguese,Latin American Spanish,10
 Powhatan,Pidgin Chinook Jargon,1
 Powhatan,Thompson,2
@@ -4132,8 +4122,8 @@ Powhatan,Tweed-Albert,10
 Pulaar,Gambian Wolof,1
 Pulaar,Mandinka,2
 Pulaar,Sidamo,3
-Pulaar,Hausa,4
-Pulaar,Central Kanuri,5
+Pulaar,Central Kanuri,4
+Pulaar,Hausa,5
 Pulaar,Beja,6
 Pulaar,Chadian Arabic,7
 Pulaar,Southwestern Dinka,8
@@ -4142,8 +4132,8 @@ Pulaar,Nandi,10
 Puluwatese,Marshallese,1
 Puluwatese,Woleaian,2
 Puluwatese,Chuukese,3
-Puluwatese,Rennell-Bellona,4
-Puluwatese,Carolinian,5
+Puluwatese,Carolinian,4
+Puluwatese,Rennell-Bellona,5
 Puluwatese,Mokilese,6
 Puluwatese,Kapingamarangi,7
 Puluwatese,Takuu,8
@@ -4157,16 +4147,16 @@ Rabha,Biatah Bidayuh,5
 Rabha,Mizo,6
 Rabha,Ao Naga,7
 Rabha,Central Bontoc,8
-Rabha,Baram Kayan,9
-Rabha,Southern Jinghpaw,10
+Rabha,Southern Jinghpaw,9
+Rabha,Baram Kayan,10
 Rade,Tetum,1
 Rade,Jehai,2
 Rade,Bantawa,3
 Rade,Limbu,4
 Rade,Paiwan,5
 Rade,Nung,6
-Rade,Tai Nüa,7
-Rade,Western Bukidnon Manobo,8
+Rade,Western Bukidnon Manobo,7
+Rade,Tai Nüa,8
 Rade,Chung,9
 Rade,Northern Alta,10
 Raluana,Mailu,1
@@ -4174,11 +4164,11 @@ Raluana,Roviana,2
 Raluana,'Are'are,3
 Raluana,Lau,4
 Raluana,Futuna-Aniwa,5
-Raluana,Aneityum,6
-Raluana,Gela,7
+Raluana,Gela,6
+Raluana,Aneityum,7
 Raluana,Toaripi,8
-Raluana,Samoan,9
-Raluana,Fijian,10
+Raluana,Gedaged,9
+Raluana,Mota,10
 Reel,Bongo,1
 Reel,Shatt,2
 Reel,Belanda Bor,3
@@ -4198,7 +4188,7 @@ Rendille,Cherokee,6
 Rendille,Mwaghavul,7
 Rendille,Tangale,8
 Rendille,Diriku-Shambyu,9
-Rendille,East Taa,10
+Rendille,Yir-Yoront,10
 Rennell-Bellona,Takuu,1
 Rennell-Bellona,Puluwatese,2
 Rennell-Bellona,Chuukese,3
@@ -4221,8 +4211,8 @@ Ritharrngu,Mudburra,9
 Ritharrngu,Yir-Yoront,10
 Romanian,Filipino,1
 Romanian,Burmese,2
-Romanian,Estonian,3
-Romanian,Vietnamese,4
+Romanian,Vietnamese,3
+Romanian,Estonian,4
 Romanian,Kirghiz,5
 Romanian,Standard Indonesian,6
 Romanian,Northern Uzbek,7
@@ -4252,9 +4242,9 @@ Rongga,Mali,10
 Rotuman,Mele-Fila,1
 Rotuman,Roviana,2
 Rotuman,Tonga,3
-Rotuman,Gela,4
-Rotuman,Niuean,5
-Rotuman,Samoan,6
+Rotuman,Niuean,4
+Rotuman,Samoan,5
+Rotuman,Gela,6
 Rotuman,Toaripi,7
 Rotuman,Aneityum,8
 Rotuman,Futuna-Aniwa,9
@@ -4266,9 +4256,9 @@ Roviana,Arosi,4
 Roviana,'Are'are,5
 Roviana,Futuna-Aniwa,6
 Roviana,Mailu,7
-Roviana,Rotuman,8
-Roviana,Raluana,9
-Roviana,Mota,10
+Roviana,Raluana,8
+Roviana,Mota,9
+Roviana,Rotuman,10
 Rungus,Akha,1
 Rungus,Central Bontoc,2
 Rungus,Western Bukidnon Manobo,3
@@ -4283,12 +4273,12 @@ Russian,Ukrainian,1
 Russian,Polish,2
 Russian,Hungarian,3
 Russian,Danish,4
-Russian,German,5
+Russian,Finnish,5
 Russian,Slovenian,6
 Russian,Swedish,7
 Russian,Lithuanian,8
-Russian,Czech,9
-Russian,Afrikaans,10
+Russian,Afrikaans,9
+Russian,Czech,10
 S'gaw Karen,Ao Naga,1
 S'gaw Karen,Shan,2
 S'gaw Karen,Southern Jinghpaw,3
@@ -4324,31 +4314,31 @@ Sadri,Mundari,2
 Sadri,East-Central Tangkhul Naga,3
 Sadri,Dimasa,4
 Sadri,Bassa,5
-Sadri,Mising-Padam-Miri-Minyong,6
-Sadri,Leh Ladakhi,7
-Sadri,Lisu,8
-Sadri,Karamojong,9
-Sadri,Mara Chin,10
+Sadri,Leh Ladakhi,6
+Sadri,Mising-Padam-Miri-Minyong,7
+Sadri,Karamojong,8
+Sadri,Lisu,9
+Sadri,Tai Nüa,10
 Samoan,Fijian,1
 Samoan,Rotuman,2
-Samoan,Sa'a,3
-Samoan,Tahitian,4
-Samoan,Roviana,5
-Samoan,Tokelau,6
-Samoan,Futuna-Aniwa,7
+Samoan,Tahitian,3
+Samoan,Sa'a,4
+Samoan,Tokelau,5
+Samoan,Futuna-Aniwa,6
+Samoan,Roviana,7
 Samoan,Raluana,8
-Samoan,Gilbertese,9
-Samoan,Mota,10
+Samoan,Mota,9
+Samoan,Gilbertese,10
 San Blas Kuna,Border Kuna,1
 San Blas Kuna,Warao,2
 San Blas Kuna,Nancowry,3
-San Blas Kuna,Atakapa,4
-San Blas Kuna,Central Tarahumara,5
+San Blas Kuna,Central Tarahumara,4
+San Blas Kuna,Atakapa,5
 San Blas Kuna,Nafsan,6
 San Blas Kuna,Larike-Wakasihu,7
-San Blas Kuna,Tangga,8
-San Blas Kuna,Akawaio-Ingariko,9
-San Blas Kuna,Western Huasteca Nahuatl,10
+San Blas Kuna,Akawaio-Ingariko,8
+San Blas Kuna,Tangga,9
+San Blas Kuna,Äiwoo,10
 Sanaani Arabic,Gulf Arabic,1
 Sanaani Arabic,Gilit Mesopotamian Arabic,2
 Sanaani Arabic,Moroccan Arabic,3
@@ -4363,11 +4353,11 @@ Sango,Igbo,1
 Sango,Kinshasa Lingala,2
 Sango,Lega-Shabunda,3
 Sango,Beng,4
-Sango,Anufo,5
-Sango,Tok Pisin,6
+Sango,Tok Pisin,5
+Sango,Anufo,6
 Sango,East Limba,7
-Sango,Hmong Daw,8
-Sango,Hmong Njua,9
+Sango,Hmong Njua,8
+Sango,Hmong Daw,9
 Sango,Liberia Kpelle,10
 Sanskrit,Sinhala,1
 Sanskrit,Kannada,2
@@ -4384,15 +4374,15 @@ Santali,Ho,2
 Santali,Ndonga,3
 Santali,Rabha,4
 Santali,Sora,5
-Santali,Zulu,6
-Santali,Ao Naga,7
+Santali,Ao Naga,6
+Santali,Zulu,7
 Santali,Baram Kayan,8
 Santali,Tiv,9
 Santali,Tuwali Ifugao,10
 Sanzhi,Limbu,1
 Sanzhi,Kwangali,2
-Sanzhi,Gaam,3
-Sanzhi,Eastern Ojibwa,4
+Sanzhi,Eastern Ojibwa,3
+Sanzhi,Gaam,4
 Sanzhi,Media Lengua,5
 Sanzhi,Rade,6
 Sanzhi,Bolivar-North Chimborazo Highland Quichua,7
@@ -4403,8 +4393,8 @@ Saurashtra,Tulu,1
 Saurashtra,Maithili,2
 Saurashtra,Caribbean Hindustani,3
 Saurashtra,Kathmandu Valley Newari,4
-Saurashtra,Manda,5
-Saurashtra,Mundari,6
+Saurashtra,Mundari,5
+Saurashtra,Manda,6
 Saurashtra,Telugu,7
 Saurashtra,Tamil,8
 Saurashtra,Kashmiri,9
@@ -4438,46 +4428,46 @@ Scottish Gaelic,Old Norse,6
 Scottish Gaelic,Cornish,7
 Scottish Gaelic,Scots,8
 Scottish Gaelic,Old French,9
-Scottish Gaelic,Icelandic,10
+Scottish Gaelic,Modern Greek,10
 Selepet,Yagaria,1
 Selepet,Telefol,2
 Selepet,Enga,3
 Selepet,Fore,4
 Selepet,Fuyug,5
-Selepet,Grass Koiari,6
+Selepet,Angguruk Yali,6
 Selepet,Gedaged,7
-Selepet,Angguruk Yali,8
+Selepet,Grass Koiari,8
 Selepet,Oksapmin,9
 Selepet,West Kewa,10
 Semai,Temiar,1
 Semai,Chang Naga,2
-Semai,Igbo,3
-Semai,Jehai,4
+Semai,Jehai,3
+Semai,Igbo,4
 Semai,Western Bukidnon Manobo,5
-Semai,Rade,6
-Semai,Ncane-Mungong,7
-Semai,Fore,8
-Semai,Kok Borok,9
-Semai,Tetum,10
+Semai,Ncane-Mungong,6
+Semai,Besisi,7
+Semai,Rade,8
+Semai,Fore,9
+Semai,Kok Borok,10
 Sembakung Murut,Coastal-Naga Bikol,1
 Sembakung Murut,Maranao,2
-Sembakung Murut,Western Frisian,3
-Sembakung Murut,Pampanga,4
-Sembakung Murut,Javanese,5
-Sembakung Murut,Lao,6
+Sembakung Murut,Pampanga,3
+Sembakung Murut,Western Frisian,4
+Sembakung Murut,Lao,5
+Sembakung Murut,Javanese,6
 Sembakung Murut,Chamorro,7
 Sembakung Murut,Garifuna,8
-Sembakung Murut,Malacca-Batavia Portuguese Creole,9
-Sembakung Murut,Hiligaynon,10
+Sembakung Murut,Hiligaynon,9
+Sembakung Murut,Malacca-Batavia Portuguese Creole,10
 Seneca,Comanche,1
 Seneca,Yana,2
 Seneca,Ute-Southern Paiute,3
 Seneca,Klamath-Modoc,4
-Seneca,Cherokee,5
+Seneca,Tunica,5
 Seneca,Northeast Maidu,6
-Seneca,Tunica,7
-Seneca,Jicarilla Apache,8
-Seneca,Navajo,9
+Seneca,Cherokee,7
+Seneca,Navajo,8
+Seneca,Jicarilla Apache,9
 Seneca,Zuni,10
 Serbian-Croatian-Bosnian,Slovenian,1
 Serbian-Croatian-Bosnian,Slovak,2
@@ -4522,13 +4512,13 @@ Shekkacho,Chantyal,10
 Shilluk,Talinga-Bwisi,1
 Shilluk,Chung,2
 Shilluk,Gungu,3
-Shilluk,Shatt,4
-Shilluk,Ncane-Mungong,5
+Shilluk,Ncane-Mungong,4
+Shilluk,Shatt,5
 Shilluk,Belanda Bor,6
-Shilluk,Bongo,7
-Shilluk,Nyole,8
-Shilluk,Reel,9
-Shilluk,Mandari,10
+Shilluk,Nyole,7
+Shilluk,Bongo,8
+Shilluk,Mandari,9
+Shilluk,Gwere,10
 Shona,Ndonga,1
 Shona,Luo,2
 Shona,Zulu,3
@@ -4554,8 +4544,8 @@ Sicilian,Georgian,2
 Sicilian,Portuguese,3
 Sicilian,Serbian-Croatian-Bosnian,4
 Sicilian,Slovak,5
-Sicilian,Eastern Yiddish,6
-Sicilian,Western Flemish,7
+Sicilian,Western Flemish,6
+Sicilian,Eastern Yiddish,7
 Sicilian,Galician,8
 Sicilian,Latin American Spanish,9
 Sicilian,Spanish,10
@@ -4573,19 +4563,19 @@ Sie,Vurës,1
 Sie,Paama,2
 Sie,Lenakel,3
 Sie,Mele-Fila,4
-Sie,Cheke Holo,5
-Sie,Nafsan,6
+Sie,Nafsan,5
+Sie,Cheke Holo,6
 Sie,To'abaita,7
 Sie,Äiwoo,8
 Sie,Kwamera,9
-Sie,Teop,10
+Sie,Aneityum,10
 Sinaugoro,Misima-Paneati,1
 Sinaugoro,Grass Koiari,2
 Sinaugoro,Talise,3
 Sinaugoro,Fuyug,4
 Sinaugoro,Kómnjo,5
-Sinaugoro,Doromu-Koki,6
-Sinaugoro,Ata,7
+Sinaugoro,Ata,6
+Sinaugoro,Doromu-Koki,7
 Sinaugoro,Mali,8
 Sinaugoro,Lenakel,9
 Sinaugoro,Äiwoo,10
@@ -4602,8 +4592,8 @@ Sindhi,Tulu,10
 Singlish,Brazilian Portuguese,1
 Singlish,Caló,2
 Singlish,Wolof,3
-Singlish,Bislama,4
-Singlish,Moroccan Arabic,5
+Singlish,Moroccan Arabic,4
+Singlish,Bislama,5
 Singlish,Levantine Arabic,6
 Singlish,Essex,7
 Singlish,Swahili,8
@@ -4630,17 +4620,17 @@ Slovak,Russian,8
 Slovak,Eastern Yiddish,9
 Slovak,Ukrainian,10
 Slovenian,Serbian-Croatian-Bosnian,1
-Slovenian,Hungarian,2
-Slovenian,Upper Sorbian,3
-Slovenian,Slovak,4
-Slovenian,Danish,5
-Slovenian,Polish,6
-Slovenian,Russian,7
+Slovenian,Finnish,2
+Slovenian,Hungarian,3
+Slovenian,Upper Sorbian,4
+Slovenian,Slovak,5
+Slovenian,Danish,6
+Slovenian,Polish,7
 Slovenian,Afrikaans,8
 Slovenian,Moselle Franconian,9
-Slovenian,Eastern Yiddish,10
-Somali,Chadian Arabic,1
-Somali,Hausa,2
+Slovenian,Russian,10
+Somali,Hausa,1
+Somali,Chadian Arabic,2
 Somali,Central Kurdish,3
 Somali,Gaam,4
 Somali,Central Kanuri,5
@@ -4648,20 +4638,20 @@ Somali,Kipsigis,6
 Somali,Northern Tosk Albanian,7
 Somali,Tigrinya,8
 Somali,Swati,9
-Somali,Karamojong,10
+Somali,Mandinka,10
 Sora,Bondo,1
 Sora,Mundari,2
 Sora,Rabha,3
 Sora,Ho,4
 Sora,Lepcha,5
 Sora,Kurukh,6
-Sora,Mahasu Pahari,7
-Sora,Manda,8
+Sora,Manda,7
+Sora,Mahasu Pahari,8
 Sora,Southern Jinghpaw,9
 Sora,Santali,10
 South Yorkshire English,Sussex,1
-South Yorkshire English,Scots,2
-South Yorkshire English,Essex,3
+South Yorkshire English,Essex,2
+South Yorkshire English,Scots,3
 South Yorkshire English,Devon,4
 South Yorkshire English,Wiltshire-Hampshire,5
 South Yorkshire English,Ulster,6
@@ -4675,19 +4665,19 @@ South-Central Koongo,Kuanyama,3
 South-Central Koongo,Central Carrier,4
 South-Central Koongo,Kinshasa Lingala,5
 South-Central Koongo,Lamba,6
-South-Central Koongo,Herero,7
-South-Central Koongo,Didinga,8
-South-Central Koongo,Samoan,9
-South-Central Koongo,Mizo,10
+South-Central Koongo,Didinga,7
+South-Central Koongo,Herero,8
+South-Central Koongo,Mizo,9
+South-Central Koongo,Mara Chin,10
 Southeast Ambrym,Lenakel,1
 Southeast Ambrym,Kwamera,2
 Southeast Ambrym,Dakaka,3
 Southeast Ambrym,Sie,4
 Southeast Ambrym,Mele-Fila,5
 Southeast Ambrym,Aneityum,6
-Southeast Ambrym,Futuna-Aniwa,7
+Southeast Ambrym,Nafsan,7
 Southeast Ambrym,Paama,8
-Southeast Ambrym,Nafsan,9
+Southeast Ambrym,Futuna-Aniwa,9
 Southeast Ambrym,Vurës,10
 Southern Cook Island Maori,Tokelau,1
 Southern Cook Island Maori,Niuean,2
@@ -4697,12 +4687,12 @@ Southern Cook Island Maori,Muna,5
 Southern Cook Island Maori,Talise,6
 Southern Cook Island Maori,Cheke Holo,7
 Southern Cook Island Maori,Mali,8
-Southern Cook Island Maori,To'abaita,9
-Southern Cook Island Maori,Yogad,10
+Southern Cook Island Maori,Yogad,9
+Southern Cook Island Maori,To'abaita,10
 Southern Hindko,Eastern Panjabi,1
 Southern Hindko,Kinyarwanda,2
-Southern Hindko,Sindhi,3
-Southern Hindko,Hindi,4
+Southern Hindko,Hindi,3
+Southern Hindko,Sindhi,4
 Southern Hindko,Northern Pashto,5
 Southern Hindko,Sicilian,6
 Southern Hindko,Nepali,7
@@ -4717,8 +4707,8 @@ Southern Jinghpaw,Mising-Padam-Miri-Minyong,5
 Southern Jinghpaw,Mara Chin,6
 Southern Jinghpaw,Ao Naga,7
 Southern Jinghpaw,Yao,8
-Southern Jinghpaw,Mon,9
-Southern Jinghpaw,Dimasa,10
+Southern Jinghpaw,Dimasa,9
+Southern Jinghpaw,Mon,10
 Southern Sotho,Lozi,1
 Southern Sotho,Tswana,2
 Southern Sotho,Ha,3
@@ -4727,16 +4717,16 @@ Southern Sotho,Ganda,5
 Southern Sotho,Karamojong,6
 Southern Sotho,Ndonga,7
 Southern Sotho,Venda,8
-Southern Sotho,Mbukushu,9
-Southern Sotho,Ndau,10
+Southern Sotho,Ndau,9
+Southern Sotho,Naro,10
 Southwestern Dinka,Karamojong,1
 Southwestern Dinka,Nuer,2
 Southwestern Dinka,Iraqw,3
 Southwestern Dinka,Sidamo,4
 Southwestern Dinka,Nandi,5
-Southwestern Dinka,Ndau,6
-Southwestern Dinka,Luo,7
-Southwestern Dinka,Kxoe,8
+Southwestern Dinka,Luo,6
+Southwestern Dinka,Kxoe,7
+Southwestern Dinka,Ndau,8
 Southwestern Dinka,Ha,9
 Southwestern Dinka,Pulaar,10
 Spanish,French,1
@@ -4744,11 +4734,11 @@ Spanish,Italian,2
 Spanish,Polish,3
 Spanish,Latin American Spanish,4
 Spanish,Dutch,5
-Spanish,Danish,6
-Spanish,Afrikaans,7
-Spanish,German,8
-Spanish,Portuguese,9
-Spanish,Hungarian,10
+Spanish,Afrikaans,6
+Spanish,Danish,7
+Spanish,Norwegian,8
+Spanish,Hungarian,9
+Spanish,Portuguese,10
 Squamish,Bella Coola,1
 Squamish,Upper Chehalis,2
 Squamish,Kwak'wala,3
@@ -4768,7 +4758,7 @@ Standard Arabic,Classical Syriac,6
 Standard Arabic,Geez,7
 Standard Arabic,Latin,8
 Standard Arabic,Northern Pashto,9
-Standard Arabic,Tamambo,10
+Standard Arabic,Modern Greek,10
 Standard Indonesian,Vietnamese,1
 Standard Indonesian,Estonian,2
 Standard Indonesian,Romanian,3
@@ -4777,28 +4767,28 @@ Standard Indonesian,Burmese,5
 Standard Indonesian,Korean,6
 Standard Indonesian,Japanese,7
 Standard Indonesian,Central Khmer,8
-Standard Indonesian,Northern Uzbek,9
-Standard Indonesian,Nepali,10
+Standard Indonesian,Swahili,9
+Standard Indonesian,Northern Uzbek,10
 Standard Malay,Thai,1
-Standard Malay,Iban,2
-Standard Malay,Burmese,3
+Standard Malay,Burmese,2
+Standard Malay,Iban,3
 Standard Malay,Standard Indonesian,4
 Standard Malay,Maori,5
-Standard Malay,Trinidadian Creole English,6
-Standard Malay,Swahili,7
+Standard Malay,Swahili,6
+Standard Malay,Trinidadian Creole English,7
 Standard Malay,Biatah Bidayuh,8
 Standard Malay,Baba Malay,9
-Standard Malay,Balinese,10
+Standard Malay,Vietnamese,10
 Suau,Lonwolwol,1
 Suau,Yandruwandha,2
 Suau,Grass Koiari,3
 Suau,Atayal,4
 Suau,Tiwi,5
-Suau,Sursurunga,6
-Suau,Doromu-Koki,7
+Suau,Doromu-Koki,6
+Suau,Sursurunga,7
 Suau,Daakie,8
-Suau,Paama,9
-Suau,Äiwoo,10
+Suau,Äiwoo,9
+Suau,Paama,10
 Sudanese Arabic,Haitian,1
 Sudanese Arabic,Kinshasa Lingala,2
 Sudanese Arabic,Chadian Arabic,3
@@ -4806,17 +4796,17 @@ Sudanese Arabic,Tok Pisin,4
 Sudanese Arabic,Moroccan Arabic,5
 Sudanese Arabic,Meskwaki,6
 Sudanese Arabic,Media Lengua,7
-Sudanese Arabic,Adyghe,8
-Sudanese Arabic,Thompson,9
-Sudanese Arabic,Tuvinian,10
+Sudanese Arabic,West Circassian,8
+Sudanese Arabic,Tuvinian,9
+Sudanese Arabic,Thompson,10
 Sumerian,Akkadian,1
 Sumerian,Egyptian,2
 Sumerian,Assyrian Neo-Aramaic,3
 Sumerian,Sabaic,4
 Sumerian,Old Khmer,5
 Sumerian,Judeo-Yemeni Arabic,6
-Sumerian,Leh Ladakhi,7
-Sumerian,Ancient Hebrew,8
+Sumerian,Ancient Hebrew,7
+Sumerian,Leh Ladakhi,8
 Sumerian,Jewish Babylonian Aramaic,9
 Sumerian,Western Parbate Kham,10
 Sundanese,Ao Naga,1
@@ -4826,14 +4816,14 @@ Sundanese,Ho,4
 Sundanese,Plateau Malagasy,5
 Sundanese,S'gaw Karen,6
 Sundanese,Fijian,7
-Sundanese,Nyanja,8
-Sundanese,Nancowry,9
+Sundanese,Nancowry,8
+Sundanese,Nyanja,9
 Sundanese,Hidatsa,10
 Sursurunga,To'abaita,1
 Sursurunga,Nafsan,2
 Sursurunga,Tboli,3
-Sursurunga,Äiwoo,4
-Sursurunga,Mali,5
+Sursurunga,Mali,4
+Sursurunga,Äiwoo,5
 Sursurunga,Lenakel,6
 Sursurunga,Doromu-Koki,7
 Sursurunga,Cheke Holo,8
@@ -4851,41 +4841,41 @@ Sussex,Trinidadian Creole English,9
 Sussex,Midland American English,10
 Swahili,Estonian,1
 Swahili,Hausa,2
-Swahili,Finnish,3
+Swahili,Danish,3
 Swahili,Standard Indonesian,4
-Swahili,Danish,5
-Swahili,Japanese,6
-Swahili,Norwegian,7
-Swahili,Vietnamese,8
-Swahili,Swedish,9
-Swahili,Burmese,10
+Swahili,German,5
+Swahili,Finnish,6
+Swahili,Japanese,7
+Swahili,Norwegian,8
+Swahili,Afrikaans,9
+Swahili,Vietnamese,10
 Swati,Tsonga,1
 Swati,Diriku-Shambyu,2
 Swati,Kwangali,3
 Swati,Kipsigis,4
-Swati,Gaam,5
-Swati,Turkana,6
+Swati,Turkana,5
+Swati,Gaam,6
 Swati,Galician,7
-Swati,Ndau,8
-Swati,Karamojong,9
+Swati,Karamojong,8
+Swati,Ndau,9
 Swati,Papiamento,10
 Swedish,Danish,1
-Swedish,German,2
-Swedish,Polish,3
-Swedish,Finnish,4
+Swedish,Finnish,2
+Swedish,German,3
+Swedish,Polish,4
 Swedish,Hungarian,5
-Swedish,Afrikaans,6
-Swedish,Norwegian,7
-Swedish,French,8
-Swedish,Dutch,9
+Swedish,Norwegian,6
+Swedish,Afrikaans,7
+Swedish,Dutch,8
+Swedish,French,9
 Swedish,Russian,10
 Tagalog,Cebuano,1
 Tagalog,Maguindanao,2
 Tagalog,Pangasinan,3
-Tagalog,Masbatenyo,4
-Tagalog,Waray,5
-Tagalog,Standard Indonesian,6
-Tagalog,Maranao,7
+Tagalog,Standard Indonesian,4
+Tagalog,Masbatenyo,5
+Tagalog,Maranao,6
+Tagalog,Waray,7
 Tagalog,Iloko,8
 Tagalog,Chamorro,9
 Tagalog,Coastal-Naga Bikol,10
@@ -4896,15 +4886,15 @@ Tahitian,Hawaiian,4
 Tahitian,Pohnpeian,5
 Tahitian,Kapingamarangi,6
 Tahitian,Tokelau,7
-Tahitian,Tonga,8
-Tahitian,Chamorro,9
-Tahitian,Maori,10
+Tahitian,Chamorro,8
+Tahitian,Tonga,9
+Tahitian,Marshallese,10
 Tai Dón,Hmong Njua,1
 Tai Dón,Nung,2
 Tai Dón,Mon,3
 Tai Dón,Rade,4
-Tai Dón,Tai Nüa,5
-Tai Dón,Jehai,6
+Tai Dón,Jehai,5
+Tai Dón,Tai Nüa,6
 Tai Dón,Semai,7
 Tai Dón,Besisi,8
 Tai Dón,Southern Jinghpaw,9
@@ -4912,8 +4902,8 @@ Tai Dón,Lao,10
 Tai Nüa,Lisu,1
 Tai Nüa,Nung,2
 Tai Nüa,Rade,3
-Tai Nüa,Paiwan,4
-Tai Nüa,Bantawa,5
+Tai Nüa,Bantawa,4
+Tai Nüa,Paiwan,5
 Tai Nüa,Mon,6
 Tai Nüa,Limbu,7
 Tai Nüa,Tetum,8
@@ -4946,8 +4936,8 @@ Talise,Paama,4
 Talise,Lenakel,5
 Talise,Mali,6
 Talise,Cheke Holo,7
-Talise,Äiwoo,8
-Talise,To'abaita,9
+Talise,To'abaita,8
+Talise,Äiwoo,9
 Talise,Rongga,10
 Tamambo,Classical Syriac,1
 Tamambo,Modern Hebrew,2
@@ -4999,22 +4989,22 @@ Tangale,Lega-Shabunda,7
 Tangale,Liberia Kpelle,8
 Tangale,Kxoe,9
 Tangale,Igbo,10
-Tangga,Nakanai,1
-Tangga,Terei,2
+Tangga,Terei,1
+Tangga,Nakanai,2
 Tangga,Toaripi,3
 Tangga,Fijian,4
 Tangga,Mailu,5
 Tangga,Raluana,6
 Tangga,Nancowry,7
 Tangga,Roviana,8
-Tangga,Kwoma,9
+Tangga,Gedaged,9
 Tangga,'Are'are,10
 Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Cherokee,1
-Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Ho-Chunk,2
-Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Tuvinian,3
+Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Tuvinian,2
+Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Ho-Chunk,3
 Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Ute-Southern Paiute,4
-Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Rendille,5
-Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Pedi,6
+Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Pedi,5
+Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Rendille,6
 Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Wolof,7
 Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Turkmen,8
 Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Gade,9
@@ -5031,8 +5021,8 @@ Tausug,Yogad,9
 Tausug,Iloko,10
 Tboli,Yakan,1
 Tboli,Central Bontoc,2
-Tboli,Mag-Anchi Ayta,3
-Tboli,Mansaka,4
+Tboli,Mansaka,3
+Tboli,Mag-Anchi Ayta,4
 Tboli,Western Bukidnon Manobo,5
 Tboli,Casiguran-Nagtipunan Agta,6
 Tboli,Agusan Manobo,7
@@ -5058,7 +5048,7 @@ Tee,Abua,6
 Tee,Central Dagaare,7
 Tee,Tangale,8
 Tee,Urhobo,9
-Tee,Bini,10
+Tee,Bafanji,10
 Telefol,Selepet,1
 Telefol,Enga,2
 Telefol,West Kewa,3
@@ -5074,11 +5064,11 @@ Telugu,Kannada,2
 Telugu,Tamil,3
 Telugu,Hindi,4
 Telugu,Sinhala,5
-Telugu,Sanskrit,6
-Telugu,Bengali,7
+Telugu,Bengali,6
+Telugu,Sanskrit,7
 Telugu,Marathi,8
 Telugu,Tulu,9
-Telugu,Maithili,10
+Telugu,Hindustani,10
 Temiar,Semai,1
 Temiar,Chang Naga,2
 Temiar,Lokono,3
@@ -5087,16 +5077,16 @@ Temiar,Agusan Manobo,5
 Temiar,Fore,6
 Temiar,Igbo,7
 Temiar,Paiwan,8
-Temiar,Tetum,9
-Temiar,Wersing,10
+Temiar,Wersing,9
+Temiar,Besisi,10
 Teop,Mele-Fila,1
 Teop,Lou,2
 Teop,Nafsan,3
 Teop,Dakaka,4
 Teop,Sie,5
 Teop,Äiwoo,6
-Teop,Lenakel,7
-Teop,Cheke Holo,8
+Teop,Cheke Holo,7
+Teop,Lenakel,8
 Teop,Kalamang,9
 Teop,Nakanai,10
 Terei,Kómnjo,1
@@ -5104,15 +5094,15 @@ Terei,Nen,2
 Terei,Wampar,3
 Terei,Nakanai,4
 Terei,West Kewa,5
-Terei,Sie,6
-Terei,Cheke Holo,7
+Terei,Cheke Holo,6
+Terei,Tangga,7
 Terei,To'abaita,8
-Terei,Telefol,9
-Terei,Tangga,10
+Terei,Sie,9
+Terei,Telefol,10
 Tetum,Paiwan,1
 Tetum,Western Bukidnon Manobo,2
-Tetum,Agusan Manobo,3
-Tetum,Guarayu,4
+Tetum,Guarayu,3
+Tetum,Agusan Manobo,4
 Tetum,Rade,5
 Tetum,Yao,6
 Tetum,Rabha,7
@@ -5125,9 +5115,9 @@ Thai,Lao,3
 Thai,Standard Malay,4
 Thai,Standard Indonesian,5
 Thai,Vietnamese,6
-Thai,Shan,7
+Thai,Mandarin Chinese,7
 Thai,Mon,8
-Thai,Mandarin Chinese,9
+Thai,Shan,9
 Thai,Tibetan,10
 Thao,Yogad,1
 Thao,Lundayeh,2
@@ -5146,14 +5136,14 @@ Thayore,Fore,4
 Thayore,Adnyamathanha,5
 Thayore,Kumbainggar,6
 Thayore,Yir-Yoront,7
-Thayore,Wubuy,8
-Thayore,Western Victoria,9
+Thayore,Western Victoria,8
+Thayore,Wubuy,9
 Thayore,Bassa,10
 Thompson,Pidgin Chinook Jargon,1
 Thompson,Powhatan,2
 Thompson,Atakapa,3
-Thompson,Unami,4
-Thompson,Coast Miwok,5
+Thompson,Coast Miwok,4
+Thompson,Unami,5
 Thompson,Meskwaki,6
 Thompson,Tonkawa,7
 Thompson,Kinshasa Lingala,8
@@ -5161,8 +5151,8 @@ Thompson,Sudanese Arabic,9
 Thompson,Ndau,10
 Tibetan,Kirghiz,1
 Tibetan,Central Khmer,2
-Tibetan,Northern Uzbek,3
-Tibetan,Uighur,4
+Tibetan,Uighur,3
+Tibetan,Northern Uzbek,4
 Tibetan,Filipino,5
 Tibetan,Vietnamese,6
 Tibetan,Nepali,7
@@ -5172,12 +5162,12 @@ Tibetan,Standard Indonesian,10
 Tigrinya,Amharic,1
 Tigrinya,Ndonga,2
 Tigrinya,Somali,3
-Tigrinya,Bulgarian,4
-Tigrinya,Standard Arabic,5
-Tigrinya,North Azerbaijani,6
-Tigrinya,West Central Oromo,7
-Tigrinya,Aromanian,8
-Tigrinya,Kazakh,9
+Tigrinya,North Azerbaijani,4
+Tigrinya,Bulgarian,5
+Tigrinya,Standard Arabic,6
+Tigrinya,Aromanian,7
+Tigrinya,Kazakh,8
+Tigrinya,West Central Oromo,9
 Tigrinya,Waray,10
 Tikopia,Takuu,1
 Tikopia,Rennell-Bellona,2
@@ -5197,8 +5187,8 @@ Tiri-Mea,Dakaka,5
 Tiri-Mea,Kwamera,6
 Tiri-Mea,Sie,7
 Tiri-Mea,Aneityum,8
-Tiri-Mea,Lou,9
-Tiri-Mea,Yapese,10
+Tiri-Mea,Lenakel,9
+Tiri-Mea,Paiwan,10
 Tiv,Mungaka,1
 Tiv,Buli,2
 Tiv,Tumulung Sisaala,3
@@ -5207,8 +5197,8 @@ Tiv,Gade,5
 Tiv,Mbay,6
 Tiv,Ewe,7
 Tiv,West Central Oromo,8
-Tiv,Santali,9
-Tiv,Nupe-Nupe-Tako,10
+Tiv,Nupe-Nupe-Tako,9
+Tiv,Santali,10
 Tiwi,Bardi,1
 Tiwi,Ngalkbun,2
 Tiwi,Kumbainggar,3
@@ -5218,7 +5208,7 @@ Tiwi,Yandruwandha,6
 Tiwi,Wik-Mungkan,7
 Tiwi,Jingulu,8
 Tiwi,Mudburra,9
-Tiwi,Grass Koiari,10
+Tiwi,Warlpiri,10
 To'abaita,Cheke Holo,1
 To'abaita,Lenakel,2
 To'abaita,Nakanai,3
@@ -5237,8 +5227,8 @@ Toaripi,'Are'are,5
 Toaripi,Arosi,6
 Toaripi,Gedaged,7
 Toaripi,Nakanai,8
-Toaripi,Rotuman,9
-Toaripi,Mailu,10
+Toaripi,Mailu,9
+Toaripi,Rotuman,10
 Tohono O'odham,Havasupai-Walapai-Yavapai,1
 Tohono O'odham,Navajo,2
 Tohono O'odham,Yaqui,3
@@ -5246,14 +5236,14 @@ Tohono O'odham,Jicarilla Apache,4
 Tohono O'odham,Cahuilla,5
 Tohono O'odham,Comanche,6
 Tohono O'odham,Cherokee,7
-Tohono O'odham,Alabama,8
-Tohono O'odham,Seneca,9
-Tohono O'odham,Western Apache,10
-Tok Pisin,Bislama,1
-Tok Pisin,Kinshasa Lingala,2
+Tohono O'odham,Western Apache,8
+Tohono O'odham,Alabama,9
+Tohono O'odham,Seneca,10
+Tok Pisin,Kinshasa Lingala,1
+Tok Pisin,Bislama,2
 Tok Pisin,Misima-Paneati,3
-Tok Pisin,Grass Koiari,4
-Tok Pisin,Haitian,5
+Tok Pisin,Haitian,4
+Tok Pisin,Grass Koiari,5
 Tok Pisin,Tokelau,6
 Tok Pisin,Larike-Wakasihu,7
 Tok Pisin,Sinaugoro,8
@@ -5271,8 +5261,8 @@ Tokelau,Kapingamarangi,9
 Tokelau,Chuukese,10
 Tonga,Rotuman,1
 Tonga,Samoan,2
-Tonga,Tokelau,3
-Tonga,Niuean,4
+Tonga,Niuean,3
+Tonga,Tokelau,4
 Tonga,Tuvalu,5
 Tonga,Tahitian,6
 Tonga,Maori,7
@@ -5296,26 +5286,26 @@ Trinidadian Creole English,Standard Malay,4
 Trinidadian Creole English,Maori,5
 Trinidadian Creole English,Beng,6
 Trinidadian Creole English,Sundanese,7
-Trinidadian Creole English,Besisi,8
-Trinidadian Creole English,Kalam,9
-Trinidadian Creole English,Lokono,10
+Trinidadian Creole English,Lokono,8
+Trinidadian Creole English,Besisi,9
+Trinidadian Creole English,Kalam,10
 Tsonga,Swati,1
 Tsonga,Kwangali,2
 Tsonga,Zigula-Mushungulu,3
 Tsonga,Kipsigis,4
 Tsonga,East Limba,5
 Tsonga,Ndau,6
-Tsonga,Karamojong,7
-Tsonga,Javanese,8
+Tsonga,Javanese,7
+Tsonga,Karamojong,8
 Tsonga,Bassa,9
 Tsonga,Ganda,10
 Tswana,Southern Sotho,1
-Tswana,Ganda,2
-Tswana,Mbukushu,3
-Tswana,Zulu,4
+Tswana,Zulu,2
+Tswana,Ganda,3
+Tswana,Mbukushu,4
 Tswana,Xhosa,5
-Tswana,Lamba,6
-Tswana,Zigula-Mushungulu,7
+Tswana,Zigula-Mushungulu,6
+Tswana,Lamba,7
 Tswana,Zande,8
 Tswana,Ndau,9
 Tswana,Giryama,10
@@ -5336,8 +5326,8 @@ Tulu,Tamil,4
 Tulu,Malayalam,5
 Tulu,Maithili,6
 Tulu,Kashmiri,7
-Tulu,Eastern Panjabi,8
-Tulu,Mundari,9
+Tulu,Mundari,8
+Tulu,Eastern Panjabi,9
 Tulu,Hindi,10
 Tumulung Sisaala,Gikyode,1
 Tumulung Sisaala,Buli,2
@@ -5357,14 +5347,14 @@ Tunica,Koasati,5
 Tunica,Yana,6
 Tunica,Coast Miwok,7
 Tunica,Northeast Maidu,8
-Tunica,Zuni,9
-Tunica,Western Victoria,10
+Tunica,Ute-Southern Paiute,9
+Tunica,Zuni,10
 Turkana,Kipsigis,1
 Turkana,Slovak,2
 Turkana,Swati,3
 Turkana,Kwangali,4
-Turkana,Kinyarwanda,5
-Turkana,Kuanyama,6
+Turkana,Kuanyama,5
+Turkana,Kinyarwanda,6
 Turkana,Sicilian,7
 Turkana,Tsonga,8
 Turkana,Georgian,9
@@ -5377,16 +5367,16 @@ Turkish,North Azerbaijani,5
 Turkish,Eastern Armenian,6
 Turkish,Urdu,7
 Turkish,Sindhi,8
-Turkish,Hindustani,9
-Turkish,Portuguese,10
+Turkish,Portuguese,9
+Turkish,Hindustani,10
 Turkmen,Northern Uzbek,1
 Turkmen,Kirghiz,2
 Turkmen,Moroccan Arabic,3
 Turkmen,Sanaani Arabic,4
 Turkmen,Gulf Arabic,5
 Turkmen,Pedi,6
-Turkmen,Vietnamese,7
-Turkmen,Levantine Arabic,8
+Turkmen,Levantine Arabic,7
+Turkmen,Vietnamese,8
 Turkmen,Nepali,9
 Turkmen,Uighur,10
 Tuvalu,Tokelau,1
@@ -5397,22 +5387,22 @@ Tuvalu,Chuukese,5
 Tuvalu,Tahitian,6
 Tuvalu,Mokilese,7
 Tuvalu,Marshallese,8
-Tuvalu,Carolinian,9
-Tuvalu,Kapingamarangi,10
+Tuvalu,Kapingamarangi,9
+Tuvalu,Carolinian,10
 Tuvinian,Gaam,1
 Tuvinian,Chadian Arabic,2
 Tuvinian,Shekkacho,3
 Tuvinian,Central Kurdish,4
 Tuvinian,Tangale,5
 Tuvinian,Ute-Southern Paiute,6
-Tuvinian,Breton,7
-Tuvinian,Palula,8
-Tuvinian,Western Frisian,9
-Tuvinian,Media Lengua,10
+Tuvinian,Palula,7
+Tuvinian,Breton,8
+Tuvinian,Media Lengua,9
+Tuvinian,Western Frisian,10
 Tuwali Ifugao,Ao Naga,1
 Tuwali Ifugao,Sundanese,2
-Tuwali Ifugao,Kurukh,3
-Tuwali Ifugao,Central Bontoc,4
+Tuwali Ifugao,Central Bontoc,3
+Tuwali Ifugao,Kurukh,4
 Tuwali Ifugao,Nyanja,5
 Tuwali Ifugao,Tboli,6
 Tuwali Ifugao,Ho,7
@@ -5442,30 +5432,30 @@ Tzotzil,Cahuilla,10
 Uighur,Kazakh,1
 Uighur,North Azerbaijani,2
 Uighur,Tibetan,3
-Uighur,Halh Mongolian,4
-Uighur,Northern Uzbek,5
+Uighur,Northern Uzbek,4
+Uighur,Halh Mongolian,5
 Uighur,Central Khmer,6
 Uighur,Central Kurdish,7
 Uighur,Lao,8
-Uighur,Kirghiz,9
-Uighur,Turkmen,10
+Uighur,Turkmen,9
+Uighur,Kirghiz,10
 Ukrainian,Russian,1
 Ukrainian,Latvian,2
 Ukrainian,Hungarian,3
 Ukrainian,Polish,4
 Ukrainian,Czech,5
 Ukrainian,Lithuanian,6
-Ukrainian,Danish,7
-Ukrainian,Swedish,8
-Ukrainian,Slovak,9
-Ukrainian,German,10
+Ukrainian,Finnish,7
+Ukrainian,Danish,8
+Ukrainian,Swedish,9
+Ukrainian,Slovak,10
 Ulster,Scots,1
 Ulster,South Yorkshire English,2
 Ulster,Devon,3
 Ulster,Sussex,4
 Ulster,Essex,5
-Ulster,Plautdietsch,6
-Ulster,Wiltshire-Hampshire,7
+Ulster,Wiltshire-Hampshire,6
+Ulster,Plautdietsch,7
 Ulster,Midland American English,8
 Ulster,Breton,9
 Ulster,Manx,10
@@ -5473,19 +5463,19 @@ Unami,Northwestern Ojibwa,1
 Unami,Chippewa,2
 Unami,Mískito,3
 Unami,Powhatan,4
-Unami,Kalispel-Pend d'Oreille,5
-Unami,Atakapa,6
-Unami,Pidgin Chinook Jargon,7
-Unami,Huron-Wyandot,8
-Unami,Adyghe,9
+Unami,Atakapa,5
+Unami,Kalispel-Pend d'Oreille,6
+Unami,West Circassian,7
+Unami,Pidgin Chinook Jargon,8
+Unami,Huron-Wyandot,9
 Unami,Choctaw,10
 Upper Chehalis,Squamish,1
 Upper Chehalis,Bella Coola,2
 Upper Chehalis,Shoshoni,3
 Upper Chehalis,Kwak'wala,4
 Upper Chehalis,Cahuilla,5
-Upper Chehalis,Eastern Ojibwa,6
-Upper Chehalis,Northwest Sahaptin,7
+Upper Chehalis,Northwest Sahaptin,6
+Upper Chehalis,Eastern Ojibwa,7
 Upper Chehalis,Tonkawa,8
 Upper Chehalis,Aleut,9
 Upper Chehalis,Coast Miwok,10
@@ -5504,11 +5494,11 @@ Urak Lawoi',Bassa,2
 Urak Lawoi',Yapese,3
 Urak Lawoi',Tetum,4
 Urak Lawoi',Kalamang,5
-Urak Lawoi',Balinese,6
-Urak Lawoi',Larike-Wakasihu,7
-Urak Lawoi',Garifuna,8
-Urak Lawoi',Mon,9
-Urak Lawoi',Roviana,10
+Urak Lawoi',Larike-Wakasihu,6
+Urak Lawoi',Mon,7
+Urak Lawoi',Balinese,8
+Urak Lawoi',Roviana,9
+Urak Lawoi',Garifuna,10
 Urdu,Hindustani,1
 Urdu,Sindhi,2
 Urdu,Western Farsi,3
@@ -5516,42 +5506,42 @@ Urdu,Northern Pashto,4
 Urdu,Eastern Panjabi,5
 Urdu,Hindi,6
 Urdu,Telugu,7
-Urdu,Malayalam,8
-Urdu,Bengali,9
+Urdu,Bengali,8
+Urdu,Malayalam,9
 Urdu,Marathi,10
 Urhobo,Izon,1
 Urhobo,Esan,2
 Urhobo,Igbo,3
 Urhobo,Tee,4
 Urhobo,Bini,5
-Urhobo,Abua,6
-Urhobo,Ga,7
-Urhobo,Tangale,8
-Urhobo,Nzima,9
+Urhobo,Ga,6
+Urhobo,Abua,7
+Urhobo,Nzima,8
+Urhobo,Tangale,9
 Urhobo,Liberia Kpelle,10
 Uripiv,Nafsan,1
 Uripiv,Lenakel,2
 Uripiv,Yabem,3
 Uripiv,Awa,4
 Uripiv,To'abaita,5
-Uripiv,Sie,6
-Uripiv,Lonwolwol,7
+Uripiv,Lonwolwol,6
+Uripiv,Sie,7
 Uripiv,Kwamera,8
 Uripiv,Äiwoo,9
 Uripiv,Paama,10
-Ute-Southern Paiute,Seneca,1
-Ute-Southern Paiute,Comanche,2
+Ute-Southern Paiute,Comanche,1
+Ute-Southern Paiute,Seneca,2
 Ute-Southern Paiute,Cherokee,3
 Ute-Southern Paiute,Zuni,4
 Ute-Southern Paiute,Classical Nahuatl,5
 Ute-Southern Paiute,Rendille,6
-Ute-Southern Paiute,Yaqui,7
-Ute-Southern Paiute,Tunica,8
+Ute-Southern Paiute,Tunica,7
+Ute-Southern Paiute,Yaqui,8
 Ute-Southern Paiute,Tohono O'odham,9
 Ute-Southern Paiute,Central Carrier,10
 Venda,Xhosa,1
-Venda,Lozi,2
-Venda,Zulu,3
+Venda,Zulu,2
+Venda,Lozi,3
 Venda,Mambwe-Lungu,4
 Venda,Bemba,5
 Venda,Ndonga,6
@@ -5562,8 +5552,8 @@ Venda,Yao,10
 Vietnamese,Korean,1
 Vietnamese,Standard Indonesian,2
 Vietnamese,Japanese,3
-Vietnamese,Romanian,4
-Vietnamese,Burmese,5
+Vietnamese,Burmese,4
+Vietnamese,Romanian,5
 Vietnamese,Mandarin Chinese,6
 Vietnamese,Estonian,7
 Vietnamese,Filipino,8
@@ -5587,8 +5577,8 @@ Wampanoag,Ipai,5
 Wampanoag,Cheyenne,6
 Wampanoag,Eastern Canadian Inuktitut,7
 Wampanoag,Efik,8
-Wampanoag,Western Apache,9
-Wampanoag,Klamath-Modoc,10
+Wampanoag,Klamath-Modoc,9
+Wampanoag,Western Apache,10
 Wampar,Kómnjo,1
 Wampar,Terei,2
 Wampar,Angguruk Yali,3
@@ -5597,8 +5587,8 @@ Wampar,Sinaugoro,5
 Wampar,Gedaged,6
 Wampar,Fuyug,7
 Wampar,Nen,8
-Wampar,Telefol,9
-Wampar,Mali,10
+Wampar,Mali,9
+Wampar,Telefol,10
 Wandarang,Ritharrngu,1
 Wandarang,Ngandi,2
 Wandarang,Wubuy,3
@@ -5618,7 +5608,7 @@ Warao,Liberia Kpelle,6
 Warao,Kinshasa Lingala,7
 Warao,Besisi,8
 Warao,Larike-Wakasihu,9
-Warao,Bafanji,10
+Warao,Jehai,10
 Waray,Maranao,1
 Waray,Iloko,2
 Waray,Chamorro,3
@@ -5647,8 +5637,8 @@ Warlpiri,Ngalkbun,5
 Warlpiri,Jingulu,6
 Warlpiri,Martu Wangka,7
 Warlpiri,Tiwi,8
-Warlpiri,Mudburra,9
-Warlpiri,Wik-Mungkan,10
+Warlpiri,Wik-Mungkan,9
+Warlpiri,Mudburra,10
 Welsh,Irish,1
 Welsh,Scottish Gaelic,2
 Welsh,Manx,3
@@ -5675,10 +5665,20 @@ West Central Oromo,Chantyal,3
 West Central Oromo,Buli,4
 West Central Oromo,Iraqw,5
 West Central Oromo,Tumulung Sisaala,6
-West Central Oromo,Ndonga,7
-West Central Oromo,Luo,8
-West Central Oromo,Anufo,9
+West Central Oromo,Luo,7
+West Central Oromo,Anufo,8
+West Central Oromo,Ndonga,9
 West Central Oromo,Nandi,10
+West Circassian,Javanese,1
+West Circassian,Unami,2
+West Circassian,Dzongkha,3
+West Circassian,Leh Ladakhi,4
+West Circassian,Tuvinian,5
+West Circassian,Haitian,6
+West Circassian,Belarusian,7
+West Circassian,Western Neo-Aramaic,8
+West Circassian,Chadian Arabic,9
+West Circassian,Goan Konkani,10
 West Kewa,Telefol,1
 West Kewa,Terei,2
 West Kewa,Kalam,3
@@ -5702,9 +5702,9 @@ Western Abenaki,Cheyenne,10
 Western Apache,Jicarilla Apache,1
 Western Apache,Havasupai-Walapai-Yavapai,2
 Western Apache,Tohono O'odham,3
-Western Apache,Cheyenne,4
-Western Apache,Malecite-Passamaquoddy,5
-Western Apache,Ipai,6
+Western Apache,Malecite-Passamaquoddy,4
+Western Apache,Ipai,5
+Western Apache,Cheyenne,6
 Western Apache,Navajo,7
 Western Apache,Yaqui,8
 Western Apache,Western Abenaki,9
@@ -5743,8 +5743,8 @@ Western Flemish,Dutch,1
 Western Flemish,Belarusian,2
 Western Flemish,Eastern Armenian,3
 Western Flemish,Cornish,4
-Western Flemish,Galician,5
-Western Flemish,Hungarian,6
+Western Flemish,Hungarian,5
+Western Flemish,Galician,6
 Western Flemish,Polish,7
 Western Flemish,Serbian-Croatian-Bosnian,8
 Western Flemish,Portuguese,9
@@ -5759,26 +5759,26 @@ Western Frisian,Western Flemish,7
 Western Frisian,Upper Sorbian,8
 Western Frisian,Haitian,9
 Western Frisian,Slovenian,10
-Western Huasteca Nahuatl,Yaqui,1
-Western Huasteca Nahuatl,Cayubaba,2
+Western Huasteca Nahuatl,Cayubaba,1
+Western Huasteca Nahuatl,Yaqui,2
 Western Huasteca Nahuatl,Central Tarahumara,3
 Western Huasteca Nahuatl,Warao,4
 Western Huasteca Nahuatl,K'iche',5
 Western Huasteca Nahuatl,Tohono O'odham,6
 Western Huasteca Nahuatl,Zuni,7
 Western Huasteca Nahuatl,Limbu,8
-Western Huasteca Nahuatl,Classical Nahuatl,9
-Western Huasteca Nahuatl,Mayan,10
+Western Huasteca Nahuatl,Mayan,9
+Western Huasteca Nahuatl,Yucatec Maya,10
 Western Neo-Aramaic,Central Kurdish,1
 Western Neo-Aramaic,Goan Konkani,2
 Western Neo-Aramaic,Classical Syriac,3
-Western Neo-Aramaic,Western Panjabi,4
-Western Neo-Aramaic,Breton,5
-Western Neo-Aramaic,Manx,6
+Western Neo-Aramaic,Manx,4
+Western Neo-Aramaic,Western Panjabi,5
+Western Neo-Aramaic,Breton,6
 Western Neo-Aramaic,Old English,7
 Western Neo-Aramaic,Northern Pashto,8
 Western Neo-Aramaic,Andalusian Arabic,9
-Western Neo-Aramaic,Adyghe,10
+Western Neo-Aramaic,West Circassian,10
 Western Ojibwa,Ipai,1
 Western Ojibwa,Western Abenaki,2
 Western Ojibwa,Malecite-Passamaquoddy,3
@@ -5798,17 +5798,17 @@ Western Panjabi,Beja,6
 Western Panjabi,Mahasu Pahari,7
 Western Panjabi,Judeo-Yemeni Arabic,8
 Western Panjabi,Tulu,9
-Western Panjabi,Sora,10
+Western Panjabi,Sadri,10
 Western Parbate Kham,Paiwan,1
 Western Parbate Kham,Yao,2
 Western Parbate Kham,Chantyal,3
 Western Parbate Kham,Chepang,4
-Western Parbate Kham,Tzotzil,5
-Western Parbate Kham,Limbu,6
+Western Parbate Kham,Limbu,5
+Western Parbate Kham,Tzotzil,6
 Western Parbate Kham,Nung,7
 Western Parbate Kham,Western Bukidnon Manobo,8
 Western Parbate Kham,Hmong Njua,9
-Western Parbate Kham,Rabha,10
+Western Parbate Kham,Nandi,10
 Western Temne,Akan,1
 Western Temne,Mískito,2
 Western Temne,Herero,3
@@ -5817,8 +5817,8 @@ Western Temne,Mayan,5
 Western Temne,Malayo,6
 Western Temne,East Limba,7
 Western Temne,Nupe-Nupe-Tako,8
-Western Temne,Mbukushu,9
-Western Temne,Kalispel-Pend d'Oreille,10
+Western Temne,Kalispel-Pend d'Oreille,9
+Western Temne,Mbukushu,10
 Western Tlacolula Valley Zapotec,Isthmus Zapotec,1
 Western Tlacolula Valley Zapotec,Ipai,2
 Western Tlacolula Valley Zapotec,Malecite-Passamaquoddy,3
@@ -5837,13 +5837,13 @@ Western Victoria,Wirangu,5
 Western Victoria,Yir-Yoront,6
 Western Victoria,Wubuy,7
 Western Victoria,Muruwari,8
-Western Victoria,Tunica,9
-Western Victoria,Bardi,10
+Western Victoria,Bardi,9
+Western Victoria,Tunica,10
 Wik-Mungkan,Kuku-Yalanji,1
 Wik-Mungkan,Mudburra,2
 Wik-Mungkan,Bardi,3
-Wik-Mungkan,Ngalkbun,4
-Wik-Mungkan,Muruwari,5
+Wik-Mungkan,Muruwari,4
+Wik-Mungkan,Ngalkbun,5
 Wik-Mungkan,Tiwi,6
 Wik-Mungkan,Yankunytjatjara,7
 Wik-Mungkan,Yir-Yoront,8
@@ -5853,8 +5853,8 @@ Wiltshire-Hampshire,Sussex,1
 Wiltshire-Hampshire,South Yorkshire English,2
 Wiltshire-Hampshire,Scots,3
 Wiltshire-Hampshire,Essex,4
-Wiltshire-Hampshire,Pennsylvania German,5
-Wiltshire-Hampshire,Devon,6
+Wiltshire-Hampshire,Devon,5
+Wiltshire-Hampshire,Pennsylvania German,6
 Wiltshire-Hampshire,Ulster,7
 Wiltshire-Hampshire,Louisiana Creole French,8
 Wiltshire-Hampshire,Eastern Balochi,9
@@ -5884,20 +5884,20 @@ Wolof,Chadian Arabic,2
 Wolof,Gambian Wolof,3
 Wolof,Mapun,4
 Wolof,Tausug,5
-Wolof,Yaqui,6
-Wolof,Mandinka,7
-Wolof,Anufo,8
+Wolof,Mandinka,6
+Wolof,Anufo,7
+Wolof,Yaqui,8
 Wolof,Alabama,9
 Wolof,Malacca-Batavia Portuguese Creole,10
 Wu Chinese,Baba Malay,1
 Wu Chinese,Tai Nüa,2
 Wu Chinese,Nung,3
-Wu Chinese,Uighur,4
-Wu Chinese,Ladino,5
+Wu Chinese,Ladino,4
+Wu Chinese,Uighur,5
 Wu Chinese,Malacca-Batavia Portuguese Creole,6
 Wu Chinese,Sembakung Murut,7
 Wu Chinese,Pampanga,8
-Wu Chinese,Aromanian,9
+Wu Chinese,Wolof,9
 Wu Chinese,Pangasinan,10
 Wubuy,Ngandi,1
 Wubuy,Ritharrngu,2
@@ -5954,8 +5954,8 @@ Yakan,Tboli,2
 Yakan,Tausug,3
 Yakan,Romblomanon,4
 Yakan,Mansaka,5
-Yakan,Muna,6
-Yakan,Maguindanao,7
+Yakan,Maguindanao,6
+Yakan,Muna,7
 Yakan,Mag-Anchi Ayta,8
 Yakan,Casiguran-Nagtipunan Agta,9
 Yakan,Yogad,10
@@ -5963,8 +5963,8 @@ Yana,Klamath-Modoc,1
 Yana,Seneca,2
 Yana,Northeast Maidu,3
 Yana,Coast Miwok,4
-Yana,Upper Chehalis,5
-Yana,Tonkawa,6
+Yana,Tonkawa,5
+Yana,Upper Chehalis,6
 Yana,Tunica,7
 Yana,Comanche,8
 Yana,Ho-Chunk,9
@@ -5990,8 +5990,8 @@ Yankunytjatjara,Kumbainggar,8
 Yankunytjatjara,Tiwi,9
 Yankunytjatjara,Muruwari,10
 Yao,Paiwan,1
-Yao,Tetum,2
-Yao,Akha,3
+Yao,Akha,2
+Yao,Tetum,3
 Yao,Western Bukidnon Manobo,4
 Yao,Central Bontoc,5
 Yao,Western Parbate Kham,6
@@ -6003,8 +6003,8 @@ Yapese,Mokilese,1
 Yapese,Pohnpeian,2
 Yapese,Kosraean,3
 Yapese,Chuukese,4
-Yapese,Carolinian,5
-Yapese,Kapingamarangi,6
+Yapese,Kapingamarangi,5
+Yapese,Carolinian,6
 Yapese,Palauan,7
 Yapese,Mele-Fila,8
 Yapese,Woleaian,9
@@ -6015,18 +6015,18 @@ Yaqui,Western Huasteca Nahuatl,3
 Yaqui,Alabama,4
 Yaqui,Cahuilla,5
 Yaqui,Comanche,6
-Yaqui,Zuni,7
-Yaqui,Northwest Sahaptin,8
+Yaqui,Northwest Sahaptin,7
+Yaqui,Zuni,8
 Yaqui,Navajo,9
-Yaqui,Tzotzil,10
+Yaqui,Koasati,10
 Yeyi,Mushungulu,1
 Yeyi,Pedi,2
 Yeyi,West Central Oromo,3
 Yeyi,Lozi,4
 Yeyi,Ndonga,5
-Yeyi,Venda,6
-Yeyi,Thao,7
-Yeyi,Arta,8
+Yeyi,Thao,6
+Yeyi,Arta,7
+Yeyi,Venda,8
 Yeyi,Yogad,9
 Yeyi,Lundayeh,10
 Yinggarda,Dhalandji,1
@@ -6066,18 +6066,18 @@ Yoruba,Ewe,4
 Yoruba,Tsonga,5
 Yoruba,Efik,6
 Yoruba,Bobangi,7
-Yoruba,Goan Konkani,8
-Yoruba,Kuanyama,9
-Yoruba,Igbo,10
+Yoruba,Kuanyama,8
+Yoruba,Goan Konkani,9
+Yoruba,Sicilian,10
 Yucatec Maya,Tzotzil,1
 Yucatec Maya,K'iche',2
 Yucatec Maya,Thao,3
 Yucatec Maya,Limbu,4
 Yucatec Maya,Koasati,5
 Yucatec Maya,Bolivar-North Chimborazo Highland Quichua,6
-Yucatec Maya,Central Tarahumara,7
-Yucatec Maya,Tetum,8
-Yucatec Maya,Iloko,9
+Yucatec Maya,Tetum,7
+Yucatec Maya,Iloko,8
+Yucatec Maya,Central Tarahumara,9
 Yucatec Maya,Paiwan,10
 Yue Chinese,Min Dong Chinese,1
 Yue Chinese,Beijing Mandarin,2
@@ -6100,9 +6100,9 @@ Yuwaalaraay-Gamilaraay,Western Victoria,8
 Yuwaalaraay-Gamilaraay,Muruwari,9
 Yuwaalaraay-Gamilaraay,Kuku-Yalanji,10
 Yámana,Squamish,1
-Yámana,Lakota,2
-Yámana,Mangareva,3
-Yámana,Eastern Ojibwa,4
+Yámana,Mangareva,2
+Yámana,Eastern Ojibwa,3
+Yámana,Lakota,4
 Yámana,Arosi,5
 Yámana,Kalispel-Pend d'Oreille,6
 Yámana,Mota,7
@@ -6120,15 +6120,15 @@ Zande,Luo,8
 Zande,Nandi,9
 Zande,Bassa,10
 Zigula-Mushungulu,Bassa,1
-Zigula-Mushungulu,East Limba,2
-Zigula-Mushungulu,Ganda,3
-Zigula-Mushungulu,Ndau,4
+Zigula-Mushungulu,Ndau,2
+Zigula-Mushungulu,East Limba,3
+Zigula-Mushungulu,Ganda,4
 Zigula-Mushungulu,Ha,5
 Zigula-Mushungulu,Tsonga,6
 Zigula-Mushungulu,Tswana,7
 Zigula-Mushungulu,Lamba,8
 Zigula-Mushungulu,Zande,9
-Zigula-Mushungulu,Giryama,10
+Zigula-Mushungulu,Karamojong,10
 Zulu,Xhosa,1
 Zulu,Venda,2
 Zulu,Ndonga,3
@@ -6145,8 +6145,8 @@ Zuni,Seneca,3
 Zuni,Yaqui,4
 Zuni,Havasupai-Walapai-Yavapai,5
 Zuni,Tunica,6
-Zuni,Tohono O'odham,7
-Zuni,Tonkawa,8
+Zuni,Tonkawa,7
+Zuni,Tohono O'odham,8
 Zuni,Cahuilla,9
 Zuni,Coast Miwok,10
 Äiwoo,Nafsan,1
