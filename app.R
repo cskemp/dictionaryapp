@@ -1,34 +1,13 @@
 library(shiny)
-library(tidyverse)
+library(dplyr)
+library(forcats)
+library(ggplot2)
 library(here)
-library(ggrepel)
 library(maps)
 library(sf)
 library(stringr)
 
-nterms <- 2000
-
-# on local machine can use bila_app_stats_6000.csv.gz
-# if so change nterms above
-
-# use uncompressed file when deploying to shinyapps.io
-plo <- read_csv(here("data", "bila_app_stats_2000.csv")) %>%
-  arrange(langname) %>%
-  arrange(word)
-
-nns <- read_csv(here("data", "bila_app_nn_2000.csv")) %>%
-  mutate(i = -i)
-
-nls <- read_csv(here("data", "bila_app_nl.csv"))
-
-top_thresh <- quantile(plo$zeta, probs = c(0.95))
-
-posns <- plo %>%
-  select(glottocode, longitude, latitude) %>%
-  mutate(longitude = if_else(longitude > 180, longitude - 360, longitude)) %>%
-  unique()
-
-world <- map_data("world")
+global_data <- readRDS(here("data", "preprocessed_app_data.rds"))
 
 chartheme <-  theme_classic(base_size = 12)  +
   theme(strip.background = element_blank())
@@ -36,12 +15,16 @@ chartheme <-  theme_classic(base_size = 12)  +
 theme_set(chartheme)
 
 ui = fluidPage(
-
   fluidRow(
-    column(6, selectizeInput("word", "Choose a concept:", choices = NULL, options= list(maxOptions = nterms))),
-    column(6, selectizeInput("language", "Choose a language:", choices = NULL, options= list(maxOptions = nterms)))
+    column(6, selectizeInput("word", "Choose a concept:",
+                             choices = global_data$words,
+                             options = list(
+                               placeholder = 'Select a concept',
+                               maxItems = 1,
+                               maxOptions = 5999
+                             ))),
+    column(6, selectInput("language", "Choose a language:", choices = global_data$languages))
   ),
-
   fluidRow(
     column(6,
            div(style = "height:350px;",
@@ -84,14 +67,116 @@ ui = fluidPage(
 )
 
 server <- function(input, output, session) {
-  observe({updateSelectizeInput(session, 'word', choices = unique(plo$word), server = TRUE) })
-  observe({updateSelectizeInput(session, 'language', choices = unique(plo$langname), server = TRUE) })
+
+  # Reactive data preparation functions
+  get_word_data <- reactive({
+    req(input$word)
+    global_data$plo %>%
+      filter(word == input$word) %>%
+      arrange(desc(zeta)) %>%
+      head(n = 20) %>%
+      mutate(langname = fct_reorder(langname, desc(zeta))) %>%
+      mutate(barcolor = if_else(top_flag, "#CC79A7", "grey30"))
+  })
+
+  get_word_map_data <- reactive({
+    req(input$word)
+    global_data$plo %>%
+      filter(word == input$word) %>%
+      filter(top_flag) %>%
+      select(-latitude, -longitude) %>%
+      left_join(global_data$posns, by = c("glottocode"))
+  })
+
+  get_language_data <- reactive({
+    req(input$language)
+    global_data$plo %>%
+      filter(langname == input$language) %>%
+      arrange(desc(zeta)) %>%
+      head(n = 20) %>%
+      mutate(word = fct_reorder(word, desc(zeta)))
+  })
+
+  get_language_map_data <- reactive({
+    req(input$language)
+    global_data$plo %>%
+      filter(langname == input$language) %>%
+      select(glottocode) %>%
+      left_join(global_data$posns, by = c("glottocode"))
+  })
+
+  get_nn_data <- reactive({
+    req(input$word)
+    print(input$word)
+    global_data$nns %>%
+        filter(word == input$word)
+  })
+
+  get_nl_data <- reactive({
+    req(input$language)
+    global_data$nls %>%
+        filter(langs== input$language)
+  })
+
+
+  output$lang_strength_plot <- renderPlot({
+    selected_char <- get_word_data()
+
+    ggplot(selected_char, aes(x = langname, y = zeta, label = glottocode)) +
+      geom_bar(stat = "identity", aes(fill = barcolor, color = barcolor)) +
+      scale_fill_identity() +
+      scale_color_identity() +
+      scale_x_discrete(labels = selected_char$langname) +
+      theme(plot.title = element_text(hjust = 0.4, size = 14)) +
+      labs(x = "Language", y = "Score", title = paste("Top scores for", input$word)) +
+      coord_flip()
+  })
+
+  output$world_map <- renderPlot({
+    focal_posns <- get_word_map_data()
+
+    ggplot() +
+      geom_map(data = global_data$world, map = global_data$world,
+               aes(long, lat, map_id = region),
+               color = "white", fill = "gray95", size = 0.1) +
+      coord_sf(xlim = c(-180, 180), ylim = c(-55, 80)) +
+      geom_point(data = global_data$posns, aes(longitude, latitude), color = "grey60", size = 0.8) +
+      geom_point(data = focal_posns, aes(longitude, latitude), color = "#A52A6C", size = 1.8) +
+      theme_void() +
+      theme(legend.position = "none",
+            plot.title = element_text(hjust = 0.5, size = 14)) +
+      labs(title = paste("Top languages for", input$word))
+  })
+
+  output$lang_strength_plot2 <- renderPlot({
+    selected_char <- get_language_data()
+
+    ggplot(selected_char, aes(x = word, y = zeta, label = word)) +
+      geom_bar(stat = "identity", fill = "#add8e6", color = "#add8e6") +
+      scale_x_discrete(labels = selected_char$word) +
+      theme(plot.title = element_text(hjust = 0.4, size = 14)) +
+      labs(x = "Concept", y = "Score", title = paste("Top scores for", input$language)) +
+      coord_flip()
+  })
+
+  output$language_map <- renderPlot({
+    lang_posns <- get_language_map_data()
+
+    ggplot() +
+      geom_map(data = global_data$world, map = global_data$world,
+               aes(long, lat, map_id = region),
+               color = "white", fill = "gray95", size = 0.1) +
+      coord_sf(xlim = c(-180, 180), ylim = c(-55, 80)) +
+      geom_point(data = global_data$posns, aes(longitude, latitude), color = "grey60", size = 0.8) +
+      geom_point(data = lang_posns, aes(longitude, latitude), color = "#2E6DB6", size = 2) +
+      theme_void() +
+      theme(legend.position = "none",
+            plot.title = element_text(hjust = 0.5, size = 14)) +
+      labs(title = paste("Location of", input$language))
+  })
 
   output$nn_plot <- renderPlot({
-    if (length(input$word) > 0 && input$word != '') {  # Don't plot until a word is selected
-      this_nns <- nns %>%
-        filter(word == input$word)
-
+      this_nns <- get_nn_data()
       words_text <- paste(this_nns$neighbour, collapse = ", ")
       wrapped_words <- str_wrap(words_text, width = 60)
 
@@ -100,95 +185,10 @@ server <- function(input, output, session) {
         theme_void(base_size = 12) +
         theme(plot.title = element_text(hjust = 0.5, size = 16)) +
         labs(title = paste("Concepts related to", input$word))
-    }
-  })
-
-  output$lang_strength_plot<- renderPlot({
-    if (length(input$word) > 0 && input$word != '') {
-      selected_char <- plo %>%
-        filter(word == input$word) %>%
-        arrange(desc(zeta)) %>%
-        mutate(cutoff = quantile(zeta, 0.95)) %>%
-        head(n=20) %>%
-        mutate(langname = fct_reorder(langname, desc(zeta))) %>%
-        mutate(barcolor = if_else(zeta > cutoff, "#CC79A7", "grey30"))
-
-      ggplot(selected_char, aes(x = langname, y = zeta, label = glottocode)) +
-        geom_bar(stat="identity", aes(fill = barcolor, color = barcolor)) +
-        scale_fill_identity() +
-        scale_color_identity() +
-        scale_x_discrete(labels = selected_char$langname) +
-        labs(x = "Language", y = "Score", title = paste("Top scores for", input$word)) +
-        theme(plot.title = element_text(hjust = 0.4, size = 16))  +
-        coord_flip()
-    }
-  })
-
-  output$world_map<- renderPlot({
-    if (length(input$word) > 0 && input$word!= '') {
-      focal_posns <- plo %>%
-        filter(word == input$word) %>%
-        arrange(desc(zeta)) %>%
-        mutate(cutoff = quantile(zeta, 0.95)) %>%
-        filter(zeta > cutoff) %>%
-        select(-latitude, -longitude) %>%
-        left_join(posns, by = c("glottocode"))
-
-      ggplot() +
-        geom_map(data = world, map = world, aes(long, lat, map_id = region),
-                 color = "white", fill = "gray95", size = 0.1) +
-        coord_sf(xlim = c(-180, 180), ylim=c(-55, 80)) +
-        geom_point(data = posns, aes(longitude, latitude), color = "grey60", size = 0.8) +
-        geom_point(data = focal_posns, aes(longitude, latitude), color = "#A52A6C", size = 1.8) +
-        theme_void() +
-        theme(legend.position = "none",
-              plot.title = element_text(hjust = 0.5, size = 16))  +
-        labs(title = paste("Locations of top-scoring languages for", input$word))
-    }
-  })
-
-  output$lang_strength_plot2<- renderPlot({
-    if (length(input$language) > 0 && input$language!= '') {
-      selected_char <- plo %>%
-        filter(langname == input$language) %>%
-        arrange(desc(zeta)) %>%
-        head(n=20) %>%
-        mutate(word = fct_reorder(word, desc(zeta)))
-
-      ggplot(selected_char, aes(x = word, y = zeta, label = word)) +
-        geom_bar(stat="identity", fill = "#add8e6", color ="#add8e6") +
-        scale_x_discrete(labels = selected_char$word) +
-        labs(x = "Concept", y = "Score", title = paste("Top scores for", input$language)) +
-        theme(plot.title = element_text(hjust = 0.4, size = 16))  +
-        coord_flip()
-    }
-  })
-
-  output$language_map <- renderPlot({
-    if (length(input$language) > 0 && input$language != '') {
-      lang_posns <- plo %>%
-        filter(langname == input$language) %>%
-        select(glottocode) %>%
-        left_join(posns, by = c("glottocode"))
-
-      ggplot() +
-        geom_map(data = world, map = world, aes(long, lat, map_id = region),
-                 color = "white", fill = "gray95", size = 0.1) +
-        coord_sf(xlim = c(-180, 180), ylim = c(-55, 80)) +
-        geom_point(data = posns, aes(longitude, latitude), color = "grey60", size = 0.8) +
-        geom_point(data = lang_posns, aes(longitude, latitude), color = "#2E6DB6", size = 2) +
-        theme_void() +
-        theme(legend.position = "none",
-              plot.title = element_text(hjust = 0.5, size = 16)) +
-        labs(title = paste("Location of", input$language))
-    }
   })
 
   output$nl_plot <- renderPlot({
-    if (length(input$language) > 0 && input$language != '') {  # Don't plot until a language is selected
-      this_nls <- nls %>%
-        filter(langs == input$language)
-
+      this_nls <- get_nl_data()
       words_text <- paste(this_nls$neighbour, collapse = ", ")
       wrapped_words <- str_wrap(words_text, width = 60)
 
@@ -197,7 +197,6 @@ server <- function(input, output, session) {
         theme_void(base_size = 12) +
         theme(plot.title = element_text(hjust = 0.5, size = 16)) +
         labs(title = paste("Languages related to", input$language))
-    }
   })
 }
 
