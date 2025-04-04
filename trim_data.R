@@ -1,4 +1,4 @@
-library(readr)
+library(tidyverse)
 library(here)
 library(dplyr)
 library(maps)
@@ -37,11 +37,28 @@ posns <- plo %>%
 # Get world map data
 world <- map_data("world")
 
+wrap_words <- function(topterms) {
+  words_text <- paste(topterms$neighbour, collapse = ", ")
+  wrapped_words <- str_wrap(words_text, width = 60)
+  return(wrapped_words)
+}
+
 # Get nns and nls
 nns <- read_csv(here("data", "bila_app_nn_6000.csv")) %>%
-  mutate(i = -i)
+  mutate(i = -i)  %>%
+  group_by(word) %>%
+  nest()  %>%
+  mutate(top_cases = map_chr(data, wrap_words)) %>%
+  select(-data) %>%
+  ungroup()
 
-nls <- read_csv(here("data", "bila_app_nl.csv"))
+nls <- read_csv(here("data", "bila_app_nl.csv")) %>%
+  group_by(langs) %>%
+  nest()  %>%
+  mutate(top_cases = map_chr(data, wrap_words)) %>%
+  select(-data) %>%
+  ungroup()
+
 
 # Create the final list
 app_data <- list(

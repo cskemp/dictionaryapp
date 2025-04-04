@@ -5,7 +5,6 @@ library(ggplot2)
 library(here)
 library(maps)
 library(sf)
-library(stringr)
 
 global_data <- readRDS(here("data", "preprocessed_app_data.rds"))
 
@@ -15,6 +14,14 @@ chartheme <-  theme_classic(base_size = 12)  +
 theme_set(chartheme)
 
 ui = fluidPage(
+  tags$head(
+    tags$style(HTML("
+      .col-sm-6 {
+        float: left !important;
+        width: 50% !important;
+      }
+    "))
+  ),
   fluidRow(
     column(6, selectizeInput("word", "Choose a concept:",
                              choices = global_data$words,
@@ -27,12 +34,12 @@ ui = fluidPage(
   ),
   fluidRow(
     column(6,
-           div(style = "height:350px;",
+           div(style = "height:300px;",
                plotOutput("lang_strength_plot", height = "100%")
            )
     ),
     column(6,
-           div(style = "height:350px;",
+           div(style = "height:300px;",
                plotOutput("lang_strength_plot2", height = "100%")
            )
     )
@@ -41,12 +48,12 @@ ui = fluidPage(
   # Third row: Maps
   fluidRow(
     column(6,
-           div(style = "height:300px;",
+           div(style = "height:250px;",
                plotOutput("world_map", height = "100%")
            )
     ),
     column(6,
-           div(style = "height:300px;",
+           div(style = "height:250px;",
                plotOutput("language_map", height = "100%")
            )
     )
@@ -107,7 +114,6 @@ server <- function(input, output, session) {
 
   get_nn_data <- reactive({
     req(input$word)
-    print(input$word)
     global_data$nns %>%
         filter(word == input$word)
   })
@@ -177,25 +183,21 @@ server <- function(input, output, session) {
 
   output$nn_plot <- renderPlot({
       this_nns <- get_nn_data()
-      words_text <- paste(this_nns$neighbour, collapse = ", ")
-      wrapped_words <- str_wrap(words_text, width = 60)
 
       ggplot() +
-        annotate("text", x = 0.5, y = 0.5, label = wrapped_words, size = 5, hjust = 0.5) +  # Centered text
+        annotate("text", x = 0.5, y = 0.5, label = this_nns$top_cases, size = 4, hjust = 0.5) +  # Centered text
         theme_void(base_size = 12) +
-        theme(plot.title = element_text(hjust = 0.5, size = 16)) +
+        theme(plot.title = element_text(hjust = 0.5, size = 14)) +
         labs(title = paste("Concepts related to", input$word))
   })
 
   output$nl_plot <- renderPlot({
       this_nls <- get_nl_data()
-      words_text <- paste(this_nls$neighbour, collapse = ", ")
-      wrapped_words <- str_wrap(words_text, width = 60)
 
       ggplot() +
-        annotate("text", x = 0.5, y = 0.5, label = wrapped_words, size = 5, hjust = 0.5) +  # Centered text
+        annotate("text", x = 0.5, y = 0.5, label = this_nls$top_cases, size = 4, hjust = 0.5) +  # Centered text
         theme_void(base_size = 12) +
-        theme(plot.title = element_text(hjust = 0.5, size = 16)) +
+        theme(plot.title = element_text(hjust = 0.5, size = 14)) +
         labs(title = paste("Languages related to", input$language))
   })
 }
