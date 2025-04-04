@@ -9,10 +9,10 @@ data/bila_app_stats_2000.csv
 data/bila_app_stats_2000.csv.gz
 data/bila_app_stats_6000.csv.gz
 LICENSE
-renv/*
+renv
 renv.lock
 trim_data.R
-.Rproj.user/*
+.Rproj.user
 make_RDS.R
 OLD
 olddata

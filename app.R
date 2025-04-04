@@ -6,7 +6,7 @@ library(here)
 library(maps)
 library(sf)
 
-global_data <- readRDS(here("data", "preprocessed_app_data.rds"))
+global_data <- readRDS(here("preprocessed_app_data.rds"))
 
 chartheme <-  theme_classic(base_size = 12)  +
   theme(strip.background = element_blank())
@@ -188,7 +188,8 @@ server <- function(input, output, session) {
         annotate("text", x = 0.5, y = 0.5, label = this_nns$top_cases, size = 4, hjust = 0.5) +  # Centered text
         theme_void(base_size = 12) +
         theme(plot.title = element_text(hjust = 0.5, size = 14)) +
-        labs(title = paste("Concepts related to", input$word))
+        #labs(title = paste("Concepts related to", input$word))
+        labs(title = paste("Concepts with similar distributions"))
   })
 
   output$nl_plot <- renderPlot({
@@ -198,7 +199,8 @@ server <- function(input, output, session) {
         annotate("text", x = 0.5, y = 0.5, label = this_nls$top_cases, size = 4, hjust = 0.5) +  # Centered text
         theme_void(base_size = 12) +
         theme(plot.title = element_text(hjust = 0.5, size = 14)) +
-        labs(title = paste("Languages related to", input$language))
+        #labs(title = paste("Languages related to", input$language))
+        labs(title = paste("Languages with similar distributions"))
   })
 }
 

@@ -72,5 +72,5 @@ app_data <- list(
 )
 
 # Save as RDS
-saveRDS(app_data, file = here("data", "preprocessed_app_data.rds"))
+saveRDS(app_data, file = here("preprocessed_app_data.rds"))
 
